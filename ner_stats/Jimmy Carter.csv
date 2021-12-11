@@ -1,0 +1,5840 @@
+,ent,ent_label
+0,Edwin Newman,PERSON
+1,first,ORDINAL
+2,1976,DATE
+3,Gerald R. Ford,PERSON
+4,Michigan,GPE
+5,Republican,NORP
+6,Jimmy Carter,PERSON
+7,Georgia,GPE
+8,Democratic,NORP
+9,Ford,PERSON
+10,Carter,PERSON
+11,tonight,TIME
+12,three,CARDINAL
+13,one,CARDINAL
+14,the League of Women Voters Education Fund,ORG
+15,Tonight,TIME
+16,first,ORDINAL
+17,16 years,DATE
+18,first,ORDINAL
+19,the Walnut Street Theatre,ORG
+20,Philadelphia,GPE
+21,3,CARDINAL
+22,Independence Hall,FAC
+23,100 million,CARDINAL
+24,the United States,GPE
+25,many millions,CARDINAL
+26,Tonight,TIME
+27,Frank Reynolds,PERSON
+28,ABC News,ORG
+29,James Gannon,PERSON
+30,the Wall Street Journal,ORG
+31,Elizabeth Drew,PERSON
+32,the New Yorker,ORG
+33,first,ORDINAL
+34,Carter,PERSON
+35,up to 3 minutes,TIME
+36,One,CARDINAL
+37,up to 2 minutes,TIME
+38,Ford,PERSON
+39,2 minutes,TIME
+40,Ford,PERSON
+41,3-minute,TIME
+42,Carter,PERSON
+43,first,ORDINAL
+44,Ford,PERSON
+45,Carter,PERSON
+46,this evening,TIME
+47,Reynolds,PERSON
+48,Carter,PERSON
+49,REYNOLDS,ORG
+50,Carter,PERSON
+51,the Associated Press,ORG
+52,last week,DATE
+53,one,CARDINAL
+54,any year,DATE
+55,number one,CARDINAL
+56,first,ORDINAL
+57,next January,DATE
+58,First,ORDINAL
+59,the White House,ORG
+60,first,ORDINAL
+61,secondly,ORDINAL
+62,202,CARDINAL
+63,roughly 20 percent,PERCENT
+64,English,LANGUAGE
+65,40-percent,PERCENT
+66,CCC,ORG
+67,Civilian Conservation Corps]-type,ORG
+68,State,ORG
+69,3 percent,PERCENT
+70,about 4 to 6 percent,PERCENT
+71,around 5 percent,PERCENT
+72,REYNOLDS,ORG
+73,about 73 percent,PERCENT
+74,the Great Depression,EVENT
+75,Carter,PERSON
+76,Humphrey-Hawkins,PERSON
+77,Democratic,NORP
+78,$ 10 to $ 30 billion,MONEY
+79,each year,DATE
+80,the Federal Government,ORG
+81,five,CARDINAL
+82,six,CARDINAL
+83,today,DATE
+84,about a year ago,DATE
+85,$ 28 billion,MONEY
+86,three quarters,DATE
+87,one-quarter,DATE
+88,Gannon,PERSON
+89,Ford,PERSON
+90,Americans,NORP
+91,"up to $ 30,000",MONEY
+92,Treasury,ORG
+93,Gannon,PERSON
+94,$ 28 billion,MONEY
+95,25 percent,PERCENT
+96,American,NORP
+97,one,CARDINAL
+98,Congress,ORG
+99,$ 395 billion,MONEY
+100,$ 28 billion,MONEY
+101,Congress,ORG
+102,750,MONEY
+103,"1,000",MONEY
+104,four,CARDINAL
+105,"1,000",MONEY
+106,Congress,ORG
+107,$ 28 billion,MONEY
+108,Congress,ORG
+109,January of this year,DATE
+110,50-percent,PERCENT
+111,the last 10 years,DATE
+112,the United States,GPE
+113,about 11 percent,PERCENT
+114,half,CARDINAL
+115,5,CARDINAL
+116,5 1/2 percent,PERCENT
+117,Congress,ORG
+118,Congress,ORG
+119,$ 10 billion,MONEY
+120,750,MONEY
+121,"1,000",MONEY
+122,Congress,ORG
+123,Congress,ORG
+124,Congress,ORG
+125,Congress,ORG
+126,about $ 17 billion,MONEY
+127,Congress,ORG
+128,the White House,ORG
+129,day,DATE
+130,two,CARDINAL
+131,"about 1,500",CARDINAL
+132,Carter,PERSON
+133,Ford,PERSON
+134,25 percent,PERCENT
+135,only 1 percent,PERCENT
+136,over 50 percent,PERCENT
+137,the 14 percent,PERCENT
+138,Ford,PERSON
+139,first,ORDINAL
+140,August of 1974,DATE
+141,first,ORDINAL
+142,October,DATE
+143,$ 4.7 billion,MONEY
+144,the Great Depression,EVENT
+145,1940,DATE
+146,January of 1975,DATE
+147,$ 5.6 billion,MONEY
+148,$ 6 1/2 billion,MONEY
+149,December of 1975,DATE
+150,roughly $ 18 to $ 20 billion,MONEY
+151,Congress,ORG
+152,January of this year,DATE
+153,$ 10 billion,MONEY
+154,$ 6 billion,MONEY
+155,this coming January,DATE
+156,the Republican Party,ORG
+157,the late sixties,DATE
+158,Nixon,PERSON
+159,30 percent,PERCENT
+160,about 20 percent,PERCENT
+161,14 percent,PERCENT
+162,Republicans,NORP
+163,Drew,PERSON
+164,Carter,PERSON
+165,Carter,PERSON
+166,first,ORDINAL
+167,first,ORDINAL
+168,Johnson,PERSON
+169,Kennedy,PERSON
+170,the Vietnamese war,EVENT
+171,4-year,DATE
+172,4,CARDINAL
+173,House,ORG
+174,Senate,ORG
+175,$ 60 billion,MONEY
+176,fiscal year ' 81,DATE
+177,the last year,DATE
+178,$ 60 billion,MONEY
+179,American,NORP
+180,fiscal year ' 81,DATE
+181,the last year,DATE
+182,DREW,PERSON
+183,Congress,ORG
+184,4-percent,PERCENT
+185,$ 5 billion,MONEY
+186,1981,DATE
+187,about $ 85 to $ 100 billion,MONEY
+188,5 1/2 percent,PERCENT
+189,$ 60 billion,MONEY
+190,1981,DATE
+191,the Federal Government,ORG
+192,the Federal Government,ORG
+193,zero,CARDINAL
+194,4 years,DATE
+195,Georgia,GPE
+196,every year,DATE
+197,fiscal year 1981,DATE
+198,American,NORP
+199,Kennedy,PERSON
+200,Johnson,PERSON
+201,the Vietnam war,EVENT
+202,Ford,PERSON
+203,$ 60 billion,MONEY
+204,fiscal year 1981,DATE
+205,Carter,PERSON
+206,Democratic,NORP
+207,American,NORP
+208,Carter,PERSON
+209,today,DATE
+210,1969,DATE
+211,Republican,NORP
+212,10 million,CARDINAL
+213,Gannon,PERSON
+214,two,CARDINAL
+215,10 million,CARDINAL
+216,the last 8 years,DATE
+217,$ 60 billion,MONEY
+218,the Vietnam war,EVENT
+219,Reynolds,PERSON
+220,MR,GPE
+221,REYNOLDS,ORG
+222,Chicago,GPE
+223,"Some 14,000",CARDINAL
+224,"90,000",CARDINAL
+225,Nixon,PERSON
+226,Watergate,EVENT
+227,today,DATE
+228,Bicentennial Year,EVENT
+229,Vietnam,GPE
+230,Chicago,GPE
+231,September of 1974,DATE
+232,"About 14 to 15,000",CARDINAL
+233,Nixon,PERSON
+234,Nixon,PERSON
+235,the United States,GPE
+236,Vietnam,GPE
+237,two,CARDINAL
+238,Nixon,PERSON
+239,first,ORDINAL
+240,38,CARDINAL
+241,Southeast Asia,LOC
+242,Nixon,PERSON
+243,REYNOLDS,ORG
+244,"90,000",CARDINAL
+245,years,DATE
+246,Carter,PERSON
+247,September of 1974,DATE
+248,Carter,PERSON
+249,Ford,PERSON
+250,Nixon,PERSON
+251,the Supreme Court,ORG
+252,Amnesty,ORG
+253,2 years ago,DATE
+254,Ford,PERSON
+255,three,CARDINAL
+256,the Vietnam war,EVENT
+257,the Vietnam war,EVENT
+258,Gannon,PERSON
+259,Carter,PERSON
+260,the Federal Government,ORG
+261,about 200,CARDINAL
+262,"some 1,900",CARDINAL
+263,the Federal Government,ORG
+264,the Federal Government,ORG
+265,Gannon,PERSON
+266,Georgia,GPE
+267,Washington,GPE
+268,300,CARDINAL
+269,300,CARDINAL
+270,278,CARDINAL
+271,Washington,GPE
+272,White House,ORG
+273,Nixon,PERSON
+274,$ 3 1/2 million,MONEY
+275,the White House,ORG
+276,16,MONEY
+277,million,CARDINAL
+278,Republican,NORP
+279,Cabinet,ORG
+280,302,CARDINAL
+281,11,CARDINAL
+282,Sixty,CARDINAL
+283,Medicaid,ORG
+284,one,CARDINAL
+285,Medicare,ORG
+286,this past week,DATE
+287,20,CARDINAL
+288,the Federal Government,ORG
+289,about 3 years,DATE
+290,Georgia,GPE
+291,The last year,DATE
+292,a year before,DATE
+293,2-percent,PERCENT
+294,the last year,DATE
+295,84,CARDINAL
+296,Federal Government,ORG
+297,the Transportation Department,ORG
+298,about 25 percent,PERCENT
+299,Federal Government,ORG
+300,Washington,GPE
+301,13,CARDINAL
+302,Georgia,GPE
+303,Ford,PERSON
+304,Newman,PERSON
+305,the Bureau of Census,ORG
+306,yesterday,DATE
+307,the 4 years,DATE
+308,Carter,PERSON
+309,the State of Georgia,GPE
+310,over 50 percent,PERCENT
+311,Georgia,GPE
+312,over 25 percent,PERCENT
+313,the State of Georgia,GPE
+314,Governorship,ORG
+315,over 20 percent,PERCENT
+316,Carter,PERSON
+317,Busbee,PERSON
+318,Senate,ORG
+319,a few months ago,DATE
+320,Medicaid,ORG
+321,Carter,PERSON
+322,Georgia,GPE
+323,Medicaid,ORG
+324,Georgia,GPE
+325,the White House,ORG
+326,first,ORDINAL
+327,"40,000",CARDINAL
+328,some 2 years,DATE
+329,"11,000",CARDINAL
+330,White House,ORG
+331,roughly 540,CARDINAL
+332,about 485,CARDINAL
+333,White House,ORG
+334,Georgia,GPE
+335,Drew,PERSON
+336,DREW,PERSON
+337,Vail,GPE
+338,Republican,NORP
+339,five,CARDINAL
+340,Americans,NORP
+341,2 years,DATE
+342,$ 50 billion,MONEY
+343,Carter,PERSON
+344,the next few years,DATE
+345,Vail,GPE
+346,the last 2 years,DATE
+347,12 percent,PERCENT
+348,the last 24 months,DATE
+349,under 6 percent,PERCENT
+350,about 4 million,CARDINAL
+351,the last 17 months,DATE
+352,88 million,CARDINAL
+353,America,GPE
+354,today,DATE
+355,fiscal year 1978,DATE
+356,the next 10 years,DATE
+357,a billion and a half dollars,CARDINAL
+358,monthly,DATE
+359,the Federal Treasury,ORG
+360,the Federal Criminal Code,LAW
+361,a good many years,DATE
+362,Carter,PERSON
+363,$ 30 billion,MONEY
+364,the Federal Government,ORG
+365,"roughly $ 3,500 million",MONEY
+366,DREW,PERSON
+367,the next few years,DATE
+368,the additional $ 10 billion,MONEY
+369,Congress,ORG
+370,January of 1978,DATE
+371,1 year,DATE
+372,2 years,DATE
+373,Carter,PERSON
+374,this year,DATE
+375,6-percent,PERCENT
+376,last year,DATE
+377,the calendar year this year,DATE
+378,6 percent,PERCENT
+379,Carter,PERSON
+380,Democratic,NORP
+381,approximately 60,CARDINAL
+382,$ 100 billion,MONEY
+383,$ 200 billion,MONEY
+384,each year,DATE
+385,1978,DATE
+386,Carter,PERSON
+387,Ford,PERSON
+388,Republicans,NORP
+389,the last 3 months,DATE
+390,3 1/2 years,DATE
+391,Herbert Hoover,PERSON
+392,years ago,DATE
+393,John Kennedy,PERSON
+394,Ford,PERSON
+395,Nixon,PERSON
+396,last year,DATE
+397,$ 65 billion,MONEY
+398,8-year,DATE
+399,Johnson,PERSON
+400,Kennedy,PERSON
+401,"500,000",CARDINAL
+402,Americans,NORP
+403,today,DATE
+404,3 months ago,DATE
+405,Ford,PERSON
+406,2 years,DATE
+407,50-percent,PERCENT
+408,5 million,CARDINAL
+409,2 1/2 million,CARDINAL
+410,7 1/2 million,CARDINAL
+411,Nixon,PERSON
+412,four,CARDINAL
+413,Nixon,PERSON
+414,14-percent,PERCENT
+415,the last 2 years,DATE
+416,this last 2 years,DATE
+417,$ 120 billion,MONEY
+418,Ford,PERSON
+419,the last 8 years,DATE
+420,1968,DATE
+421,Ford,PERSON
+422,the last minute,TIME
+423,Reynolds,PERSON
+424,MR,GPE
+425,REYNOLDS,ORG
+426,Carter,PERSON
+427,Yesterday,DATE
+428,British Government,ORG
+429,Britain,GPE
+430,the Federal Energy Agency,ORG
+431,1973,DATE
+432,the Wall Street Journal,ORG
+433,112,CARDINAL
+434,the Federal Energy Agency,ORG
+435,American,NORP
+436,first,ORDINAL
+437,about 35 years,DATE
+438,Nixon,PERSON
+439,about 35 percent,PERCENT
+440,25 percent,PERCENT
+441,about 44 percent,PERCENT
+442,24 hours,TIME
+443,REYNOLDS,ORG
+444,Congress,ORG
+445,Republican,NORP
+446,Appalachian,NORP
+447,One,CARDINAL
+448,Washington,GPE
+449,Dow Chemical,ORG
+450,as much as 40 percent,PERCENT
+451,Ford,PERSON
+452,Carter,PERSON
+453,January of 1975,DATE
+454,Congress,ORG
+455,American,NORP
+456,first,ORDINAL
+457,the United States,GPE
+458,Congress,ORG
+459,600 million tons,QUANTITY
+460,"1,200 million tons",QUANTITY
+461,1985,DATE
+462,about $ 84 million,MONEY
+463,about $ 120 million,MONEY
+464,the Energy Research and Development Agency,ORG
+465,Gannon,PERSON
+466,Democratic,NORP
+467,Congress,ORG
+468,$ 17 billion,MONEY
+469,$ 20 billion,MONEY
+470,a year,DATE
+471,an additional $ 6 billion,MONEY
+472,"no more than 400,000",CARDINAL
+473,"about 150 to 200,000",CARDINAL
+474,"25,000",MONEY
+475,about 9 to 18 months,DATE
+476,some 4 million,CARDINAL
+477,the last 17 months,DATE
+478,88 million,CARDINAL
+479,America,GPE
+480,the United States,GPE
+481,"500,000",CARDINAL
+482,the last 2 months,DATE
+483,five,CARDINAL
+484,six,CARDINAL
+485,Congress,ORG
+486,Congress,ORG
+487,$ 3.7 billion,MONEY
+488,the past 3 months,DATE
+489,the Oval Office,ORG
+490,tonight,TIME
+491,an extra $ 4 billion,MONEY
+492,the 2 years,DATE
+493,56,CARDINAL
+494,Congress,ORG
+495,42,CARDINAL
+496,over $ 9 billion,MONEY
+497,Congress,ORG
+498,Congress,ORG
+499,some $ 13 billion,MONEY
+500,Carter,PERSON
+501,$ 9 billion,MONEY
+502,an additional $ 13 billion,MONEY
+503,five,CARDINAL
+504,six,CARDINAL
+505,Carter,PERSON
+506,Ford,PERSON
+507,"500,000",CARDINAL
+508,3 months ago,DATE
+509,2,CARDINAL
+510,million,CARDINAL
+511,Pennsylvania,GPE
+512,"about 4,000 or 5,000",CARDINAL
+513,About a thousand,CARDINAL
+514,Ford,PERSON
+515,7.9 percent,PERCENT
+516,25 years,DATE
+517,50 years ago,DATE
+518,Ford,PERSON
+519,the Great Depression,EVENT
+520,$ 9 billion,MONEY
+521,$ 4 billion,MONEY
+522,$ 23 billion,MONEY
+523,the last 2 years,DATE
+524,6-percent,PERCENT
+525,7-percent,PERCENT
+526,6-percent,PERCENT
+527,the War Between,EVENT
+528,States,GPE
+529,Ford,PERSON
+530,four,CARDINAL
+531,Nixon,PERSON
+532,11,CARDINAL
+533,One,CARDINAL
+534,one,CARDINAL
+535,Senate,ORG
+536,seven,CARDINAL
+537,House,ORG
+538,Republicans,NORP
+539,Carter,PERSON
+540,DREW,PERSON
+541,Carter,PERSON
+542,25 percent,PERCENT
+543,the 1 percent,PERCENT
+544,50 percent-53,DATE
+545,14 percent,PERCENT
+546,50-percent,PERCENT
+547,Nixon,PERSON
+548,8 years ago,DATE
+549,Ford,PERSON
+550,$ 5 billion,MONEY
+551,$ 1 million,MONEY
+552,American,NORP
+553,million dollars,MONEY
+554,New Hampshire,GPE
+555,Vermont,GPE
+556,Italy,GPE
+557,DISC,ORG
+558,Domestic International Sales Corporation,ORG
+559,Nixon,PERSON
+560,about $ 1.4 billion,MONEY
+561,American,NORP
+562,first,ORDINAL
+563,50,MONEY
+564,"100,000",MONEY
+565,"900,000-$900,000",MONEY
+566,one,CARDINAL
+567,"30,000",MONEY
+568,"120,000",MONEY
+569,"roughly 8,000",CARDINAL
+570,American,NORP
+571,about $ 10 billion,MONEY
+572,about $ 500 million,MONEY
+573,$ 1.4 billion,MONEY
+574,$ 5 billion,MONEY
+575,first,ORDINAL
+576,a long period of years 50 years,DATE
+577,DISC,ORG
+578,"50,000",MONEY
+579,a-year,DATE
+580,Ford,PERSON
+581,Carter,PERSON
+582,tonight,TIME
+583,the Associated Press,ORG
+584,a week or so ago,DATE
+585,Carter,PERSON
+586,"about $ 14,000",MONEY
+587,Carter,PERSON
+588,about 50 percent,PERCENT
+589,"roughly $ 8,000",MONEY
+590,"30,000",MONEY
+591,10 million,CARDINAL
+592,the last 8 years,DATE
+593,Carter,PERSON
+594,roughly half,CARDINAL
+595,Roosevelt,PERSON
+596,55,CARDINAL
+597,Truman,PERSON
+598,about 38,CARDINAL
+599,Carter,PERSON
+600,Georgia,GPE
+601,between 35 and 40,CARDINAL
+602,2 years,DATE
+603,26,DATE
+604,$ 9 billion,MONEY
+605,one,CARDINAL
+606,Carter,PERSON
+607,Democrats,NORP
+608,Congress,ORG
+609,the last 22 years,DATE
+610,Reynolds,PERSON
+611,MR,GPE
+612,REYNOLDS,ORG
+613,Washington,GPE
+614,this year,DATE
+615,two,CARDINAL
+616,The House Ethics Committee,ORG
+617,Daniel Schorr,PERSON
+618,several months,DATE
+619,Congress,ORG
+620,American,NORP
+621,the Senate Select Committee on Standards and Conduct,ORG
+622,United States,GPE
+623,a period of years,DATE
+624,Washington,GPE
+625,the 2 years,DATE
+626,the White House,FAC
+627,anti-Washington,NORP
+628,the United States,GPE
+629,Congress,ORG
+630,a billion dollars,MONEY
+631,Congress,ORG
+632,first billion dollar,MONEY
+633,Congress,ORG
+634,the United States,GPE
+635,American,NORP
+636,Congress,ORG
+637,the last 4 years,DATE
+638,Congress,ORG
+639,Congress,ORG
+640,Congress,ORG
+641,anti-Washington,NORP
+642,Washington,GPE
+643,the United States,GPE
+644,Congress,ORG
+645,the House of Representatives,ORG
+646,United States,GPE
+647,the Congress of the United States,ORG
+648,MR,GPE
+649,REYNOLDS,ORG
+650,Congress,ORG
+651,a Democratic Congress,ORG
+652,Congress,ORG
+653,Republicans,NORP
+654,the House of Representatives,ORG
+655,United States,GPE
+656,Senate,ORG
+657,House,ORG
+658,Senate,ORG
+659,Congress,ORG
+660,Democratic,NORP
+661,Congress,ORG
+662,the last 2 years,DATE
+663,Carter,PERSON
+664,the Federal Government,ORG
+665,one,CARDINAL
+666,Democratic,NORP
+667,Congress,ORG
+668,today,DATE
+669,Republican,NORP
+670,Democratic,NORP
+671,Congress,ORG
+672,next year,DATE
+673,an additional $ 100 billion,MONEY
+674,$ 200 billion,MONEY
+675,American,NORP
+676,Republican,NORP
+677,Congress,ORG
+678,Democratic,NORP
+679,Congress,ORG
+680,Carter,PERSON
+681,Republican,NORP
+682,Democrat,NORP
+683,Eisenhower,PERSON
+684,Democratic,NORP
+685,Congress,ORG
+686,Nixon,PERSON
+687,Democratic,NORP
+688,Congress,ORG
+689,Ford,PERSON
+690,four,CARDINAL
+691,Nixon,PERSON
+692,Ford,PERSON
+693,Congress,ORG
+694,Congress,ORG
+695,Nixon,PERSON
+696,Eisenhower,PERSON
+697,about 60,CARDINAL
+698,This year,DATE
+699,Ford,PERSON
+700,more than 26 percent,PERCENT
+701,Congress,ORG
+702,Republican,NORP
+703,Democratic,NORP
+704,Congress,ORG
+705,Congress,ORG
+706,Ford,PERSON
+707,the Democratic,ORG
+708,Congress,ORG
+709,Nixon,PERSON
+710,Ford,PERSON
+711,Watergate,EVENT
+712,one,CARDINAL
+713,Congress,ORG
+714,one,CARDINAL
+715,Ford,PERSON
+716,AP,ORG
+717,the White House,ORG
+718,Ford,PERSON
+719,Carter,PERSON
+720,two,CARDINAL
+721,only about 6 minutes,TIME
+722,Carter,PERSON
+723,one,CARDINAL
+724,Government,ORG
+725,the Federal Reserve Board,ORG
+726,the Federal Reserve Board,ORG
+727,the last few years,DATE
+728,Arthur Burns,PERSON
+729,the Federal Reserve Board,ORG
+730,the same 4 years,DATE
+731,Congress,ORG
+732,The Federal Reserve,ORG
+733,Burns,PERSON
+734,Republican,NORP
+735,the 1973 year,DATE
+736,Republican,NORP
+737,Burns,PERSON
+738,the Federal Reserve Board,ORG
+739,the Federal Reserve Board,ORG
+740,Congress,ORG
+741,third,ORDINAL
+742,Ford,PERSON
+743,the Federal Reserve Board,ORG
+744,Democratic,NORP
+745,Republican,NORP
+746,the last 2 years,DATE
+747,The Federal Reserve Board,ORG
+748,between 4 to 4 1/2,QUANTITY
+749,7,CARDINAL
+750,7 1/2,CARDINAL
+751,the Federal Reserve Board,ORG
+752,Drew,PERSON
+753,DREW,PERSON
+754,FBI,ORG
+755,One,CARDINAL
+756,first,ORDINAL
+757,30 years,DATE
+758,the Federal Government,ORG
+759,CIA,ORG
+760,the Defense Intelligence Agency,ORG
+761,the National Security Agency,ORG
+762,the last few years,DATE
+763,Congress,ORG
+764,1,CARDINAL
+765,Congress,ORG
+766,Congress,ORG
+767,1,CARDINAL
+768,George Bush,PERSON
+769,CIA,ORG
+770,DIA,ORG
+771,NSA,ORG
+772,Carter,PERSON
+773,recent years,DATE
+774,11:18 p.m. ] THE MODERATOR,TIME
+775,27 minutes ago,TIME
+776,Ford,PERSON
+777,Carter,PERSON
+778,Carter,PERSON
+779,Ford,PERSON
+780,Carter,PERSON
+781,Ford,PERSON
+782,Carter,PERSON
+783,American,NORP
+784,up to 4 minutes,TIME
+785,Carter,PERSON
+786,first,ORDINAL
+787,first,ORDINAL
+788,tonight,TIME
+789,the last 8 years,DATE
+790,Congress,ORG
+791,American,NORP
+792,American,NORP
+793,America,GPE
+794,America,GPE
+795,Vietnam,GPE
+796,Cambodia,GPE
+797,CIA,ORG
+798,Watergate,EVENT
+799,Earth,LOC
+800,215 million,CARDINAL
+801,Americans,NORP
+802,Earth,LOC
+803,Ford,PERSON
+804,November 2,DATE
+805,One,CARDINAL
+806,Carter,PERSON
+807,Democratic,NORP
+808,Carter,PERSON
+809,Congress,ORG
+810,Carter,PERSON
+811,November 2,DATE
+812,2 years,DATE
+813,the White House,FAC
+814,Fourth of July,DATE
+815,200th,ORDINAL
+816,a glorious day,DATE
+817,the first century,DATE
+818,the second century,DATE
+819,the century,DATE
+820,215 million,CARDINAL
+821,Americans,NORP
+822,today,DATE
+823,the last few years,DATE
+824,this next century the century,DATE
+825,the United States,GPE
+826,Depression,EVENT
+827,the United States,GPE
+828,America,GPE
+829,America,GPE
+830,Ford,PERSON
+831,Carter,PERSON
+832,28-minute,TIME
+833,"Wednesday, October 6",DATE
+834,San Francisco,GPE
+835,9:30 p.m.,TIME
+836,three,CARDINAL
+837,the League of Women Voters Education Fund,ORG
+838,American,NORP
+839,November,DATE
+840,the Walnut Street Theatre,ORG
+841,Philadelphia,GPE
+842,Pauline Frederick,PERSON
+843,NPR,ORG
+844,National Public Radio ],ORG
+845,second,ORDINAL
+846,1976,DATE
+847,Gerald R. Ford,PERSON
+848,Michigan,GPE
+849,Republican,NORP
+850,Jimmy Carter,PERSON
+851,Georgia,GPE
+852,Democratic,NORP
+853,Ford,PERSON
+854,Carter,PERSON
+855,tonight,TIME
+856,the Palace of Fine Arts Theatre,FAC
+857,San Francisco,GPE
+858,An estimated 100 million,CARDINAL
+859,Americans,NORP
+860,San Francisco,GPE
+861,the United Nations,ORG
+862,Charter 31 years ago,DATE
+863,tonight,TIME
+864,Max Frankel,PERSON
+865,the New York Times,ORG
+866,Henry L. Trewhitt,PERSON
+867,the Baltimore Sun,ORG
+868,Richard Valeriani,PERSON
+869,NBC News,ORG
+870,tonight,TIME
+871,first,ORDINAL
+872,2 weeks ago,DATE
+873,Carter,PERSON
+874,first,ORDINAL
+875,up to 3 minutes,TIME
+876,up to 2 minutes,TIME
+877,up to 2 minutes,TIME
+878,3 minutes,TIME
+879,Ford,PERSON
+880,Carter,PERSON
+881,this evening,TIME
+882,Frankel,PERSON
+883,first,ORDINAL
+884,Carter,PERSON
+885,Democrats,NORP
+886,Vietnam,GPE
+887,Russians,NORP
+888,China,GPE
+889,the Middle East,LOC
+890,Arabs,NORP
+891,Israel,GPE
+892,Africa,LOC
+893,Republican,NORP
+894,Republican,NORP
+895,tonight,TIME
+896,first,ORDINAL
+897,Ford,ORG
+898,tonight,TIME
+899,Ford,PERSON
+900,second,ORDINAL
+901,American,NORP
+902,American,NORP
+903,Congress,ORG
+904,the Soviet Union,GPE
+905,The Soviet Union,GPE
+906,Ford,PERSON
+907,Kissinger,PERSON
+908,Richard Nixon,PERSON
+909,Republican,NORP
+910,Ford,PERSON
+911,one,CARDINAL
+912,Republican,NORP
+913,Kissinger,PERSON
+914,Ford,PERSON
+915,1976,DATE
+916,Ford,PERSON
+917,Carter,PERSON
+918,one,CARDINAL
+919,the United States,GPE
+920,Carter,PERSON
+921,November of 1975,DATE
+922,$ 15 billion,MONEY
+923,A few months later,DATE
+924,$ 8 billion,MONEY
+925,$ 9 billion,MONEY
+926,$ 5 billion to $ 7 billion,MONEY
+927,1975,DATE
+928,Defense,ORG
+929,Schlesinger,PERSON
+930,$ 3 to $ 5 billion,MONEY
+931,A few days later,DATE
+932,Schlesinger,PERSON
+933,$ 3 to $ 5 billion,MONEY
+934,"250,000",CARDINAL
+935,"100,000",CARDINAL
+936,America,GPE
+937,"100,000",CARDINAL
+938,Army,ORG
+939,Navy,ORG
+940,the Air Force,ORG
+941,Marines,NORP
+942,8 percent,PERCENT
+943,20,CARDINAL
+944,the United States,GPE
+945,Carter,PERSON
+946,Brezhnev,PERSON
+947,Carter,PERSON
+948,Trewhitt,PERSON
+949,Ford,PERSON
+950,TREWHITT,ORG
+951,Frankel,PERSON
+952,the United States,GPE
+953,first,ORDINAL
+954,Vietnam,GPE
+955,Angola,GPE
+956,Communists,NORP
+957,Italy,GPE
+958,the Soviet Union,GPE
+959,the last few months,DATE
+960,first,ORDINAL
+961,Italy,GPE
+962,secondly,ORDINAL
+963,the Soviet Union,GPE
+964,Cold War,EVENT
+965,the United States,GPE
+966,the United States,GPE
+967,the Soviet Union,GPE
+968,Trewhitt,PERSON
+969,the United States,GPE
+970,recent years,DATE
+971,recent months,DATE
+972,Communist,NORP
+973,Portugal,GPE
+974,a year ago,DATE
+975,Communists,NORP
+976,Portugal,GPE
+977,Portugal,GPE
+978,today,DATE
+979,A few months ago,DATE
+980,2 years ago,DATE
+981,the Soviet Union,GPE
+982,the Middle East,LOC
+983,Today,DATE
+984,Rabin,PERSON
+985,the Soviet Union,GPE
+986,the Middle East,LOC
+987,the Soviet Union,GPE
+988,Egypt,GPE
+989,the Soviet Union,GPE
+990,Syria,GPE
+991,The United States,GPE
+992,today,DATE
+993,Rabin,PERSON
+994,Israel,GPE
+995,the Middle East,LOC
+996,a minute,TIME
+997,African,NORP
+998,The United States of America,GPE
+999,Africa,LOC
+1000,Africa,LOC
+1001,Africa,LOC
+1002,Africa,LOC
+1003,Africa,LOC
+1004,today,DATE
+1005,the United States,GPE
+1006,Africa,LOC
+1007,The United States,GPE
+1008,Africa,LOC
+1009,The United States,GPE
+1010,Soviet,NORP
+1011,American,NORP
+1012,Trewhitt,PERSON
+1013,the United States,GPE
+1014,NATO,ORG
+1015,Communist,NORP
+1016,NATO,ORG
+1017,Carter,PERSON
+1018,Communist,NORP
+1019,NATO,ORG
+1020,NATO,ORG
+1021,Ford,PERSON
+1022,Communist,NORP
+1023,Italy,GPE
+1024,$ 15 billion,MONEY
+1025,Ford,PERSON
+1026,About a year ago,DATE
+1027,Pentagon,ORG
+1028,$ 6.8 billion,MONEY
+1029,James Schlesinger,PERSON
+1030,about $ 3 billion,MONEY
+1031,Ronald Reagan,PERSON
+1032,Texas,GPE
+1033,Ford,PERSON
+1034,$ 1 1/2 billion,MONEY
+1035,Kansas City,GPE
+1036,$ 1.8 billion,MONEY
+1037,Office of Management and Budget,ORG
+1038,$ 3 billion,MONEY
+1039,Pentagon,FAC
+1040,tonight,TIME
+1041,South Africa,GPE
+1042,Great Britain,GPE
+1043,Rhodesia,GPE
+1044,1972,DATE
+1045,Kissinger,PERSON
+1046,NATO,ORG
+1047,Europe,LOC
+1048,Portugal,GPE
+1049,Portugal,GPE
+1050,Valeriani,PERSON
+1051,Carter,PERSON
+1052,Carter,PERSON
+1053,the United States,GPE
+1054,the United States,GPE
+1055,Washington,GPE
+1056,American,NORP
+1057,State,ORG
+1058,Defense,ORG
+1059,the White House,FAC
+1060,1,CARDINAL
+1061,Cabinet,ORG
+1062,1881,DATE
+1063,Naval Academy,ORG
+1064,first,ORDINAL
+1065,Eisenhower,PERSON
+1066,Georgia,GPE
+1067,South America,LOC
+1068,Central America,LOC
+1069,Europe,LOC
+1070,the Middle East,LOC
+1071,Japan,GPE
+1072,the last 21 months,DATE
+1073,Vietnam,GPE
+1074,Cambodia,GPE
+1075,Chile,GPE
+1076,Pakistan,GPE
+1077,Angola,GPE
+1078,Watergate,EVENT
+1079,CIA,ORG
+1080,Constitution,LAW
+1081,the last few years,DATE
+1082,American,NORP
+1083,Congress,ORG
+1084,Americans,NORP
+1085,Constitution,LAW
+1086,American,NORP
+1087,American,NORP
+1088,1,CARDINAL
+1089,American,NORP
+1090,Ford,PERSON
+1091,Kissinger,PERSON
+1092,American,NORP
+1093,Congress,ORG
+1094,Ford,PERSON
+1095,State,ORG
+1096,American,NORP
+1097,First,ORDINAL
+1098,Kissinger,PERSON
+1099,Ford,PERSON
+1100,Vietnam,GPE
+1101,Ian Smith,PERSON
+1102,Rhodesia,GPE
+1103,Kissinger,PERSON
+1104,American,NORP
+1105,Chile,GPE
+1106,Franklin Roosevelt,PERSON
+1107,Congress,ORG
+1108,Harry Truman,PERSON
+1109,Defense,ORG
+1110,Dean Acheson,PERSON
+1111,George Marshall,PERSON
+1112,State,ORG
+1113,Congress,ORG
+1114,Arthur Vandenburg,ORG
+1115,Walter George,PERSON
+1116,State,ORG
+1117,Congress,ORG
+1118,Ford,PERSON
+1119,State,ORG
+1120,Ford,PERSON
+1121,Carter,PERSON
+1122,the Middle East,LOC
+1123,the Soviet Union,GPE
+1124,Israel,GPE
+1125,Arab,NORP
+1126,Ford,ORG
+1127,the United States,GPE
+1128,Israel,GPE
+1129,Egypt,GPE
+1130,the Sinai II,LOC
+1131,Egyptian,NORP
+1132,Israeli,NORP
+1133,the Congress of the United States,ORG
+1134,the United States,GPE
+1135,Congress,ORG
+1136,the 24 months,DATE
+1137,the United States,GPE
+1138,one,CARDINAL
+1139,Congress,ORG
+1140,House,ORG
+1141,Senate,ORG
+1142,State,ORG
+1143,the several years,DATE
+1144,80,CARDINAL
+1145,House,ORG
+1146,Senate,ORG
+1147,State,ORG
+1148,the United States,GPE
+1149,American,NORP
+1150,at least 10,CARDINAL
+1151,American,NORP
+1152,Frankel,PERSON
+1153,Ford,PERSON
+1154,Russians,NORP
+1155,Khrushchev,ORG
+1156,the Middle East,LOC
+1157,France,GPE
+1158,Italy,GPE
+1159,Communist,NORP
+1160,East Germany,GPE
+1161,Helsinki,GPE
+1162,Russians,NORP
+1163,Eastern Europe,LOC
+1164,Soviet,NORP
+1165,Senate,ORG
+1166,the Jackson Amendment,ORG
+1167,two,CARDINAL
+1168,Europe,LOC
+1169,the Soviet Union,GPE
+1170,December of 1974,DATE
+1171,Brezhnev,PERSON
+1172,Vladivostok,PERSON
+1173,"2,400",CARDINAL
+1174,the Soviet Union,GPE
+1175,Vladivostok,PERSON
+1176,Brezhnev,PERSON
+1177,"1,320",CARDINAL
+1178,first,ORDINAL
+1179,MIRV,PERSON
+1180,American,NORP
+1181,5 3/4,CARDINAL
+1182,6 million metric tons,QUANTITY
+1183,about 4 million metric tons,QUANTITY
+1184,this year,DATE
+1185,another 2 million metric tons,QUANTITY
+1186,American,NORP
+1187,the Soviet Union,GPE
+1188,Helsinki,GPE
+1189,Frankel,PERSON
+1190,Helsinki,GPE
+1191,35,CARDINAL
+1192,State,ORG
+1193,Vatican,FAC
+1194,35,CARDINAL
+1195,the Warsaw Pact,LAW
+1196,Eastern Europe,LOC
+1197,Carter,PERSON
+1198,Holiness,GPE
+1199,Helsinki,PERSON
+1200,one,CARDINAL
+1201,Soviet,NORP
+1202,Eastern Europe,LOC
+1203,Ford,ORG
+1204,1,CARDINAL
+1205,Russians,NORP
+1206,Eastern Europe,LOC
+1207,Communist,NORP
+1208,Italians,NORP
+1209,French,NORP
+1210,Frankel,PERSON
+1211,Yugoslavians,NORP
+1212,the Soviet Union,GPE
+1213,Romanians,NORP
+1214,the Soviet Union,GPE
+1215,Poles,NORP
+1216,the Soviet Union,GPE
+1217,the United States,GPE
+1218,the Soviet Union,GPE
+1219,Poland,GPE
+1220,Yugoslavia,GPE
+1221,Romania,GPE
+1222,the United States,GPE
+1223,the United States,GPE
+1224,Carter,PERSON
+1225,first,ORDINAL
+1226,Ford,PERSON
+1227,Ford,ORG
+1228,Helsinki,ORG
+1229,The Soviet Union,GPE
+1230,Radio Free Europe,ORG
+1231,Radio Free Europe,ORG
+1232,Sonnenfeldt,ORG
+1233,Ford,PERSON
+1234,Eastern European,NORP
+1235,the Soviet Union,GPE
+1236,Ford,PERSON
+1237,Polish,NORP
+1238,Americans,NORP
+1239,Czech,NORP
+1240,Americans,NORP
+1241,the Hungarian Americans,NORP
+1242,the Soviet Union,GPE
+1243,Ford,PERSON
+1244,over 30 days,DATE
+1245,One,CARDINAL
+1246,The Soviet Union,GPE
+1247,Ford,PERSON
+1248,Alexander Solzhenitsyn,PERSON
+1249,Arabs,NORP
+1250,Ford,PERSON
+1251,Arab,NORP
+1252,American,NORP
+1253,Israel,GPE
+1254,American,NORP
+1255,American,NORP
+1256,Commerce,ORG
+1257,Congress,ORG
+1258,the Soviet Union,GPE
+1259,' 72,DATE
+1260,Ford,PERSON
+1261,three,CARDINAL
+1262,Japan,GPE
+1263,Trewhitt,PERSON
+1264,Carter,PERSON
+1265,American,NORP
+1266,American,NORP
+1267,Iran,GPE
+1268,Saudi Arabia,GPE
+1269,Saudi Arabia,GPE
+1270,the Soviet Union,GPE
+1271,the Soviet Union,GPE
+1272,Arab,NORP
+1273,Arab,NORP
+1274,Republican,NORP
+1275,about $ 1 billion,MONEY
+1276,$ 10 to $ 12 billion,MONEY
+1277,the Middle East,LOC
+1278,Democratic,NORP
+1279,60 percent,PERCENT
+1280,the Middle East,LOC
+1281,Israel,GPE
+1282,Nowadays -75 percent,PERCENT
+1283,Israel,GPE
+1284,before -now 60 percent,PERCENT
+1285,Arab,NORP
+1286,Iran,GPE
+1287,Iran,GPE
+1288,the Middle East,LOC
+1289,only 20 percent,PERCENT
+1290,Israel,GPE
+1291,the Middle East,LOC
+1292,Israel,GPE
+1293,Arabs,NORP
+1294,Ford,ORG
+1295,Defense Establishment,ORG
+1296,"10, 15 years ago",DATE
+1297,Arab,NORP
+1298,3 years ago,DATE
+1299,Arab,NORP
+1300,first,ORDINAL
+1301,secondly,ORDINAL
+1302,Iran,GPE
+1303,80,CARDINAL
+1304,Air Force,ORG
+1305,F-14,PRODUCT
+1306,Iran,GPE
+1307,Navy,ORG
+1308,Iran,GPE
+1309,Saudi Arabia,GPE
+1310,Iran,GPE
+1311,Arab,NORP
+1312,Moslem,NORP
+1313,Saudi Arabia,GPE
+1314,Saudis,NORP
+1315,1973,DATE
+1316,Ford,PERSON
+1317,Carter,PERSON
+1318,Israelis,NORP
+1319,$ 4 billion,MONEY
+1320,Israelis,NORP
+1321,over 45 percent,PERCENT
+1322,Israel,GPE
+1323,27 years ago,DATE
+1324,Ford,ORG
+1325,Israel,GPE
+1326,Israel,GPE
+1327,Carter,PERSON
+1328,Iran,GPE
+1329,Iran,GPE
+1330,the Soviet Union,GPE
+1331,Iran,GPE
+1332,Iraq,GPE
+1333,one,CARDINAL
+1334,The Soviet Union,GPE
+1335,Iraq,GPE
+1336,Iran,GPE
+1337,Iran,GPE
+1338,the United States,GPE
+1339,Iran,GPE
+1340,the United States,GPE
+1341,Iran,GPE
+1342,Truman,PERSON
+1343,Iran,GPE
+1344,Iran,GPE
+1345,1973,DATE
+1346,Iran,GPE
+1347,Iran,GPE
+1348,the United States,GPE
+1349,Israel,GPE
+1350,Iran,GPE
+1351,Saudi Arabia,GPE
+1352,the United States,GPE
+1353,Valeriani,PERSON
+1354,Ford,PERSON
+1355,China,GPE
+1356,Taiwan,GPE
+1357,Peking,GPE
+1358,Taiwan,GPE
+1359,China,GPE
+1360,Chinese,NORP
+1361,the People's Republic of China,GPE
+1362,Shanghai,GPE
+1363,1972,DATE
+1364,the United States,GPE
+1365,the People's Republic,GPE
+1366,the Taiwanese Government,ORG
+1367,Shanghai,GPE
+1368,the People's Republic,GPE
+1369,Taiwan,GPE
+1370,the next 4 years,DATE
+1371,Taiwan,GPE
+1372,the People's Republic,GPE
+1373,Shanghai,GPE
+1374,1972,DATE
+1375,Ford,ORG
+1376,Taiwan,GPE
+1377,20 million,CARDINAL
+1378,Taiwan,GPE
+1379,the next 4 years,DATE
+1380,Chinese,NORP
+1381,the People's Republic,GPE
+1382,the People's Republic of China,GPE
+1383,the United States,GPE
+1384,the People's Republic of China,GPE
+1385,Communist,NORP
+1386,the Soviet Union,GPE
+1387,Carter,PERSON
+1388,Ford,PERSON
+1389,Israel,GPE
+1390,40 percent,PERCENT
+1391,this current year,DATE
+1392,Iran,GPE
+1393,about $ 7,MONEY
+1394,billion,CARDINAL
+1395,Saudi Arabia,GPE
+1396,billion,CARDINAL
+1397,1975,DATE
+1398,Israel,GPE
+1399,the Yom Kippur,EVENT
+1400,Israel,GPE
+1401,Israel,GPE
+1402,the Middle East,LOC
+1403,Israel,GPE
+1404,Israelis,NORP
+1405,Israel,GPE
+1406,the Far East,LOC
+1407,the People's Republic of China,GPE
+1408,1972,DATE
+1409,Ford,PERSON
+1410,the People's Republic of China,GPE
+1411,Taiwan,GPE
+1412,Frankel,PERSON
+1413,Carter,PERSON
+1414,a few billion dollars,MONEY
+1415,one,CARDINAL
+1416,two,CARDINAL
+1417,Pentagon,ORG
+1418,Ford,PERSON
+1419,the United Nations,ORG
+1420,20 percent,PERCENT
+1421,Nixon,PERSON
+1422,Japan,GPE
+1423,European,NORP
+1424,Lone Ranger-type,PERSON
+1425,the Great Depression,EVENT
+1426,Great Britain,GPE
+1427,West Germany,GPE
+1428,Italy,GPE
+1429,three,CARDINAL
+1430,four,CARDINAL
+1431,Japan,GPE
+1432,about 30 percent,PERCENT
+1433,the United States,GPE
+1434,the Soviet Union,GPE
+1435,Gerald Ford,PERSON
+1436,Johnson,PERSON
+1437,Vietnam,GPE
+1438,Johnson,PERSON
+1439,the Vietnam war,EVENT
+1440,Nixon,PERSON
+1441,less than 4 percent,PERCENT
+1442,Kennedy,PERSON
+1443,Johnson,PERSON
+1444,about 2 percent,PERCENT
+1445,third,ORDINAL
+1446,Johnson,PERSON
+1447,Kennedy,PERSON
+1448,one,CARDINAL
+1449,first,ORDINAL
+1450,Ford,PERSON
+1451,the United States,GPE
+1452,Carter,PERSON
+1453,1975,DATE
+1454,$ 15 billion,MONEY
+1455,$ 5 billion to $ 7 billion,MONEY
+1456,the United States,GPE
+1457,Carter,PERSON
+1458,NATO,ORG
+1459,Brussels,GPE
+1460,Western Europe,LOC
+1461,November of 1975,DATE
+1462,five,CARDINAL
+1463,France,GPE
+1464,Puerto Rico,GPE
+1465,this year,DATE
+1466,six,CARDINAL
+1467,Japan,GPE
+1468,first,ORDINAL
+1469,United States,GPE
+1470,Japan,GPE
+1471,this past year,DATE
+1472,Japan,GPE
+1473,the United States,GPE
+1474,Israel,GPE
+1475,] Rabin,PERSON
+1476,Trewhitt,PERSON
+1477,Ford,PERSON
+1478,TREWHITT,ORG
+1479,Brezhnev,PERSON
+1480,1974,DATE
+1481,the year,DATE
+1482,1975,DATE
+1483,the current season,DATE
+1484,Soviet,NORP
+1485,SALT,ORG
+1486,SALT,ORG
+1487,First,ORDINAL
+1488,SALT,ORG
+1489,"October 3, 1977",DATE
+1490,Brezhnev,PERSON
+1491,Vladivostok,PERSON
+1492,December of 1974,DATE
+1493,1985,DATE
+1494,"2,400",CARDINAL
+1495,Soviet,NORP
+1496,"1,320",CARDINAL
+1497,MIRV,PERSON
+1498,Geneva,GPE
+1499,the Soviet Backfire,GPE
+1500,B-52,PRODUCT
+1501,the B-l 's,ORG
+1502,just last week,DATE
+1503,the Soviet Union,GPE
+1504,the Soviet Union,GPE
+1505,the Soviet Union,GPE
+1506,the United States,GPE
+1507,SALT,ORG
+1508,"October 3, 1977",DATE
+1509,a few days ago,DATE
+1510,American,NORP
+1511,SALT,ORG
+1512,the Soviet Union's,GPE
+1513,Backfire,GPE
+1514,the Soviet Union,GPE
+1515,two,CARDINAL
+1516,"October 3, 1977",DATE
+1517,Carter,PERSON
+1518,Ford,PERSON
+1519,first,ORDINAL
+1520,2 years,DATE
+1521,SALT,ORG
+1522,SALT,ORG
+1523,Earth,LOC
+1524,the last few days,DATE
+1525,Ford,PERSON
+1526,last May,DATE
+1527,the United Nations,ORG
+1528,Germany,GPE
+1529,France,GPE
+1530,Pakistan,GPE
+1531,Brazil,GPE
+1532,Ford,PERSON
+1533,Ford,PERSON
+1534,2 years,DATE
+1535,five,CARDINAL
+1536,Ford,PERSON
+1537,1985 or ' 90,DATE
+1538,20,CARDINAL
+1539,Valeriani,PERSON
+1540,Carter,PERSON
+1541,Carter,PERSON
+1542,earlier tonight,TIME
+1543,America,GPE
+1544,America,GPE
+1545,the United States,GPE
+1546,the United States,GPE
+1547,Earth,LOC
+1548,Congress,ORG
+1549,State,ORG
+1550,"500,000",CARDINAL
+1551,Americans,NORP
+1552,today,DATE
+1553,3 months ago,DATE
+1554,2 1/2 million,CARDINAL
+1555,Americans,NORP
+1556,Ford,PERSON
+1557,Ford,PERSON
+1558,Carter,PERSON
+1559,Democratic,NORP
+1560,the United States,GPE
+1561,one,CARDINAL
+1562,Carter,PERSON
+1563,Congress,ORG
+1564,Portsmouth,GPE
+1565,Ohio,GPE
+1566,US,GPE
+1567,Alabama,GPE
+1568,Portsmouth,GPE
+1569,Ohio,GPE
+1570,the United States,GPE
+1571,the United States,GPE
+1572,today,DATE
+1573,the World Food Conference,ORG
+1574,Rome,GPE
+1575,1974,DATE
+1576,the United States,GPE
+1577,6 million metric tons,QUANTITY
+1578,over 60 percent,PERCENT
+1579,Ford,ORG
+1580,the United States,GPE
+1581,Ford,ORG
+1582,Africa,LOC
+1583,the Middle East,LOC
+1584,Frankel,PERSON
+1585,Ford,PERSON
+1586,Nixon,PERSON
+1587,Kissinger,PERSON
+1588,North and South Korean,GPE
+1589,Chilean,NORP
+1590,Chinese,NORP
+1591,Communists,NORP
+1592,Iranian,NORP
+1593,Rhodesians,NORP
+1594,Italians,NORP
+1595,Ford,ORG
+1596,South Africa,GPE
+1597,Chile,GPE
+1598,Chilean,NORP
+1599,Africa,LOC
+1600,the next 4 years,DATE
+1601,the United States,GPE
+1602,Africa,LOC
+1603,the Soviet Union,GPE
+1604,Cubans,NORP
+1605,Africa,LOC
+1606,the United States,GPE
+1607,American,NORP
+1608,State,ORG
+1609,Kissinger,PERSON
+1610,African,NORP
+1611,South Africa,GPE
+1612,Vorster,PERSON
+1613,Rhodesia,GPE
+1614,Kissinger,PERSON
+1615,Rhodesia,GPE
+1616,Rhodesia,GPE
+1617,the United States,GPE
+1618,the Middle East,LOC
+1619,the Middle East,LOC
+1620,Arab,NORP
+1621,Israelis,NORP
+1622,the United States,GPE
+1623,the United States,GPE
+1624,the Middle Eastern,LOC
+1625,FRANKEL,PERSON
+1626,one,CARDINAL
+1627,South Africa,GPE
+1628,Taiwan,GPE
+1629,Chile,GPE
+1630,Rhodesia,GPE
+1631,one,CARDINAL
+1632,the United States,GPE
+1633,Vietnam,GPE
+1634,one,CARDINAL
+1635,the United States,GPE
+1636,South Korea,GPE
+1637,Park,PERSON
+1638,the United States,GPE
+1639,South Korea,GPE
+1640,North Korea,GPE
+1641,"500,000",CARDINAL
+1642,the People's Republic of China,GPE
+1643,the Soviet Union,GPE
+1644,South Korea,GPE
+1645,the United States,GPE
+1646,a year,DATE
+1647,this year,DATE
+1648,the United States,GPE
+1649,South Korea,GPE
+1650,North Korea,GPE
+1651,the People's Republic of China,GPE
+1652,Korean,NORP
+1653,the United States,GPE
+1654,South Korea,GPE
+1655,Carter,PERSON
+1656,Ford,PERSON
+1657,Chile,GPE
+1658,Last year,DATE
+1659,Ford,PERSON
+1660,the Food for Peace,ORG
+1661,South America,LOC
+1662,85 percent,PERCENT
+1663,Chile,GPE
+1664,one,CARDINAL
+1665,State,ORG
+1666,one,CARDINAL
+1667,almost 150,CARDINAL
+1668,Ford,PERSON
+1669,Johnson,PERSON
+1670,Kennedy,PERSON
+1671,Karl Marx,PERSON
+1672,Karl Marx,PERSON
+1673,Ford,PERSON
+1674,Congress,ORG
+1675,Ford,PERSON
+1676,Congress,ORG
+1677,$ 8 billion,MONEY
+1678,Ford,PERSON
+1679,Kissinger,PERSON
+1680,Vietnam,GPE
+1681,Angola,GPE
+1682,American,NORP
+1683,Congress,ORG
+1684,two,CARDINAL
+1685,only 12 minutes,TIME
+1686,Trewhitt,PERSON
+1687,Carter,PERSON
+1688,Carter,PERSON
+1689,Panama,GPE
+1690,the Canal Zone,LOC
+1691,the United States,GPE
+1692,1974,DATE
+1693,Panamanian,NORP
+1694,Ford,PERSON
+1695,Panamanians,NORP
+1696,the Panama Canal Zone,FAC
+1697,Reagan,PERSON
+1698,Florida,GPE
+1699,Ford,PERSON
+1700,the Panama Canal Zone,FAC
+1701,Panamanians,NORP
+1702,Theodore Roosevelt,PERSON
+1703,Panama,GPE
+1704,the Panama Canal Zone,FAC
+1705,the Panama Canal Zone,FAC
+1706,Panama,GPE
+1707,the Panama Canal Zone,FAC
+1708,the Panama Canal Zone,FAC
+1709,the Panama Canal Zone,FAC
+1710,Ford,PERSON
+1711,The United States,GPE
+1712,the Panama Canal,FAC
+1713,The United States,GPE
+1714,the Panama Canal,FAC
+1715,the United States,GPE
+1716,the Panama Canal,FAC
+1717,the Panama Canal,FAC
+1718,Johnson,PERSON
+1719,just a minute,TIME
+1720,Carter,PERSON
+1721,May of 1975,DATE
+1722,six,CARDINAL
+1723,May of this year,DATE
+1724,Carter,PERSON
+1725,first,ORDINAL
+1726,approximately 12 months,DATE
+1727,a year ago,DATE
+1728,Valeriani,PERSON
+1729,Ford,PERSON
+1730,General ] Accounting Office,ORG
+1731,Mayaguez,GPE
+1732,House,ORG
+1733,The White House,ORG
+1734,July 12 of this year,DATE
+1735,GAO,ORG
+1736,Washington,GPE
+1737,D.C.,GPE
+1738,18 months,DATE
+1739,Mayaguez,GPE
+1740,This morning,TIME
+1741,Mayaguez,GPE
+1742,Ford,PERSON
+1743,Mayaguez,GPE
+1744,Miller,PERSON
+1745,Washington,GPE
+1746,18 months,DATE
+1747,the National Security Council,ORG
+1748,Pacific,LOC
+1749,the People's Republic of China,GPE
+1750,the Cambodian Government,ORG
+1751,the Cambodian Government,ORG
+1752,the United Nations,ORG
+1753,the National Security Council,ORG
+1754,Miller,PERSON
+1755,Carter,PERSON
+1756,American,NORP
+1757,only one,CARDINAL
+1758,Mayaguez,GPE
+1759,Ford,PERSON
+1760,18 months,DATE
+1761,today,DATE
+1762,Mayaguez,GPE
+1763,today,DATE
+1764,Ford,PERSON
+1765,the White House,ORG
+1766,the Department of State,ORG
+1767,the Defense Department,ORG
+1768,today,DATE
+1769,yesterday,DATE
+1770,the National Security Agency,ORG
+1771,Ford,PERSON
+1772,American,NORP
+1773,18 months ago,DATE
+1774,Mayaguez,GPE
+1775,American,NORP
+1776,American,NORP
+1777,40,CARDINAL
+1778,Mayaguez,GPE
+1779,American,NORP
+1780,18 months later,DATE
+1781,two,CARDINAL
+1782,Frankel,PERSON
+1783,Carter,PERSON
+1784,Carter,PERSON
+1785,Arabs,NORP
+1786,Israel,GPE
+1787,American,NORP
+1788,Arab,NORP
+1789,Israel,GPE
+1790,American,NORP
+1791,first,ORDINAL
+1792,Bill of Rights,LAW
+1793,American,NORP
+1794,Arab,NORP
+1795,Arab,NORP
+1796,Constitution,LAW
+1797,Catholics,NORP
+1798,Baptists,NORP
+1799,Ford,PERSON
+1800,Ford,PERSON
+1801,Carter,PERSON
+1802,Arab,NORP
+1803,first,ORDINAL
+1804,1952,DATE
+1805,November of 1975,DATE
+1806,first,ORDINAL
+1807,the Department of Commerce,ORG
+1808,Cabinet Departments,PERSON
+1809,American,NORP
+1810,Arab,NORP
+1811,first,ORDINAL
+1812,Arab,NORP
+1813,Monday of this week,DATE
+1814,the United States,GPE
+1815,Arab,NORP
+1816,last week,DATE
+1817,the Export Administration Act,LAW
+1818,Congress,ORG
+1819,Capitol Hill,ORG
+1820,House,ORG
+1821,Senate,ORG
+1822,Arab,NORP
+1823,One,CARDINAL
+1824,Congress,ORG
+1825,tomorrow,DATE
+1826,the Department of Commerce,ORG
+1827,Arab,NORP
+1828,Congress,ORG
+1829,Trewhitt,PERSON
+1830,Ford,PERSON
+1831,TREWHITT,ORG
+1832,North Vietnam,GPE
+1833,Vietnam,GPE
+1834,Vietnam,GPE
+1835,North Vietnam,GPE
+1836,Vietnam,GPE
+1837,the United Nations,ORG
+1838,800,CARDINAL
+1839,the United States,GPE
+1840,Vietnam,GPE
+1841,the United Nations,ORG
+1842,MIA,ORG
+1843,Carter,PERSON
+1844,One,CARDINAL
+1845,Ford,ORG
+1846,Vietnam,GPE
+1847,Laos,GPE
+1848,Cambodia,GPE
+1849,MIA,ORG
+1850,Ford,PERSON
+1851,Congress,ORG
+1852,Several months ago,DATE
+1853,MIA,ORG
+1854,Ford,PERSON
+1855,Vietnam,GPE
+1856,the United Nations,ORG
+1857,MIA,ORG
+1858,Ford,PERSON
+1859,Carter,PERSON
+1860,this evening,TIME
+1861,up to 3 minutes,TIME
+1862,Carter,PERSON
+1863,first,ORDINAL
+1864,first,ORDINAL
+1865,Carter,PERSON
+1866,CATER,PERSON
+1867,three,CARDINAL
+1868,five,CARDINAL
+1869,dozens,CARDINAL
+1870,American,NORP
+1871,Constitution,LAW
+1872,Congress,ORG
+1873,State,ORG
+1874,recent years,DATE
+1875,Vietnam,GPE
+1876,Cambodia,GPE
+1877,Chile,GPE
+1878,Pakistan,GPE
+1879,Angola,GPE
+1880,Watergate,EVENT
+1881,CIA,ORG
+1882,NATO,ORG
+1883,Marshall,PERSON
+1884,the Peace Corps,ORG
+1885,Constitution,LAW
+1886,Earth,LOC
+1887,the United States,GPE
+1888,Ford,PERSON
+1889,tonight,TIME
+1890,one,CARDINAL
+1891,two,CARDINAL
+1892,the last 2 years,DATE
+1893,day,DATE
+1894,the United States,GPE
+1895,America,GPE
+1896,America,GPE
+1897,America,GPE
+1898,American,NORP
+1899,America,GPE
+1900,Ford,PERSON
+1901,Carter,PERSON
+1902,this evening,TIME
+1903,third,ORDINAL
+1904,Ford,PERSON
+1905,Carter,PERSON
+1906,October the 22d,DATE
+1907,9:30 p.m.,TIME
+1908,the College of William,ORG
+1909,Williamsburg,GPE
+1910,Virginia,GPE
+1911,the League of Women Voters Education Fund,ORG
+1912,November,DATE
+1913,the Palace of Fine Arts Theatre,ORG
+1914,San Francisco,GPE
+1915,evening,TIME
+1916,Barbara Walters,PERSON
+1917,1976,DATE
+1918,Gerald R. Ford,PERSON
+1919,Republican,NORP
+1920,Jimmy Carter,PERSON
+1921,Democratic,NORP
+1922,Ford,PERSON
+1923,Carter,PERSON
+1924,this evening,TIME
+1925,the College of William,ORG
+1926,Mary,PERSON
+1927,Williamsburg,GPE
+1928,Virginia,GPE
+1929,this Bicentennial Year,DATE
+1930,Two hundred years ago,DATE
+1931,five,CARDINAL
+1932,William,PERSON
+1933,Raleigh Tavern,PERSON
+1934,the day,DATE
+1935,tonight,TIME
+1936,Joseph Kraft,PERSON
+1937,Robert Maynard,PERSON
+1938,the Washington Post,ORG
+1939,Jack Nelson,PERSON
+1940,Washington,GPE
+1941,the Los Angeles Times,ORG
+1942,tonight,TIME
+1943,2 1/2 minutes,TIME
+1944,up to 2 minutes,TIME
+1945,up to 2 minutes,TIME
+1946,up to 3 minutes,TIME
+1947,Ford,PERSON
+1948,Carter,PERSON
+1949,this evening,TIME
+1950,Ford,PERSON
+1951,first,ORDINAL
+1952,Kraft,PERSON
+1953,first,ORDINAL
+1954,Ford,PERSON
+1955,KRAFT,ORG
+1956,Americans,NORP
+1957,first,ORDINAL
+1958,the next 4 years,DATE
+1959,American,NORP
+1960,Carter,PERSON
+1961,American,NORP
+1962,Carter,PERSON
+1963,Kraft,PERSON
+1964,American,NORP
+1965,the next 4 years,DATE
+1966,Ford,ORG
+1967,a few billion dollars,MONEY
+1968,American,NORP
+1969,the Middle East,LOC
+1970,Africa,LOC
+1971,Pacific,LOC
+1972,American,NORP
+1973,America,GPE
+1974,American,NORP
+1975,American,NORP
+1976,the next 4 years,DATE
+1977,KRAFT,ORG
+1978,KRAFT,ORG
+1979,the next 4 or 5 years,DATE
+1980,KRAFT,ORG
+1981,Kraft,PERSON
+1982,some $ 200 billion,MONEY
+1983,almost 50 percent,PERCENT
+1984,the Federal Government,ORG
+1985,750,MONEY
+1986,"1,000",MONEY
+1987,America,GPE
+1988,Carter,PERSON
+1989,first,ORDINAL
+1990,Carter,PERSON
+1991,Ford,PERSON
+1992,10-percent,PERCENT
+1993,1978,DATE
+1994,American,NORP
+1995,one,CARDINAL
+1996,1973,DATE
+1997,Nixon,PERSON
+1998,American,NORP
+1999,the White House,ORG
+2000,one,CARDINAL
+2001,Medicaid,ORG
+2002,"over $ 10,000",MONEY
+2003,25 percent,PERCENT
+2004,1973,DATE
+2005,1,CARDINAL
+2006,American,NORP
+2007,Maynard,PERSON
+2008,Carter,PERSON
+2009,only half,CARDINAL
+2010,One,CARDINAL
+2011,Playboy,WORK_OF_ART
+2012,Nation,ORG
+2013,1960,DATE
+2014,American,NORP
+2015,7 1/2,CARDINAL
+2016,8 million,CARDINAL
+2017,three,CARDINAL
+2018,8-year,DATE
+2019,Democratic,NORP
+2020,Vietnam,GPE
+2021,Cambodia,GPE
+2022,Watergate,EVENT
+2023,CIA,ORG
+2024,30,CARDINAL
+2025,22 months,DATE
+2026,Playboy,WORK_OF_ART
+2027,Playboy,WORK_OF_ART
+2028,Jerry Brown,PERSON
+2029,Walter Cronkite,PERSON
+2030,Albert Schweitzer,PERSON
+2031,Ford,PERSON
+2032,Treasury,ORG
+2033,Simon,PERSON
+2034,William Buckley,PERSON
+2035,Christian,NORP
+2036,Playboy,WORK_OF_ART
+2037,the next 10 days,DATE
+2038,American,NORP
+2039,Carter,PERSON
+2040,Ford,PERSON
+2041,Ford,PERSON
+2042,the next 10 days,DATE
+2043,American,NORP
+2044,1,CARDINAL
+2045,the last 10 days,DATE
+2046,Carter,PERSON
+2047,Ford,PERSON
+2048,American,NORP
+2049,Maynard,PERSON
+2050,Capitol Hill,ORG
+2051,Congress,ORG
+2052,American,NORP
+2053,the United States,GPE
+2054,1,CARDINAL
+2055,Americans,NORP
+2056,Watergate,EVENT
+2057,American,NORP
+2058,thousands,CARDINAL
+2059,millions,CARDINAL
+2060,Americans,NORP
+2061,Vietnam,GPE
+2062,July 4 of this year,DATE
+2063,America,GPE
+2064,Bicentennial,GPE
+2065,the next 10 days,DATE
+2066,American,NORP
+2067,America,GPE
+2068,Ford,PERSON
+2069,Nelson,PERSON
+2070,Ford,PERSON
+2071,Watergate,EVENT
+2072,Watergate,EVENT
+2073,American,NORP
+2074,Watergate,EVENT
+2075,the House Banking Committee,ORG
+2076,the White House,ORG
+2077,the White House,ORG
+2078,Nelson,PERSON
+2079,two,CARDINAL
+2080,House,ORG
+2081,Senate,ORG
+2082,Nixon,PERSON
+2083,Haldeman,PERSON
+2084,Ehrlichman,PERSON
+2085,the White House,FAC
+2086,White House,ORG
+2087,the House Banking and Currency Committee,ORG
+2088,Republican,NORP
+2089,two,CARDINAL
+2090,House,ORG
+2091,Senate,ORG
+2092,the Special Prosecutor,LAW
+2093,the last few days,DATE
+2094,day,DATE
+2095,two ago,DATE
+2096,the United States,GPE
+2097,one,CARDINAL
+2098,American,NORP
+2099,House,ORG
+2100,Carter,PERSON
+2101,Kraft,PERSON
+2102,Carter,PERSON
+2103,KRAFT,ORG
+2104,Carter,PERSON
+2105,Yugoslavia,GPE
+2106,Tito,PERSON
+2107,Russians,NORP
+2108,Tito,PERSON
+2109,Yugoslavia,GPE
+2110,Soviet,NORP
+2111,last Saturday,DATE
+2112,Yugoslavia,GPE
+2113,the Soviet Union,GPE
+2114,Russians,NORP
+2115,Yugoslavia,GPE
+2116,Russians,NORP
+2117,Ford,PERSON
+2118,Truman,PERSON
+2119,the last 2 weeks,DATE
+2120,two,CARDINAL
+2121,the Soviet Union,GPE
+2122,Yugoslavia,GPE
+2123,China,GPE
+2124,One,CARDINAL
+2125,Averell,PERSON
+2126,the Soviet Union,GPE
+2127,Yugoslavia,GPE
+2128,James,PERSON
+2129,China,GPE
+2130,two,CARDINAL
+2131,1,CARDINAL
+2132,New York,GPE
+2133,1954 - 58,DATE
+2134,1961,DATE
+2135,1965 - 68,DATE
+2136,1973 - 75,DATE
+2137,Harriman,PERSON
+2138,Yugoslavia,GPE
+2139,the Soviet Union,GPE
+2140,Yugoslavia,GPE
+2141,Tito,PERSON
+2142,Yugoslavia,GPE
+2143,Soviets,NORP
+2144,Yugoslavian,NORP
+2145,the Soviet Union,GPE
+2146,Yugoslavia,GPE
+2147,KRAFT,ORG
+2148,One,CARDINAL
+2149,Schlesinger,PERSON
+2150,Harriman,PERSON
+2151,Ford,PERSON
+2152,Kraft,PERSON
+2153,early 1950 's,DATE
+2154,the United States,GPE
+2155,South Korea,GPE
+2156,the North Koreans,NORP
+2157,South Korea,GPE
+2158,the United States,GPE
+2159,the White House,FAC
+2160,a week or so ago,DATE
+2161,Maynard,PERSON
+2162,Ford,PERSON
+2163,The other day,DATE
+2164,George Brown,PERSON
+2165,the Joint Chiefs of Staff,ORG
+2166,Great Britain,GPE
+2167,one,CARDINAL
+2168,Great Britain,GPE
+2169,Brown,PERSON
+2170,Nation,ORG
+2171,Brown,PERSON
+2172,Brown,PERSON
+2173,Brown,PERSON
+2174,35 years,DATE
+2175,America,GPE
+2176,today,DATE
+2177,the Middle East,LOC
+2178,Africa,LOC
+2179,Carter,PERSON
+2180,second,ORDINAL
+2181,Brown,PERSON
+2182,first,ORDINAL
+2183,American,NORP
+2184,Congress,ORG
+2185,Great Britain,GPE
+2186,Israel,GPE
+2187,Iran,GPE
+2188,the Persian Empire,LOC
+2189,Ford,PERSON
+2190,American,NORP
+2191,Ford,PERSON
+2192,Nelson,PERSON
+2193,Carter,PERSON
+2194,Americans,NORP
+2195,one,CARDINAL
+2196,Georgia,GPE
+2197,Carter,PERSON
+2198,the Federal Government,ORG
+2199,22 months ago,DATE
+2200,first,ORDINAL
+2201,four or five,CARDINAL
+2202,three,CARDINAL
+2203,American,NORP
+2204,several hundred,CARDINAL
+2205,one,CARDINAL
+2206,Ford,PERSON
+2207,Walter Mondale,PERSON
+2208,several million,CARDINAL
+2209,1,CARDINAL
+2210,Walter Mondale,PERSON
+2211,Ford,PERSON
+2212,Dole,PERSON
+2213,Ford,PERSON
+2214,the United States,GPE
+2215,Mondale,PERSON
+2216,the last five,DATE
+2217,three,CARDINAL
+2218,Ford,PERSON
+2219,the United States,GPE
+2220,Bob Dole,PERSON
+2221,the House of Representatives,ORG
+2222,Senate,ORG
+2223,Mondale,PERSON
+2224,Mondale,PERSON
+2225,Brown,PERSON
+2226,Brown,PERSON
+2227,Brown,PERSON
+2228,the Joint Chiefs of Staff,ORG
+2229,35 years,DATE
+2230,1,CARDINAL
+2231,Dole,PERSON
+2232,Bob Dole,PERSON
+2233,the United States,GPE
+2234,House,ORG
+2235,Senate,ORG
+2236,the United States,GPE
+2237,Kraft,PERSON
+2238,Ford,PERSON
+2239,KRAFT,ORG
+2240,One,CARDINAL
+2241,hundreds,CARDINAL
+2242,thousands,CARDINAL
+2243,KRAFT,ORG
+2244,the Atlantic Ocean,LOC
+2245,the National League of Conservation Voters,ORG
+2246,First,ORDINAL
+2247,Kraft,PERSON
+2248,thousands,CARDINAL
+2249,"around 140,000",CARDINAL
+2250,two,CARDINAL
+2251,Carter,PERSON
+2252,Arab,NORP
+2253,Leonard Woodcock,PERSON
+2254,UAW,ORG
+2255,Ford,ORG
+2256,over 60 percent,PERCENT
+2257,the United States,GPE
+2258,Congress,ORG
+2259,the current year,DATE
+2260,the National Park Service,ORG
+2261,about $ 12 million,MONEY
+2262,between 400 and 500,CARDINAL
+2263,the National Park Service,ORG
+2264,a month or so ago,DATE
+2265,the next 10 years,DATE
+2266,the United States,GPE
+2267,Carter,PERSON
+2268,the League of Conservation Voters,ORG
+2269,Congress,ORG
+2270,two,CARDINAL
+2271,"140,000",CARDINAL
+2272,Ford,PERSON
+2273,the United Mine Workers,ORG
+2274,"140,000",CARDINAL
+2275,Presidents Nixon,PERSON
+2276,Ford,ORG
+2277,Georgia,GPE
+2278,Ford,PERSON
+2279,Alaska,GPE
+2280,American,NORP
+2281,2 years,DATE
+2282,Maynard,PERSON
+2283,Carter,PERSON
+2284,World War II,EVENT
+2285,the Federal Government,ORG
+2286,American,NORP
+2287,tonight,TIME
+2288,first,ORDINAL
+2289,New York,GPE
+2290,18 months,DATE
+2291,2 years,DATE
+2292,the Daily News,ORG
+2293,Ford To New York,ORG
+2294,the Federal Government,ORG
+2295,Congress,ORG
+2296,-better,DATE
+2297,only 7 percent,PERCENT
+2298,the Federal Government,ORG
+2299,Nixon,PERSON
+2300,10 percent,PERCENT
+2301,30-percent,PERCENT
+2302,the Federal Government,ORG
+2303,just 8 years,DATE
+2304,50 or 60 percent,PERCENT
+2305,One,CARDINAL
+2306,New York City,GPE
+2307,the Federal Government,ORG
+2308,State,ORG
+2309,Ford,PERSON
+2310,Ford,ORG
+2311,Congress,ORG
+2312,States,GPE
+2313,two-thirds,CARDINAL
+2314,States,GPE
+2315,one-third,CARDINAL
+2316,$ 6 billion,MONEY
+2317,"about $ 3,300 million",MONEY
+2318,Congress,ORG
+2319,4-year,DATE
+2320,50 percent,PERCENT
+2321,Carla Hills,PERSON
+2322,Neighborhood Revitalization,ORG
+2323,first,ORDINAL
+2324,Hills,PERSON
+2325,75,CARDINAL
+2326,the weeks,DATE
+2327,Ford,ORG
+2328,Nelson,PERSON
+2329,Ford,PERSON
+2330,Americans,NORP
+2331,Ford,PERSON
+2332,Northeast,LOC
+2333,the next 4 years,DATE
+2334,Cabinet,ORG
+2335,Transportation,ORG
+2336,Bill Coleman,PERSON
+2337,the Air Force,ORG
+2338,James,PERSON
+2339,three,CARDINAL
+2340,first,ORDINAL
+2341,the United States Navy,GPE
+2342,Ford,ORG
+2343,the Department of Justice,ORG
+2344,the Voting Rights Act,LAW
+2345,The Department of HUD,ORG
+2346,the Department of Commerce,ORG
+2347,Kobelinski,PERSON
+2348,Carter,PERSON
+2349,Ford,PERSON
+2350,1969,DATE
+2351,John Kennedy,PERSON
+2352,Lyndon Johnson,PERSON
+2353,Richard Nixon,PERSON
+2354,Gerald Ford,PERSON
+2355,South,LOC
+2356,recent years,DATE
+2357,Small Business Administration,ORG
+2358,FHA,ORG
+2359,Federal Housing Administration,ORG
+2360,$ 600 million,MONEY
+2361,last year,DATE
+2362,"1,300",CARDINAL
+2363,HUD,ORG
+2364,800,CARDINAL
+2365,the Federal Government,ORG
+2366,30-percent,PERCENT
+2367,40-percent,PERCENT
+2368,the last 8 years,DATE
+2369,Kraft,PERSON
+2370,Carter,PERSON
+2371,KRAFT,ORG
+2372,Carter,PERSON
+2373,200-year,DATE
+2374,Constitution,LAW
+2375,25,CARDINAL
+2376,Constitution,LAW
+2377,200-year,DATE
+2378,Supreme Court,ORG
+2379,the Federal Government,ORG
+2380,Ford,PERSON
+2381,Republican,NORP
+2382,States,GPE
+2383,States,GPE
+2384,State,ORG
+2385,Everett Dirksen,PERSON
+2386,Court,ORG
+2387,two,CARDINAL
+2388,two,CARDINAL
+2389,Maynard,PERSON
+2390,Ford,PERSON
+2391,some 40 million,CARDINAL
+2392,2.5 million,CARDINAL
+2393,Maynard,PERSON
+2394,one,CARDINAL
+2395,States,GPE
+2396,second,ORDINAL
+2397,New York,GPE
+2398,Carter,PERSON
+2399,Ford,PERSON
+2400,Levi,PERSON
+2401,Ford,PERSON
+2402,Saturday,DATE
+2403,night,TIME
+2404,Nelson,PERSON
+2405,Carter,PERSON
+2406,the Supreme Court,ORG
+2407,today,DATE
+2408,Supreme Court,ORG
+2409,Warren,PERSON
+2410,Supreme Court,ORG
+2411,Georgia,GPE
+2412,Georgia,GPE
+2413,the Georgia Supreme,ORG
+2414,five,CARDINAL
+2415,seven,CARDINAL
+2416,about half,CARDINAL
+2417,the Court of Appeals,ORG
+2418,about 35 percent,PERCENT
+2419,five,CARDINAL
+2420,Georgia,GPE
+2421,first,ORDINAL
+2422,second,ORDINAL
+2423,Secondly,ORDINAL
+2424,the Burger Court,ORG
+2425,the Warren Court,ORG
+2426,the Burger Court,ORG
+2427,one,CARDINAL
+2428,one,CARDINAL
+2429,States,GPE
+2430,the Burger Court,ORG
+2431,the Warren Court,ORG
+2432,the Burger Court,ORG
+2433,Warren Court,ORG
+2434,the Burger Court,ORG
+2435,Court,ORG
+2436,the Supreme Court,ORG
+2437,5,CARDINAL
+2438,7 or 10,CARDINAL
+2439,two,CARDINAL
+2440,Warren Court,ORG
+2441,the Burger Court,ORG
+2442,Georgia,GPE
+2443,States,GPE
+2444,Congress,ORG
+2445,Constitution,LAW
+2446,the Supreme Court,ORG
+2447,Ford,PERSON
+2448,one,CARDINAL
+2449,the Supreme Court,ORG
+2450,the Circuit Court of Appeals,ORG
+2451,Illinois,GPE
+2452,John Paul Stevens,PERSON
+2453,a Circuit Court of Appeals,ORG
+2454,Democratic,NORP
+2455,United States,GPE
+2456,Senate,ORG
+2457,Stevens,PERSON
+2458,the Burger Court,ORG
+2459,Court,ORG
+2460,Miranda,LAW
+2461,Miranda,LAW
+2462,the Burger Court,ORG
+2463,the Burger Court,ORG
+2464,Miranda,PRODUCT
+2465,Carter,PERSON
+2466,Saturday,DATE
+2467,night,TIME
+2468,Kraft,PERSON
+2469,KRAFT,ORG
+2470,Americans,NORP
+2471,Kraft,PERSON
+2472,this past week,DATE
+2473,the third quarter,DATE
+2474,4 percent,PERCENT
+2475,the last 10 years,DATE
+2476,10-year,DATE
+2477,the 9.2-percent,PERCENT
+2478,the first quarter,DATE
+2479,5-percent,PERCENT
+2480,the second quarter,DATE
+2481,the fourth quarter of this year,DATE
+2482,the first quarter of next year,DATE
+2483,this week,DATE
+2484,18-percent,PERCENT
+2485,this week,DATE
+2486,annual,DATE
+2487,1 million,CARDINAL
+2488,last year,DATE
+2489,this year,DATE
+2490,the other day,DATE
+2491,under 5 percent,PERCENT
+2492,the 4.4 percent,PERCENT
+2493,the 4 percent,PERCENT
+2494,the 5.4 percent,PERCENT
+2495,American,NORP
+2496,today,DATE
+2497,KRAFT,ORG
+2498,Kraft,PERSON
+2499,Americans,NORP
+2500,4 million,CARDINAL
+2501,the University of Michigan,ORG
+2502,1972,DATE
+2503,a month,DATE
+2504,two,CARDINAL
+2505,9.2 percent,PERCENT
+2506,the first quarter of this year,DATE
+2507,United States,GPE
+2508,a year ago,DATE
+2509,today,DATE
+2510,Western European,NORP
+2511,Japan,GPE
+2512,The United States,GPE
+2513,American,NORP
+2514,Carter,PERSON
+2515,Ford,PERSON
+2516,the Great Depression,EVENT
+2517,Herbert Hoover,PERSON
+2518,Ford,PERSON
+2519,7 1/2 million,CARDINAL
+2520,2,CARDINAL
+2521,million,CARDINAL
+2522,American,NORP
+2523,the last 4 months,DATE
+2524,"500,000",CARDINAL
+2525,Americans,NORP
+2526,the last month,DATE
+2527,"163,000",CARDINAL
+2528,One,CARDINAL
+2529,Ford,ORG
+2530,three,CARDINAL
+2531,Johnson,PERSON
+2532,Kennedy,PERSON
+2533,less than half,CARDINAL
+2534,today,DATE
+2535,the beginning of this year,DATE
+2536,-he,CARDINAL
+2537,last year,DATE
+2538,1975,DATE
+2539,1940,DATE
+2540,35 years,DATE
+2541,35-percent,PERCENT
+2542,Ford,PERSON
+2543,Congress,ORG
+2544,2 million,CARDINAL
+2545,Americans,NORP
+2546,8 million,CARDINAL
+2547,2,CARDINAL
+2548,Maynard,PERSON
+2549,Carter,PERSON
+2550,Ford,PERSON
+2551,20,CARDINAL
+2552,Ford,PERSON
+2553,July,DATE
+2554,20,CARDINAL
+2555,the Democratic Convention,ORG
+2556,the Republican Convention,ORG
+2557,25 or 30 percent,PERCENT
+2558,Reagan,PERSON
+2559,Ford,PERSON
+2560,the Democratic Convention,ORG
+2561,the Republican Party,ORG
+2562,the Republican Convention,ORG
+2563,10,CARDINAL
+2564,49 percent,PERCENT
+2565,Ford,PERSON
+2566,39 percent,PERCENT
+2567,one,CARDINAL
+2568,Election Day,DATE
+2569,30,CARDINAL
+2570,the spring,DATE
+2571,first,ORDINAL
+2572,Gallup,ORG
+2573,first,ORDINAL
+2574,December 1975,DATE
+2575,35,CARDINAL
+2576,the beginning of the year,DATE
+2577,about 2 percent,PERCENT
+2578,hundreds of thousands,CARDINAL
+2579,Georgia,GPE
+2580,84 percent,PERCENT
+2581,14,CARDINAL
+2582,Wallace,PERSON
+2583,Georgia,GPE
+2584,today,DATE
+2585,about 500,CARDINAL
+2586,Georgians,NORP
+2587,the primary season,DATE
+2588,Washington,GPE
+2589,Washington,GPE
+2590,November 2,DATE
+2591,Ford,PERSON
+2592,Carter,PERSON
+2593,Carter,PERSON
+2594,Just a moment ago,TIME
+2595,1950,DATE
+2596,1950,DATE
+2597,Vietnam,GPE
+2598,Korea,GPE
+2599,"3,500,000",CARDINAL
+2600,Army,ORG
+2601,Navy,ORG
+2602,Air Force,ORG
+2603,Marines,NORP
+2604,Army,ORG
+2605,Navy,ORG
+2606,Air Force,ORG
+2607,Marines,NORP
+2608,"3,500,000",CARDINAL
+2609,"2,100,000",CARDINAL
+2610,"1,400,000",CARDINAL
+2611,Army,ORG
+2612,Navy,ORG
+2613,the Air Force,ORG
+2614,Marines,NORP
+2615,1950,DATE
+2616,"1,400,000",CARDINAL
+2617,today,DATE
+2618,up to 4 minutes,TIME
+2619,Philadelphia,GPE
+2620,a month ago,DATE
+2621,Ford,PERSON
+2622,first,ORDINAL
+2623,tonight,TIME
+2624,Ford,PERSON
+2625,25 years,DATE
+2626,Congress,ORG
+2627,five,CARDINAL
+2628,Democratic,NORP
+2629,Republican,NORP
+2630,the last 2 years,DATE
+2631,second,ORDINAL
+2632,the United States,GPE
+2633,over 12 percent,PERCENT
+2634,the last 40 years,DATE
+2635,Vietnam,GPE
+2636,American,NORP
+2637,first,ORDINAL
+2638,the United States,GPE
+2639,America,GPE
+2640,the next 4 years,DATE
+2641,one,CARDINAL
+2642,the United States,GPE
+2643,200th,ORDINAL
+2644,July 4,DATE
+2645,the United States,GPE
+2646,America,GPE
+2647,American,NORP
+2648,American,NORP
+2649,better than half,CARDINAL
+2650,American,NORP
+2651,tonight,TIME
+2652,the United States,GPE
+2653,America,GPE
+2654,America,GPE
+2655,November 2,DATE
+2656,Jerry Ford,PERSON
+2657,Ford,PERSON
+2658,Carter,PERSON
+2659,CARTER,ORG
+2660,Ford,PERSON
+2661,more than 800 days,DATE
+2662,John Kennedy,PERSON
+2663,American,NORP
+2664,State,ORG
+2665,Congress,ORG
+2666,Washington,GPE
+2667,Georgia,GPE
+2668,4 years,DATE
+2669,the year,DATE
+2670,$ 50 million,MONEY
+2671,Georgia,GPE
+2672,600,MONEY
+2673,700 percent,PERCENT
+2674,8 years ago,DATE
+2675,Republicans,NORP
+2676,the White House,FAC
+2677,less than a third,CARDINAL
+2678,last year,DATE
+2679,$ 65 billion,MONEY
+2680,the United States,GPE
+2681,the Congress of the United States,ORG
+2682,the United States,GPE
+2683,American,NORP
+2684,Washington,GPE
+2685,the White House,FAC
+2686,Congress,ORG
+2687,Earth,LOC
+2688,Carter,PERSON
+2689,Ford,PERSON
+2690,three,CARDINAL
+2691,Kraft,ORG
+2692,Maynard,PERSON
+2693,Nelson,PERSON
+2694,millions,CARDINAL
+2695,Americans,NORP
+2696,tonight,TIME
+2697,113,CARDINAL
+2698,1976,DATE
+2699,first,ORDINAL
+2700,16 years,DATE
+2701,first,ORDINAL
+2702,first,ORDINAL
+2703,two,CARDINAL
+2704,Ford,PERSON
+2705,Carter,PERSON
+2706,American,NORP
+2707,the League of Women Voters,ORG
+2708,the League of Women Voters Education Fund,ORG
+2709,only 11 days,DATE
+2710,three,CARDINAL
+2711,90-minute,TIME
+2712,November 2,DATE
+2713,Kappa Memorial Hall,PERSON
+2714,the College of William,ORG
+2715,Mary,PERSON
+2716,Barbara Walters,PERSON
+2717,Julia Coleman,PERSON
+2718,Bible,WORK_OF_ART
+2719,first,ORDINAL
+2720,1789,DATE
+2721,Bible,WORK_OF_ART
+2722,a few years ago,DATE
+2723,Two centuries ago,DATE
+2724,Nation,ORG
+2725,today,DATE
+2726,first,ORDINAL
+2727,American,NORP
+2728,America,GPE
+2729,America,GPE
+2730,this day,DATE
+2731,this year,DATE
+2732,Earth,LOC
+2733,the United States,GPE
+2734,Micah,GPE
+2735,American,NORP
+2736,Nation,ORG
+2737,American,NORP
+2738,evening,TIME
+2739,Tomorrow,DATE
+2740,two weeks,DATE
+2741,the coming months,DATE
+2742,tonight,TIME
+2743,Congress,ORG
+2744,One,CARDINAL
+2745,the United States,GPE
+2746,this winter,DATE
+2747,hundreds of thousands,CARDINAL
+2748,Congress,ORG
+2749,the Emergency Natural Gas Act,ORG
+2750,today,DATE
+2751,just a few minutes ago,TIME
+2752,this winter,DATE
+2753,this winter,DATE
+2754,Congress,ORG
+2755,James Schlesinger,PERSON
+2756,Americans,NORP
+2757,April 20,DATE
+2758,Congress,ORG
+2759,more than 50,CARDINAL
+2760,the Federal Government,ORG
+2761,Later this month,DATE
+2762,Congress,ORG
+2763,65 degrees,QUANTITY
+2764,55 degrees,QUANTITY
+2765,half,CARDINAL
+2766,Congress,ORG
+2767,this year,DATE
+2768,Congress,ORG
+2769,American,NORP
+2770,a couple of weeks ago,DATE
+2771,the last 40 years,DATE
+2772,More than 7 1/2 million,CARDINAL
+2773,American,NORP
+2774,"1,800",MONEY
+2775,American,NORP
+2776,Congress,ORG
+2777,Two days ago,DATE
+2778,Congress,ORG
+2779,One,CARDINAL
+2780,This year,DATE
+2781,one,CARDINAL
+2782,four,CARDINAL
+2783,"10,000",MONEY
+2784,200,MONEY
+2785,30-percent,PERCENT
+2786,one,CARDINAL
+2787,four,CARDINAL
+2788,"10,000",MONEY
+2789,133,MONEY
+2790,about 20 percent,PERCENT
+2791,75 percent,PERCENT
+2792,this year,DATE
+2793,the Vietnam war,EVENT
+2794,thousands,CARDINAL
+2795,one,CARDINAL
+2796,the war years,DATE
+2797,one,CARDINAL
+2798,one,CARDINAL
+2799,the Federal Government,ORG
+2800,the White House,FAC
+2801,White House,ORG
+2802,nearly one-third,CARDINAL
+2803,Cabinet,ORG
+2804,Government,ORG
+2805,"1,250",CARDINAL
+2806,White House,ORG
+2807,Washington,GPE
+2808,English,LANGUAGE
+2809,Cabinet,ORG
+2810,This week,DATE
+2811,Congress,ORG
+2812,Franklin Roosevelt,PERSON
+2813,Richard Nixon,PERSON
+2814,Congress,ORG
+2815,The Office of Management and Budget,ORG
+2816,zero,CARDINAL
+2817,first,ORDINAL
+2818,first,ORDINAL
+2819,Congress,ORG
+2820,American,NORP
+2821,Congress,ORG
+2822,the end of this year,DATE
+2823,Labor,ORG
+2824,"Health, Education",ORG
+2825,Welfare,PRODUCT
+2826,Congress,ORG
+2827,first,ORDINAL
+2828,90 days,DATE
+2829,Congress,ORG
+2830,Medicaid,ORG
+2831,Congress,ORG
+2832,Cabinet,ORG
+2833,Town Hall,FAC
+2834,the Oval Office,FAC
+2835,Cabinet,ORG
+2836,tonight,TIME
+2837,Congress,ORG
+2838,Congress,ORG
+2839,Nation,ORG
+2840,the Armed Forces,ORG
+2841,Nation,ORG
+2842,Yesterday,DATE
+2843,Mondale,PERSON
+2844,10-day,DATE
+2845,Western Europe,LOC
+2846,Japan,GPE
+2847,Mondale,PERSON
+2848,the United States,GPE
+2849,Canada,GPE
+2850,Mexico,GPE
+2851,This month,DATE
+2852,State,ORG
+2853,Cyrus Vance,PERSON
+2854,the Middle East,LOC
+2855,Israel,GPE
+2856,Arab,NORP
+2857,the United Nations,ORG
+2858,Andrew Young,PERSON
+2859,last night,TIME
+2860,Africa,LOC
+2861,Africa,LOC
+2862,the Soviet Union,GPE
+2863,the People's Republic of China,GPE
+2864,this past week,DATE
+2865,Congress,ORG
+2866,the months,DATE
+2867,almost 10 years,DATE
+2868,World War II,EVENT
+2869,Nazism,NORP
+2870,Good morning,TIME
+2871,two,CARDINAL
+2872,Congress,ORG
+2873,this morning,TIME
+2874,about $ 1/2 billion,MONEY
+2875,the last 2 years,DATE
+2876,More than half,CARDINAL
+2877,less than 24 years old,DATE
+2878,16 to 19 years old,DATE
+2879,18-percent,PERCENT
+2880,more than 40 percent,PERCENT
+2881,Youth Conservation Corps,ORG
+2882,the Depression years,EVENT
+2883,Civilian Conservation Corps,ORG
+2884,CCC,ORG
+2885,the Departments of Agriculture and Interior,ORG
+2886,a Youth Community Conservation Corps,ORG
+2887,about a million,CARDINAL
+2888,million,CARDINAL
+2889,the summer,DATE
+2890,Congress,ORG
+2891,Congress,ORG
+2892,American,NORP
+2893,Helsinki,ORG
+2894,this year,DATE
+2895,Belgrade,GPE
+2896,Helsinki,ORG
+2897,State,ORG
+2898,American,NORP
+2899,Vietnam,GPE
+2900,North Korea,GPE
+2901,Cuba,GPE
+2902,Cambodia,GPE
+2903,the 18th day of March,DATE
+2904,Thomas,PERSON
+2905,Helen Thomas,PERSON
+2906,United Press International,ORG
+2907,American,NORP
+2908,the U.N. Human Rights Commission,ORG
+2909,Chile,GPE
+2910,today,DATE
+2911,Chile,GPE
+2912,American,NORP
+2913,first,ORDINAL
+2914,the Soviet Union,GPE
+2915,Congress,ORG
+2916,Latin America,LOC
+2917,Communist,NORP
+2918,Eastern Europe,LOC
+2919,the Soviet Union,GPE
+2920,the United States of America,GPE
+2921,American,NORP
+2922,Chilean,NORP
+2923,Church,ORG
+2924,Senate,ORG
+2925,the United States,GPE
+2926,Chile,GPE
+2927,Chile,GPE
+2928,2 upcoming fiscal years,DATE
+2929,Congress,ORG
+2930,Q.,ORG
+2931,the Middle East,LOC
+2932,Middle East,LOC
+2933,Israelis,NORP
+2934,the 1967 war,EVENT
+2935,the Middle East,LOC
+2936,Arab,NORP
+2937,Israeli,NORP
+2938,Israeli,NORP
+2939,Israeli,NORP
+2940,two,CARDINAL
+2941,Israel,GPE
+2942,Israeli,NORP
+2943,Israel,GPE
+2944,2 years,DATE
+2945,4 years,DATE
+2946,8 years,DATE
+2947,Israel,GPE
+2948,Israel,GPE
+2949,Israel,GPE
+2950,Israel,GPE
+2951,the Middle East,LOC
+2952,Israel,GPE
+2953,Israel,GPE
+2954,1967,DATE
+2955,1977,DATE
+2956,Geneva,GPE
+2957,1,CARDINAL
+2958,American,NORP
+2959,Korea,GPE
+2960,Congress,ORG
+2961,Army,ORG
+2962,Congress,ORG
+2963,fiscal 1978,DATE
+2964,Korea,GPE
+2965,3,CARDINAL
+2966,years,DATE
+2967,more than $ 110 million,MONEY
+2968,American,NORP
+2969,Korea,GPE
+2970,this afternoon,TIME
+2971,South Korea,GPE
+2972,Vessey,PERSON
+2973,Armed Forces in South Korea,ORG
+2974,the campaign months,DATE
+2975,5-year,DATE
+2976,American,NORP
+2977,the South Korean Government,ORG
+2978,Japan,GPE
+2979,South Korea,GPE
+2980,the South Korean Government,ORG
+2981,North Korea,GPE
+2982,American,NORP
+2983,South Korea,GPE
+2984,1,CARDINAL
+2985,Q.,ORG
+2986,Israeli,NORP
+2987,Israeli,NORP
+2988,just a few seconds later,TIME
+2989,Israelis,NORP
+2990,1967,DATE
+2991,1967,DATE
+2992,Israel,GPE
+2993,the middle of May,DATE
+2994,Lebanon,GPE
+2995,Syria,GPE
+2996,Jordan,GPE
+2997,Egypt,GPE
+2998,Saudi Arabia,GPE
+2999,the middle of May.,DATE
+3000,three,CARDINAL
+3001,One,CARDINAL
+3002,the Middle East,LOC
+3003,second,ORDINAL
+3004,third,ORDINAL
+3005,Palestinian,NORP
+3006,1,CARDINAL
+3007,Q.,ORG
+3008,the Department of Housing and Urban Development,ORG
+3009,Harris,PERSON
+3010,1975,DATE
+3011,1975,DATE
+3012,the Federal Government,ORG
+3013,Harris,PERSON
+3014,Q.,ORG
+3015,last week,DATE
+3016,Turner,PERSON
+3017,CIA,ORG
+3018,Mondale,PERSON
+3019,Mondale,PERSON
+3020,Q.,PERSON
+3021,first,ORDINAL
+3022,Turner,PERSON
+3023,CIA,ORG
+3024,this afternoon,TIME
+3025,Ford,PERSON
+3026,The Intelligence Oversight Board,ORG
+3027,three,CARDINAL
+3028,Ford,PERSON
+3029,Inouye,PERSON
+3030,Senate,ORG
+3031,six,CARDINAL
+3032,House,ORG
+3033,1,CARDINAL
+3034,Turner,PERSON
+3035,Senate,ORG
+3036,Warnke,PERSON
+3037,Senate,ORG
+3038,Warnke,PERSON
+3039,the Soviet Union,GPE
+3040,SALT,ORG
+3041,Senate,ORG
+3042,Russians,NORP
+3043,the Joint Chiefs of Staff,ORG
+3044,the Joint Chiefs of Staff,ORG
+3045,Senate,ORG
+3046,Warnke,PERSON
+3047,Warnke,PERSON
+3048,the Soviet Union,GPE
+3049,the Soviet Union,GPE
+3050,Warnke,PERSON
+3051,Warnke,PERSON
+3052,one,CARDINAL
+3053,Warnke,PERSON
+3054,State,ORG
+3055,Senate,ORG
+3056,two-thirds,CARDINAL
+3057,the Soviet Union,GPE
+3058,Warnke,PERSON
+3059,Washington,GPE
+3060,Richard Helms,PERSON
+3061,CIA,ORG
+3062,CIA,ORG
+3063,Helms,PERSON
+3064,the Justice Department,ORG
+3065,two,CARDINAL
+3066,the Justice Department,ORG
+3067,last week,DATE
+3068,Bell,PERSON
+3069,the sixties,DATE
+3070,600,CARDINAL
+3071,LEAA,PERSON
+3072,Bell,PERSON
+3073,one,CARDINAL
+3074,LEAA,PERSON
+3075,the sixties,DATE
+3076,the United States,GPE
+3077,600,CARDINAL
+3078,1,CARDINAL
+3079,Q.,ORG
+3080,Donaldson,PERSON
+3081,Sam Donaldson,PERSON
+3082,ABC News,ORG
+3083,Helms,PERSON
+3084,Lipshutz,PERSON
+3085,last week,DATE
+3086,the White House,FAC
+3087,the Justice Department,ORG
+3088,the Justice Department,ORG
+3089,the State Department,ORG
+3090,CIA,ORG
+3091,Lipshutz,PERSON
+3092,last Friday,DATE
+3093,the White House,FAC
+3094,Lipshutz,PERSON
+3095,the White House,ORG
+3096,1,CARDINAL
+3097,Ohio,GPE
+3098,Moore,PERSON
+3099,about 24 hours,TIME
+3100,Moore,PERSON
+3101,Moore,PERSON
+3102,Moore,PERSON
+3103,Q.,ORG
+3104,Israeli,NORP
+3105,the Sinai Desert,LOC
+3106,the Golan Heights,LOC
+3107,Israelis,NORP
+3108,first,ORDINAL
+3109,Israel,GPE
+3110,Israeli,NORP
+3111,20 kilometers,QUANTITY
+3112,Sinai,FAC
+3113,Egypt,GPE
+3114,Israeli,NORP
+3115,1,CARDINAL
+3116,Arab,NORP
+3117,Schlesinger,PERSON
+3118,Senate,ORG
+3119,April 20th,DATE
+3120,1881,DATE
+3121,SALT,ORG
+3122,Backfire,PERSON
+3123,1,CARDINAL
+3124,Russian,NORP
+3125,The Soviet Union,GPE
+3126,Backfire,PERSON
+3127,SALT II,ORG
+3128,Backfire,PERSON
+3129,Soviets,NORP
+3130,two,CARDINAL
+3131,the Soviet Union,GPE
+3132,the Indian Ocean,LOC
+3133,Soviets,NORP
+3134,Earth,LOC
+3135,Soviets,NORP
+3136,first,ORDINAL
+3137,Tonight,TIME
+3138,the next few years,DATE
+3139,this century,DATE
+3140,Two days from now,DATE
+3141,Congress,ORG
+3142,American,NORP
+3143,Congress,ORG
+3144,1973,DATE
+3145,tonight,TIME
+3146,1973,DATE
+3147,a few weeks ago,DATE
+3148,winter,DATE
+3149,75 percent,PERCENT
+3150,about 6 percent,PERCENT
+3151,the last 5 years,DATE
+3152,1980,DATE
+3153,about 60 million barrels,QUANTITY
+3154,each year,DATE
+3155,about 5 percent,PERCENT
+3156,Texas,GPE
+3157,Alaskan,NORP
+3158,every 9 months,DATE
+3159,Saudi Arabia,GPE
+3160,every 3 years,DATE
+3161,the last several hundred years,DATE
+3162,first,ORDINAL
+3163,about 200 years ago,DATE
+3164,about 90 percent,PERCENT
+3165,the Industrial Revolution,EVENT
+3166,second,ORDINAL
+3167,this century,DATE
+3168,today,DATE
+3169,third,ORDINAL
+3170,1950,DATE
+3171,1940,DATE
+3172,1960,DATE
+3173,1950,DATE
+3174,those decades,DATE
+3175,1970,DATE
+3176,1980,DATE
+3177,5 percent,PERCENT
+3178,the end of the next decade,DATE
+3179,Alaska,GPE
+3180,North Slope,ORG
+3181,a few years,DATE
+3182,the North Slope,ORG
+3183,2 years ',DATE
+3184,6 or 8 years,DATE
+3185,1980,DATE
+3186,the next few years,DATE
+3187,American,NORP
+3188,60 barrels,QUANTITY
+3189,each year,DATE
+3190,Earth,LOC
+3191,Germany,GPE
+3192,Japan,GPE
+3193,Sweden,GPE
+3194,One,CARDINAL
+3195,a few more years,DATE
+3196,Three-quarters,DATE
+3197,about 50 percent,PERCENT
+3198,two-thirds,CARDINAL
+3199,1985,DATE
+3200,33 percent,PERCENT
+3201,today,DATE
+3202,Six years ago,DATE
+3203,$ 3.7 billion,MONEY
+3204,Last year,DATE
+3205,$ 36 billion,MONEY
+3206,nearly 10,CARDINAL
+3207,this year,DATE
+3208,$ 45 billion,MONEY
+3209,more than $ 550 billion,MONEY
+3210,1985,DATE
+3211,"more than $ 2,500",MONEY
+3212,America,GPE
+3213,American,NORP
+3214,10 years,DATE
+3215,Intense,NORP
+3216,Wednesday,DATE
+3217,10,CARDINAL
+3218,first,ORDINAL
+3219,second,ORDINAL
+3220,hundreds of thousands,CARDINAL
+3221,third,ORDINAL
+3222,fourth,ORDINAL
+3223,fifth,ORDINAL
+3224,sixth,ORDINAL
+3225,about $ 2,MONEY
+3226,about $ 13,MONEY
+3227,seventh,ORDINAL
+3228,eighth,ORDINAL
+3229,one,CARDINAL
+3230,1,CARDINAL
+3231,Congress,ORG
+3232,Department of Energy,ORG
+3233,more than 50,CARDINAL
+3234,ninth,ORDINAL
+3235,75 percent,PERCENT
+3236,7 percent,PERCENT
+3237,tenth,ORDINAL
+3238,the next century,DATE
+3239,10,CARDINAL
+3240,Congress,ORG
+3241,Wednesday,DATE
+3242,night,TIME
+3243,1985,DATE
+3244,less than 2 percent,PERCENT
+3245,10 percent,PERCENT
+3246,half,CARDINAL
+3247,1881,DATE
+3248,16 million barrels,QUANTITY
+3249,6 million barrels,QUANTITY
+3250,one billion barrels,QUANTITY
+3251,more than,CARDINAL
+3252,6-months,DATE
+3253,about two-thirds,CARDINAL
+3254,90 percent,PERCENT
+3255,American,NORP
+3256,more than 2 1/2 million,CARDINAL
+3257,year,DATE
+3258,year,DATE
+3259,this late date,DATE
+3260,Washington,GPE
+3261,American,NORP
+3262,1,CARDINAL
+3263,first,ORDINAL
+3264,Americans,NORP
+3265,Hesburgh,PERSON
+3266,Notre Dame,FAC
+3267,this afternoon,TIME
+3268,1,CARDINAL
+3269,this afternoon,TIME
+3270,Navy,ORG
+3271,this afternoon,TIME
+3272,the White House,ORG
+3273,first,ORDINAL
+3274,almost 150 years,DATE
+3275,two,CARDINAL
+3276,Charles Kirbo,PERSON
+3277,two,CARDINAL
+3278,just a few minutes,TIME
+3279,his 25 years,DATE
+3280,Notre Dame,FAC
+3281,Hesburgh,PERSON
+3282,the Notre Dame Center for Civil Rights,FAC
+3283,last fall,DATE
+3284,last month's,DATE
+3285,American,NORP
+3286,today,DATE
+3287,Bishop Donal Lamont,ORG
+3288,Paul Cardinal Arns,PERSON
+3289,Stephen Cardinal Kim,PERSON
+3290,Rhodesia,GPE
+3291,Brazil,GPE
+3292,South Korea,GPE
+3293,three,CARDINAL
+3294,1,CARDINAL
+3295,Last week,DATE
+3296,California,GPE
+3297,today,DATE
+3298,American,NORP
+3299,the past few years,DATE
+3300,American,NORP
+3301,215 million,CARDINAL
+3302,India,GPE
+3303,Portugal,GPE
+3304,Spain,GPE
+3305,Greece,GPE
+3306,1,CARDINAL
+3307,too many years,DATE
+3308,Vietnam,GPE
+3309,Nation,ORG
+3310,200 years,DATE
+3311,1945,DATE
+3312,Europe,LOC
+3313,America,GPE
+3314,two,CARDINAL
+3315,Soviet,NORP
+3316,Communist,NORP
+3317,Atlantic,LOC
+3318,the Soviet Union,GPE
+3319,Vietnamese,NORP
+3320,almost 100,CARDINAL
+3321,first,ORDINAL
+3322,America,GPE
+3323,American,NORP
+3324,150,CARDINAL
+3325,five,CARDINAL
+3326,American,NORP
+3327,last January,DATE
+3328,First,ORDINAL
+3329,America,GPE
+3330,Americans,NORP
+3331,Thomas Paine's,PERSON
+3332,Martin Luther King,PERSON
+3333,I Have a Dream,WORK_OF_ART
+3334,today,DATE
+3335,Second,ORDINAL
+3336,London,GPE
+3337,North-South,LOC
+3338,NATO,ORG
+3339,first,ORDINAL
+3340,more than 25 years,DATE
+3341,Third,ORDINAL
+3342,the Soviet Union,GPE
+3343,the Indian Ocean,LOC
+3344,the Soviet Union,GPE
+3345,two,CARDINAL
+3346,the Soviet Union,GPE
+3347,one,CARDINAL
+3348,Cuban,NORP
+3349,Angola,GPE
+3350,the Soviet Union,GPE
+3351,Fourth,ORDINAL
+3352,the Middle East,LOC
+3353,Israel,GPE
+3354,Syria,GPE
+3355,Jordan,GPE
+3356,three,CARDINAL
+3357,Israelis,NORP
+3358,Arab,NORP
+3359,secondly,ORDINAL
+3360,Palestinian,NORP
+3361,the United States,GPE
+3362,Israel,GPE
+3363,the Middle East,LOC
+3364,Israel,GPE
+3365,United Nations Resolutions,ORG
+3366,242,CARDINAL
+3367,338,CARDINAL
+3368,Israeli,NORP
+3369,almost 30 years ago,DATE
+3370,the Middle East,LOC
+3371,fifth,ORDINAL
+3372,annual,DATE
+3373,Latin America,LOC
+3374,Africa,LOC
+3375,Asia,LOC
+3376,More than 100 years ago,DATE
+3377,Abraham Lincoln,PERSON
+3378,one-third,CARDINAL
+3379,two-thirds,CARDINAL
+3380,OPEC,ORG
+3381,Communist,NORP
+3382,the People's Republic of China,GPE
+3383,American,NORP
+3384,Chinese,NORP
+3385,China,GPE
+3386,Chinese,NORP
+3387,Africa,LOC
+3388,The United States,GPE
+3389,European,NORP
+3390,African States,LOC
+3391,African,NORP
+3392,America,GPE
+3393,Americans,NORP
+3394,First,ORDINAL
+3395,27,CARDINAL
+3396,20,CARDINAL
+3397,the Hall of the Americas,FAC
+3398,the United States,GPE
+3399,two,CARDINAL
+3400,the Panama Canal,FAC
+3401,Panama,GPE
+3402,the next 23 years,DATE
+3403,the United States,GPE
+3404,the Organization of American States,ORG
+3405,the United Nations,ORG
+3406,Panama,GPE
+3407,Panama,GPE
+3408,Bogota,GPE
+3409,the United States,GPE
+3410,Panama,GPE
+3411,Panama,GPE
+3412,the United States,GPE
+3413,years,DATE
+3414,the Organization of American States,ORG
+3415,the White House,FAC
+3416,the Panama Canal Treaty,FAC
+3417,1903,DATE
+3418,today,DATE
+3419,Latin America,LOC
+3420,14 years,DATE
+3421,four,CARDINAL
+3422,the United States,GPE
+3423,Ford,PERSON
+3424,tonight,TIME
+3425,1,CARDINAL
+3426,Lyndon Johnson,PERSON
+3427,tonight,TIME
+3428,Dean Rusk,PERSON
+3429,State,ORG
+3430,William Rogers,PERSON
+3431,State,ORG
+3432,Henry Kissinger,PERSON
+3433,tonight,TIME
+3434,American,NORP
+3435,evening,TIME
+3436,More than six months ago,DATE
+3437,April,DATE
+3438,the next day,DATE
+3439,Congress,ORG
+3440,Congress,ORG
+3441,Congress,ORG
+3442,Department of Energy,ORG
+3443,James Schlesinger,PERSON
+3444,the National Energy Plan,ORG
+3445,Last week,DATE
+3446,Senate,ORG
+3447,House,ORG
+3448,Senate,ORG
+3449,the next few weeks,DATE
+3450,Congress,ORG
+3451,Tonight,TIME
+3452,This summer,DATE
+3453,April,DATE
+3454,$ 23 billion,MONEY
+3455,about $ 350,MONEY
+3456,American,NORP
+3457,A few weeks ago,DATE
+3458,Detroit,GPE
+3459,1,CARDINAL
+3460,1,CARDINAL
+3461,10-year-old,DATE
+3462,1 56 years old,DATE
+3463,2 years,DATE
+3464,1 year,DATE
+3465,about $ 45 billion,MONEY
+3466,American,NORP
+3467,$ 5 billion,MONEY
+3468,"200,000",CARDINAL
+3469,American,NORP
+3470,American,NORP
+3471,the United States,GPE
+3472,Nation,ORG
+3473,This year,DATE
+3474,at least $ 25 billion,MONEY
+3475,American,NORP
+3476,the United States,GPE
+3477,Armed Forces,ORG
+3478,the United States,GPE
+3479,America,GPE
+3480,America,GPE
+3481,Defense,ORG
+3482,Yesterday,DATE
+3483,Christmas,DATE
+3484,this year,DATE
+3485,one,CARDINAL
+3486,One,CARDINAL
+3487,OPEC,ORG
+3488,almost five,CARDINAL
+3489,1973,DATE
+3490,the last 10 years,DATE
+3491,1973,DATE
+3492,Japanese,NORP
+3493,Germans,NORP
+3494,French,NORP
+3495,British,NORP
+3496,Italians,NORP
+3497,the United States,GPE
+3498,more than 40 percent,PERCENT
+3499,Ten years ago,DATE
+3500,just 2 1/2 million,CARDINAL
+3501,about 20 percent,PERCENT
+3502,1972,DATE
+3503,about 30 percent,PERCENT
+3504,This year,DATE
+3505,nearly 9 million barrels,QUANTITY
+3506,almost one-half,CARDINAL
+3507,three,CARDINAL
+3508,first,ORDINAL
+3509,second,ORDINAL
+3510,third,ORDINAL
+3511,the United States,GPE
+3512,Congress,ORG
+3513,Congress,ORG
+3514,American,NORP
+3515,Congress,ORG
+3516,each year,DATE
+3517,about $ 2 billion,MONEY
+3518,each year,DATE
+3519,3 years,DATE
+3520,annually,DATE
+3521,tens of billions of dollars,MONEY
+3522,consumers $ 70 billion,MONEY
+3523,between now and 1985,DATE
+3524,billions and billions of dollars,MONEY
+3525,American,NORP
+3526,Congress,ORG
+3527,last April,DATE
+3528,three,CARDINAL
+3529,First,ORDINAL
+3530,American,NORP
+3531,Second,ORDINAL
+3532,the United States,GPE
+3533,third,ORDINAL
+3534,three,CARDINAL
+3535,the next few weeks,DATE
+3536,Congress,ORG
+3537,Congress,ORG
+3538,House,ORG
+3539,Senate,ORG
+3540,1,CARDINAL
+3541,the United States,GPE
+3542,6 months ago,DATE
+3543,just 4 years,DATE
+3544,6,DATE
+3545,Congress,ORG
+3546,only 2 years,DATE
+3547,the next year,DATE
+3548,Congress,ORG
+3549,Americans,NORP
+3550,one,CARDINAL
+3551,first,ORDINAL
+3552,the years ahead,DATE
+3553,today,DATE
+3554,tomorrow,DATE
+3555,last-minute,TIME
+3556,a hundred years from now,DATE
+3557,the next few weeks,DATE
+3558,Congress,ORG
+3559,the months and the years,DATE
+3560,an election day,DATE
+3561,1,CARDINAL
+3562,Speaker,PERSON
+3563,95th,ORDINAL
+3564,Congress,ORG
+3565,Two years ago,DATE
+3566,first,ORDINAL
+3567,Iowa,GPE
+3568,one year ago tomorrow,DATE
+3569,the White House,ORG
+3570,the United States,GPE
+3571,tonight,TIME
+3572,one,CARDINAL
+3573,Constitution,LAW
+3574,Congress,ORG
+3575,Union,GPE
+3576,tonight,TIME
+3577,Americans,NORP
+3578,Abraham Lincoln,PERSON
+3579,the War Between,EVENT
+3580,Franklin Roosevelt,PERSON
+3581,America,GPE
+3582,America,GPE
+3583,Harry Truman,PERSON
+3584,the years,DATE
+3585,the Second World War,EVENT
+3586,Europe,LOC
+3587,Japan,GPE
+3588,American,NORP
+3589,Washington,GPE
+3590,American,NORP
+3591,first,ORDINAL
+3592,the years,DATE
+3593,Congress,ORG
+3594,American,NORP
+3595,Washington,GPE
+3596,more than $ 120 million,MONEY
+3597,Congress,ORG
+3598,American,NORP
+3599,Almost five years,DATE
+3600,this year,DATE
+3601,Last year,DATE
+3602,the United States,GPE
+3603,1977,DATE
+3604,Four million,CARDINAL
+3605,more than a million,CARDINAL
+3606,1974,DATE
+3607,World War II,EVENT
+3608,American,NORP
+3609,this year,DATE
+3610,first,ORDINAL
+3611,$ 2 trillion,MONEY
+3612,the first year,DATE
+3613,Americans,NORP
+3614,four,CARDINAL
+3615,First,ORDINAL
+3616,Secondly,ORDINAL
+3617,Third,ORDINAL
+3618,fourth,ORDINAL
+3619,later this week,DATE
+3620,American,NORP
+3621,$ 25 billion,MONEY
+3622,Almost $ 17 billion,MONEY
+3623,Ninety-six percent,PERCENT
+3624,American,NORP
+3625,four,CARDINAL
+3626,annual,DATE
+3627,more than $ 250,MONEY
+3628,about 20 percent,PERCENT
+3629,$ 2 billion,MONEY
+3630,Hispanics,NORP
+3631,Congress,ORG
+3632,a year ago,DATE
+3633,more than a million,CARDINAL
+3634,Americans,NORP
+3635,Humphrey-Hawkins,PERSON
+3636,1979,DATE
+3637,less than 2 percent,PERCENT
+3638,four years,DATE
+3639,Americans,NORP
+3640,Next year,DATE
+3641,this year,DATE
+3642,one-third,CARDINAL
+3643,This year,DATE
+3644,third,ORDINAL
+3645,1,CARDINAL
+3646,1978,DATE
+3647,the last two years,DATE
+3648,Capitol,FAC
+3649,1,CARDINAL
+3650,Congress,ORG
+3651,Carters Warehouse,PERSON
+3652,5,CARDINAL
+3653,about $ 40,MONEY
+3654,about $ 100,MONEY
+3655,150 percent,PERCENT
+3656,this past year,DATE
+3657,1977,DATE
+3658,Congress,ORG
+3659,October 1,DATE
+3660,first,ORDINAL
+3661,1978,DATE
+3662,$ 6.5 billion,MONEY
+3663,Last year,DATE
+3664,$ 24 billion,MONEY
+3665,this year,DATE
+3666,American,NORP
+3667,American,NORP
+3668,Congress,ORG
+3669,this year,DATE
+3670,tonight,TIME
+3671,these past years,DATE
+3672,Americans,NORP
+3673,Abraham Lincoln,PERSON
+3674,a period of three years,DATE
+3675,almost 500,CARDINAL
+3676,American,NORP
+3677,more than 12 percent,PERCENT
+3678,less than a year,DATE
+3679,English,LANGUAGE
+3680,11,CARDINAL
+3681,Department of Energy,ORG
+3682,Department of Education,ORG
+3683,American,NORP
+3684,millions,CARDINAL
+3685,a few terrifying seconds,TIME
+3686,Tonight,TIME
+3687,the United States,GPE
+3688,Thousands,CARDINAL
+3689,the United States,GPE
+3690,American,NORP
+3691,three,CARDINAL
+3692,first,ORDINAL
+3693,Europe,LOC
+3694,this year,DATE
+3695,the Soviet Union,GPE
+3696,Earth,LOC
+3697,this year,DATE
+3698,the United States,GPE
+3699,30 years,DATE
+3700,Great Britain,GPE
+3701,the Soviet Union,GPE
+3702,year,DATE
+3703,Every American,NORP
+3704,second,ORDINAL
+3705,the Middle East,LOC
+3706,Middle Eastern,NORP
+3707,third,ORDINAL
+3708,American,NORP
+3709,Last fall,DATE
+3710,America,GPE
+3711,American,NORP
+3712,Africa,LOC
+3713,Asia,LOC
+3714,Latin America,LOC
+3715,one,CARDINAL
+3716,the Panama Canal,FAC
+3717,Senate,ORG
+3718,four,CARDINAL
+3719,two,CARDINAL
+3720,Democratic,NORP
+3721,two,CARDINAL
+3722,Republican,NORP
+3723,Panamanians,NORP
+3724,the United States,GPE
+3725,One,CARDINAL
+3726,India,GPE
+3727,Warsaw,GPE
+3728,this century,DATE
+3729,two,CARDINAL
+3730,Americans,NORP
+3731,our best years,DATE
+3732,America,GPE
+3733,tonight,TIME
+3734,Last week,DATE
+3735,Senate,ORG
+3736,Lee Metcalf,PERSON
+3737,Montana,GPE
+3738,today,DATE
+3739,the United States,GPE
+3740,Capitol,FAC
+3741,American,NORP
+3742,Hubert Humphrey,PERSON
+3743,American,NORP
+3744,Humphrey,PERSON
+3745,tonight,TIME
+3746,Bible,WORK_OF_ART
+3747,first,ORDINAL
+3748,Camp David,FAC
+3749,first,ORDINAL
+3750,tonight,TIME
+3751,a year ago,DATE
+3752,a month ago,DATE
+3753,two,CARDINAL
+3754,13 long days,DATE
+3755,Camp David,FAC
+3756,the Middle East,LOC
+3757,the last 30 years,DATE
+3758,overnight,TIME
+3759,One,CARDINAL
+3760,Sadat,PERSON
+3761,tonight,TIME
+3762,A Framework for Peace,WORK_OF_ART
+3763,the Middle East,LOC
+3764,the West Bank,GPE
+3765,Gaza,GPE
+3766,Palestinian,NORP
+3767,5-year,DATE
+3768,the West Bank,GPE
+3769,Gaza,GPE
+3770,Israeli,NORP
+3771,Israeli,NORP
+3772,Israel,GPE
+3773,Palestinians,NORP
+3774,the West Bank,GPE
+3775,Gaza,GPE
+3776,Israeli,NORP
+3777,United Nations Security Council Resolution,ORG
+3778,242,CARDINAL
+3779,Israel,GPE
+3780,Israel,GPE
+3781,Sadat,PERSON
+3782,one,CARDINAL
+3783,Earth,LOC
+3784,Framework for the Conclusion of a Peace Treaty,WORK_OF_ART
+3785,Egypt,GPE
+3786,Israel,GPE
+3787,Egyptian,NORP
+3788,Israeli,NORP
+3789,two,CARDINAL
+3790,tomorrow,DATE
+3791,two,CARDINAL
+3792,Camp David,EVENT
+3793,the Middle East,LOC
+3794,one,CARDINAL
+3795,Egypt,GPE
+3796,Israeli,NORP
+3797,Egyptian,NORP
+3798,Israel,GPE
+3799,Israeli,NORP
+3800,the next two weeks,DATE
+3801,Knesset,ORG
+3802,Tomorrow night,TIME
+3803,Congress,ORG
+3804,the United States,GPE
+3805,the last two weeks,DATE
+3806,three,CARDINAL
+3807,endless hours,TIME
+3808,30 years,DATE
+3809,two,CARDINAL
+3810,the long days,DATE
+3811,Camp David,FAC
+3812,many months,DATE
+3813,tonight,TIME
+3814,the last 10 years,DATE
+3815,the United States,GPE
+3816,6 1/2 percent,PERCENT
+3817,the 3 years,DATE
+3818,8 percent,PERCENT
+3819,the past 21 months,DATE
+3820,more than 6 million,CARDINAL
+3821,American,NORP
+3822,about 25 percent,PERCENT
+3823,tonight,TIME
+3824,the months ahead,DATE
+3825,two,CARDINAL
+3826,One,CARDINAL
+3827,Federal Government,ORG
+3828,millions,CARDINAL
+3829,many hours,TIME
+3830,the last few months,DATE
+3831,one,CARDINAL
+3832,tonight,TIME
+3833,Nation,ORG
+3834,the White House,ORG
+3835,Congress,ORG
+3836,Capitol Hill,ORG
+3837,Earth,LOC
+3838,one-third,CARDINAL
+3839,more than $ 66 billion,MONEY
+3840,fiscal year 1976,DATE
+3841,about $ 40 billion,MONEY
+3842,fiscal year 1979,DATE
+3843,more than $ 25 billion,MONEY
+3844,just 3 years,DATE
+3845,Next year,DATE
+3846,less than one-half,CARDINAL
+3847,$ 30 billion,MONEY
+3848,Government,ORG
+3849,23 percent,PERCENT
+3850,21 percent,PERCENT
+3851,fiscal year 1981,DATE
+3852,1 year earlier,DATE
+3853,Congress,ORG
+3854,Congress,ORG
+3855,today,DATE
+3856,"more than 20,000",CARDINAL
+3857,this fiscal year,DATE
+3858,5-percent,PERCENT
+3859,recent years,DATE
+3860,Congress,ORG
+3861,American,NORP
+3862,Early this year,DATE
+3863,Today,DATE
+3864,the Occupational Safety and Health Administration,ORG
+3865,OSHA,ORG
+3866,"nearly 1,000",CARDINAL
+3867,first,ORDINAL
+3868,the Federal Government,ORG
+3869,Last year,DATE
+3870,first,ORDINAL
+3871,decades,DATE
+3872,Next year,DATE
+3873,Congress,ORG
+3874,American,NORP
+3875,American,NORP
+3876,Congress,ORG
+3877,last January,DATE
+3878,This year,DATE
+3879,Senate,ORG
+3880,one,CARDINAL
+3881,Next year,DATE
+3882,Congress,ORG
+3883,Congress,ORG
+3884,Between now and January,DATE
+3885,Congress,ORG
+3886,tonight,TIME
+3887,first,ORDINAL
+3888,the last 10 years,DATE
+3889,first,ORDINAL
+3890,1,CARDINAL
+3891,7 percent,PERCENT
+3892,tonight,TIME
+3893,5 3/4 percent,PERCENT
+3894,1 tonight,TIME
+3895,at least one-half,CARDINAL
+3896,one,CARDINAL
+3897,1976,DATE
+3898,1977,DATE
+3899,year,DATE
+3900,America,GPE
+3901,1,CARDINAL
+3902,Congress,ORG
+3903,next January,DATE
+3904,more than 7 percent,PERCENT
+3905,$ 80 billion,MONEY
+3906,each year,DATE
+3907,this year,DATE
+3908,tonight,TIME
+3909,Congress,ORG
+3910,next January,DATE
+3911,tonight,TIME
+3912,tomorrow,DATE
+3913,next week,DATE
+3914,next month,DATE
+3915,one,CARDINAL
+3916,1,CARDINAL
+3917,American,NORP
+3918,tonight,TIME
+3919,Nearly 40 years ago,DATE
+3920,Winston Churchill,PERSON
+3921,Britain,GPE
+3922,Nazi,NORP
+3923,Churchill,PERSON
+3924,Peking,GPE
+3925,the People's Republic of China,GPE
+3926,JOINT,PERSON
+3927,ON THE ESTABLISHMENT OF DIPLOMATIC RELATIONS BETWEEN,ORG
+3928,THE UNITED STATES OF AMERICA,GPE
+3929,THE PEOPLE 'S REPUBLIC OF CHINA,GPE
+3930,1979,DATE
+3931,The United States of America,GPE
+3932,the People's Republic of China,GPE
+3933,"January 1, 1979",DATE
+3934,The United States of America,GPE
+3935,the People's Republic of China,GPE
+3936,Government of China,ORG
+3937,the United States,GPE
+3938,Taiwan,GPE
+3939,The United States of America,GPE
+3940,the People's Republic of China,GPE
+3941,two,CARDINAL
+3942,Shanghai,GPE
+3943,Asia-Pacific region,LOC
+3944,third,ORDINAL
+3945,the United States of America,GPE
+3946,Chinese,NORP
+3947,one,CARDINAL
+3948,China,GPE
+3949,Taiwan,GPE
+3950,China,GPE
+3951,Sino-American,NORP
+3952,Chinese,NORP
+3953,American,NORP
+3954,Asia,LOC
+3955,The United States of America,GPE
+3956,Ambassadors,ORG
+3957,"March 1, 1979",DATE
+3958,Yesterday,DATE
+3959,the People's Republic of China,GPE
+3960,"January 1, 1979",DATE
+3961,a little more than two weeks,DATE
+3962,two,CARDINAL
+3963,about one-fourth,CARDINAL
+3964,Earth,LOC
+3965,China,GPE
+3966,the years ahead,DATE
+3967,the People's Republic of China,GPE
+3968,China,GPE
+3969,recent decades,DATE
+3970,American,NORP
+3971,Chinese,NORP
+3972,tonight,TIME
+3973,China,GPE
+3974,Asia,LOC
+3975,China,GPE
+3976,Congress,ORG
+3977,tonight,TIME
+3978,Taiwan,GPE
+3979,Taiwan,GPE
+3980,American,NORP
+3981,two,CARDINAL
+3982,the United States,GPE
+3983,Shanghai,GPE
+3984,1972,DATE
+3985,Nixon,PERSON
+3986,Taiwan,GPE
+3987,the People's Republic,GPE
+3988,Taiwan,GPE
+3989,Taiwan,GPE
+3990,China,GPE
+3991,the United States,GPE
+3992,Teng,PERSON
+3993,Washington,GPE
+3994,the end of January,DATE
+3995,Nixon,PERSON
+3996,1972,DATE
+3997,Ford,PERSON
+3998,the United States,GPE
+3999,China,GPE
+4000,tonight,TIME
+4001,Speaker,PERSON
+4002,96th,ORDINAL
+4003,Congress,ORG
+4004,Tonight,TIME
+4005,American Union,ORG
+4006,this year,DATE
+4007,the 21st century,DATE
+4008,America,GPE
+4009,Tonight,TIME
+4010,Union,GPE
+4011,the last two years,DATE
+4012,each year,DATE
+4013,last year,DATE
+4014,more than 25 percent,PERCENT
+4015,tonight,TIME
+4016,America,GPE
+4017,today,DATE
+4018,Americans,NORP
+4019,the United States,GPE
+4020,Americans,NORP
+4021,America,GPE
+4022,today,DATE
+4023,the last two years,DATE
+4024,"1990,786,064.02",CARDINAL
+4025,"7,100,000",CARDINAL
+4026,25 percent,PERCENT
+4027,more than a decade,DATE
+4028,Americans,NORP
+4029,American,NORP
+4030,Three months ago,DATE
+4031,millions,CARDINAL
+4032,Americans,NORP
+4033,Congress,ORG
+4034,1976,DATE
+4035,half,CARDINAL
+4036,almost 75 percent,PERCENT
+4037,Congress,ORG
+4038,last year,DATE
+4039,96th,ORDINAL
+4040,Congress,ORG
+4041,American,NORP
+4042,1980,DATE
+4043,American,NORP
+4044,this year,DATE
+4045,American,NORP
+4046,the past two years,DATE
+4047,This year,DATE
+4048,first,ORDINAL
+4049,Americans,NORP
+4050,Americans,NORP
+4051,$ 1 million,MONEY
+4052,24 hours,TIME
+4053,every five years,DATE
+4054,Congress,ORG
+4055,this year,DATE
+4056,the next five years,DATE
+4057,Americans,NORP
+4058,$ 60 billion,MONEY
+4059,$ 25 billion,MONEY
+4060,American,NORP
+4061,American,NORP
+4062,This year,DATE
+4063,Americans,NORP
+4064,one,CARDINAL
+4065,This year,DATE
+4066,America,GPE
+4067,Congress,ORG
+4068,American,NORP
+4069,American,NORP
+4070,Congress,ORG
+4071,American,NORP
+4072,recent decades,DATE
+4073,American,NORP
+4074,Congress,ORG
+4075,This year,DATE
+4076,two-thirds,CARDINAL
+4077,American,NORP
+4078,last year,DATE
+4079,Americans,NORP
+4080,This year,DATE
+4081,House,ORG
+4082,1,CARDINAL
+4083,an early date,DATE
+4084,America,GPE
+4085,American,NORP
+4086,America,GPE
+4087,the last two years,DATE
+4088,NATO Allies,ORG
+4089,Europe,LOC
+4090,Congress,ORG
+4091,less than a lifetime,DATE
+4092,a hundred,CARDINAL
+4093,America,GPE
+4094,Japan,GPE
+4095,European,NORP
+4096,Latin America,LOC
+4097,Africa,LOC
+4098,the Western Pacific,LOC
+4099,Asia,LOC
+4100,the Panama Canal,FAC
+4101,Africa,LOC
+4102,1979,DATE
+4103,one-fourth,CARDINAL
+4104,China,GPE
+4105,Deng Xiaoping,PERSON
+4106,next week,DATE
+4107,Taiwan,GPE
+4108,1,CARDINAL
+4109,the past year,DATE
+4110,the year before,DATE
+4111,American,NORP
+4112,Iran,GPE
+4113,Nicaragua,GPE
+4114,Namibia,GPE
+4115,Rhodesia,GPE
+4116,the Middle East,LOC
+4117,four,CARDINAL
+4118,Israel,GPE
+4119,Middle East,LOC
+4120,Israel,GPE
+4121,Arab,NORP
+4122,Israel,GPE
+4123,Egypt,GPE
+4124,the Soviet Union,GPE
+4125,Ten years ago,DATE
+4126,the United States,GPE
+4127,the Soviet Union,GPE
+4128,SALT,ORG
+4129,SALT,ORG
+4130,first,ORDINAL
+4131,SALT,ORG
+4132,1972,DATE
+4133,six years,DATE
+4134,Republican,NORP
+4135,Democratic,NORP
+4136,SALT II,ORG
+4137,the Soviet Union,GPE
+4138,SALT,ORG
+4139,American,NORP
+4140,SALT,ORG
+4141,SALT II,ORG
+4142,the United States,GPE
+4143,the Soviet Union,GPE
+4144,SALT II,ORG
+4145,the Soviet Union,GPE
+4146,American,NORP
+4147,SALT II,EVENT
+4148,Poseidon,GPE
+4149,less than 2 percent,PERCENT
+4150,the Soviet Union,GPE
+4151,SALT,ORG
+4152,30 years,DATE
+4153,this year 1979,DATE
+4154,Congress,ORG
+4155,the United States,GPE
+4156,tonight,TIME
+4157,America,GPE
+4158,Americans,NORP
+4159,Americans,NORP
+4160,American,NORP
+4161,1,CARDINAL
+4162,America,GPE
+4163,America,GPE
+4164,two centuries ago,DATE
+4165,Americans,NORP
+4166,the centuries,DATE
+4167,Americans,NORP
+4168,tonight,TIME
+4169,Tonight,TIME
+4170,Congress,ORG
+4171,3 years ago,DATE
+4172,"July 15, 1976",DATE
+4173,the United States,GPE
+4174,the past 3 years,DATE
+4175,Nation,ORG
+4176,Washington,GPE
+4177,Ten days ago,DATE
+4178,fifth,ORDINAL
+4179,Congress,ORG
+4180,America,GPE
+4181,Governors,ORG
+4182,Americans,NORP
+4183,an extraordinary 10 days,DATE
+4184,First,ORDINAL
+4185,Cabinet,ORG
+4186,Pennsylvania,GPE
+4187,one,CARDINAL
+4188,Mississippi,GPE
+4189,first,ORDINAL
+4190,40 percent,PERCENT
+4191,The Middle East,LOC
+4192,only 5 percent,PERCENT
+4193,the United States,GPE
+4194,24 percent,PERCENT
+4195,OPEC,ORG
+4196,American,NORP
+4197,BB,GPE
+4198,10 days,DATE
+4199,American,NORP
+4200,Nation,ORG
+4201,American,NORP
+4202,America,GPE
+4203,first,ORDINAL
+4204,tonight,TIME
+4205,American,NORP
+4206,America,GPE
+4207,tonight,TIME
+4208,America,GPE
+4209,Fourth of July,DATE
+4210,the United States,GPE
+4211,America,GPE
+4212,American,NORP
+4213,first,ORDINAL
+4214,the next 5 years,DATE
+4215,the past 5 years,DATE
+4216,Two-thirds,CARDINAL
+4217,American,NORP
+4218,Americans,NORP
+4219,"the last generation, years",DATE
+4220,John Kennedy,PERSON
+4221,Robert Kennedy,PERSON
+4222,Martin Luther King,PERSON
+4223,Vietnam,GPE
+4224,Watergate,EVENT
+4225,10 years,DATE
+4226,Nation,ORG
+4227,1973,DATE
+4228,the Federal Government,ORG
+4229,Washington,GPE
+4230,D.C.,GPE
+4231,Washington,GPE
+4232,Congress,ORG
+4233,hundreds,CARDINAL
+4234,one,CARDINAL
+4235,First,ORDINAL
+4236,America,GPE
+4237,Americans,NORP
+4238,One,CARDINAL
+4239,Camp David,FAC
+4240,last week,DATE
+4241,the White House,ORG
+4242,America,GPE
+4243,America,GPE
+4244,the Great Depression,EVENT
+4245,Americans,NORP
+4246,10 years ago,DATE
+4247,America,GPE
+4248,two,CARDINAL
+4249,One,CARDINAL
+4250,tonight,TIME
+4251,American,NORP
+4252,first,ORDINAL
+4253,little more than two decades,DATE
+4254,one,CARDINAL
+4255,almost half,CARDINAL
+4256,OPEC,ORG
+4257,millions,CARDINAL
+4258,tonight,TIME
+4259,the United States,GPE
+4260,1977,DATE
+4261,1980,DATE
+4262,tonight,TIME
+4263,one-half,CARDINAL
+4264,the end of the next decade,DATE
+4265,4 1/2 million barrels,QUANTITY
+4266,two,CARDINAL
+4267,1979,DATE
+4268,1980,DATE
+4269,one,CARDINAL
+4270,Tokyo,GPE
+4271,three,CARDINAL
+4272,America,GPE
+4273,Sun,ORG
+4274,2 1/2 million barrels,QUANTITY
+4275,1990,DATE
+4276,up to $ 5 billion,MONEY
+4277,Americans,NORP
+4278,America,GPE
+4279,World War II,EVENT
+4280,American,NORP
+4281,Congress,ORG
+4282,Nation,ORG
+4283,first,ORDINAL
+4284,20 percent,PERCENT
+4285,the year 2000,DATE
+4286,Congress,ORG
+4287,billions of dollars,MONEY
+4288,Americans,NORP
+4289,Americans,NORP
+4290,1,CARDINAL
+4291,Congress,ORG
+4292,Nation,ORG
+4293,50 percent,PERCENT
+4294,the next decade,DATE
+4295,Congress,ORG
+4296,the War Production Board,ORG
+4297,World War II,EVENT
+4298,1,CARDINAL
+4299,State,ORG
+4300,American,NORP
+4301,Congress,ORG
+4302,1,CARDINAL
+4303,tonight,TIME
+4304,$ 10 billion,MONEY
+4305,the next decade,DATE
+4306,1,CARDINAL
+4307,one extra day per week,DATE
+4308,Americans,NORP
+4309,Nation,ORG
+4310,Saudi Arabias,NORP
+4311,Earth,LOC
+4312,Twelve hours,TIME
+4313,Kansas City,GPE
+4314,America,GPE
+4315,19Medicare,CARDINAL
+4316,3 years ago,DATE
+4317,America,GPE
+4318,America,GPE
+4319,America,GPE
+4320,America,GPE
+4321,the days,DATE
+4322,America,GPE
+4323,American,NORP
+4324,this evening,TIME
+4325,Southwest Asia,LOC
+4326,American,NORP
+4327,Iranian,NORP
+4328,American,NORP
+4329,Americans,NORP
+4330,the International Court of Justice,ORG
+4331,the United Nations,ORG
+4332,50,CARDINAL
+4333,Americans,NORP
+4334,American,NORP
+4335,Southwest Asia,LOC
+4336,Soviet,NORP
+4337,Afghanistan,GPE
+4338,the Soviet Union,GPE
+4339,Fifty thousand,CARDINAL
+4340,Soviet,NORP
+4341,Afghanistan,GPE
+4342,Muslim,NORP
+4343,Soviets,NORP
+4344,Afghanistan,GPE
+4345,Afghanistan,GPE
+4346,Soviet,NORP
+4347,Soviets,NORP
+4348,Kabul,GPE
+4349,Only several days later,DATE
+4350,Afghanistan,GPE
+4351,Soviets,NORP
+4352,Soviet,NORP
+4353,Southwest Asia,LOC
+4354,the United Nations,ORG
+4355,Islamic,NORP
+4356,Afghanistan,GPE
+4357,Soviet,NORP
+4358,Afghanistan,GPE
+4359,Iran,GPE
+4360,Pakistan,GPE
+4361,The United States,GPE
+4362,Soviets,NORP
+4363,Afghanistan,GPE
+4364,the United States,GPE
+4365,the Soviet Union,GPE
+4366,Fifty,CARDINAL
+4367,the United Nations Security Council,ORG
+4368,the Soviet Union,GPE
+4369,Soviet,NORP
+4370,Afghanistan,GPE
+4371,the United Nations Charter,LAW
+4372,the Soviet Union,GPE
+4373,the Security Council,ORG
+4374,the Security Council,ORG
+4375,the General Assembly of,ORG
+4376,the United Nations,ORG
+4377,Soviet,NORP
+4378,the United States,GPE
+4379,the Soviet Union,GPE
+4380,the United States,GPE
+4381,Moscow,GPE
+4382,Washington,GPE
+4383,the Soviet Union,GPE
+4384,Americans,NORP
+4385,the Soviet Union,GPE
+4386,Soviet,NORP
+4387,United States,GPE
+4388,Senate,ORG
+4389,the SALT II,EVENT
+4390,Congress,ORG
+4391,Soviet,NORP
+4392,Senate,ORG
+4393,Soviets,NORP
+4394,American,NORP
+4395,Soviet,NORP
+4396,the Soviet Union,GPE
+4397,the Soviet Union,GPE
+4398,three,CARDINAL
+4399,the Soviet Union,GPE
+4400,the Soviet Union,GPE
+4401,United States,GPE
+4402,17 million tons,QUANTITY
+4403,the Soviet Union,GPE
+4404,Soviet,NORP
+4405,American,NORP
+4406,the Soviet Union,GPE
+4407,Americans,NORP
+4408,Soviet,NORP
+4409,the United States,GPE
+4410,Olympic,EVENT
+4411,Moscow,GPE
+4412,this summer,DATE
+4413,the Soviet Union,GPE
+4414,Moscow,GPE
+4415,Pakistan,GPE
+4416,The United States,GPE
+4417,tonight,TIME
+4418,Congress,ORG
+4419,one,CARDINAL
+4420,Soviet,NORP
+4421,Afghanistan,GPE
+4422,Soviet,NORP
+4423,American,NORP
+4424,Nation,ORG
+4425,The United States,GPE
+4426,Speaker,PERSON
+4427,96th,ORDINAL
+4428,Congress,ORG
+4429,This last few months,DATE
+4430,tonight,TIME
+4431,tonight,TIME
+4432,Union,GPE
+4433,19Medicare,CARDINAL
+4434,Iran,GPE
+4435,50,CARDINAL
+4436,Americans,NORP
+4437,Soviet,NORP
+4438,Afghanistan,GPE
+4439,two,CARDINAL
+4440,one,CARDINAL
+4441,one,CARDINAL
+4442,the United States of America,GPE
+4443,1,CARDINAL
+4444,the United States,GPE
+4445,Three,CARDINAL
+4446,Soviet,NORP
+4447,the Middle East,LOC
+4448,Iran,GPE
+4449,Iran,GPE
+4450,The United States,GPE
+4451,first,ORDINAL
+4452,the United States,GPE
+4453,secondly,ORDINAL
+4454,American,NORP
+4455,Iranian,NORP
+4456,the Soviet Union,GPE
+4457,Soviet,NORP
+4458,Afghanistan,GPE
+4459,Iranian,NORP
+4460,the United States,GPE
+4461,American,NORP
+4462,American,NORP
+4463,the Soviet Union,GPE
+4464,the last three and a half decades,DATE
+4465,the United States of America,GPE
+4466,the Soviet Union,GPE
+4467,"the end of the Second World War, America",DATE
+4468,Soviet,NORP
+4469,19C3,DATE
+4470,"100,060,000",CARDINAL
+4471,the Atlantic Alliance,GPE
+4472,the Soviet Union's,GPE
+4473,East European,NORP
+4474,the Warsaw Pact to Western Europe,LAW
+4475,Soviet,NORP
+4476,Korea,GPE
+4477,the Middle East,LOC
+4478,Soviet,NORP
+4479,Berlin,GPE
+4480,Cuban,NORP
+4481,the Soviet Union,GPE
+4482,the 19be,DATE
+4483,1 three,CARDINAL
+4484,American,NORP
+4485,Soviet,NORP
+4486,two,CARDINAL
+4487,two,CARDINAL
+4488,Soviet,NORP
+4489,two,CARDINAL
+4490,SALT,ORG
+4491,Congress,ORG
+4492,the Soviet Union,GPE
+4493,Soviet,NORP
+4494,Afghanistan,GPE
+4495,the Second World War,EVENT
+4496,Earth,LOC
+4497,Soviet,NORP
+4498,Soviet,NORP
+4499,Moslem,NORP
+4500,Islamic,NORP
+4501,The Soviet Union,GPE
+4502,the Soviet Union,GPE
+4503,the United States,GPE
+4504,the Soviet Union,GPE
+4505,Soviet,NORP
+4506,the United States,GPE
+4507,Soviet,NORP
+4508,the Soviet Union,GPE
+4509,Soviets,NORP
+4510,the Olympic Committee,ORG
+4511,Soviet,NORP
+4512,Afghanistan,GPE
+4513,American,NORP
+4514,Moscow,GPE
+4515,The Soviet Union,GPE
+4516,The Soviet Union,GPE
+4517,Afghanistan,GPE
+4518,Soviet,NORP
+4519,Afghanistan,GPE
+4520,more than two thirds,CARDINAL
+4521,Soviet,NORP
+4522,Afghanistan,GPE
+4523,Soviet,NORP
+4524,300 miles,QUANTITY
+4525,the Indian Ocean,LOC
+4526,the Straits of Hormuz,LOC
+4527,The Soviet Union,GPE
+4528,Middle East,LOC
+4529,this year,DATE
+4530,many years,DATE
+4531,the Persian Gulf,LOC
+4532,Southwest Asia,LOC
+4533,the Middle East,LOC
+4534,the Persian Gulf,LOC
+4535,the United States of America,GPE
+4536,the past three years,DATE
+4537,the Persian Gulf,LOC
+4538,Five-Year Defense Program,DATE
+4539,Congress,ORG
+4540,1981,DATE
+4541,5 percent,PERCENT
+4542,1881,DATE
+4543,NATO,ORG
+4544,NATO,ORG
+4545,the Soviet Union,GPE
+4546,the Middle East,LOC
+4547,Egypt,GPE
+4548,Israel,GPE
+4549,America,GPE
+4550,the West Bank,GPE
+4551,Gaza,GPE
+4552,Palestinian,NORP
+4553,Israel,GPE
+4554,Israel,GPE
+4555,a few days,DATE
+4556,Israel,GPE
+4557,Israel,GPE
+4558,Egypt,GPE
+4559,the People's Republic of China,GPE
+4560,Asia,LOC
+4561,the Western Pacific,LOC
+4562,the Indian Ocean,LOC
+4563,Africa,LOC
+4564,the Persian Gulf,LOC
+4565,1959,DATE
+4566,Pakistan,GPE
+4567,The United States,GPE
+4568,Pakistan,GPE
+4569,1,CARDINAL
+4570,Congress,ORG
+4571,1,CARDINAL
+4572,Pakistan,GPE
+4573,just a few days,DATE
+4574,Europe,LOC
+4575,Pacific,LOC
+4576,the Middle East,LOC
+4577,Southwest Asia,LOC
+4578,America,GPE
+4579,tonight,TIME
+4580,the Selective Service System,ORG
+4581,Congress,ORG
+4582,next month,DATE
+4583,America,GPE
+4584,The decade,DATE
+4585,America,GPE
+4586,the Middle East,LOC
+4587,Africa,LOC
+4588,America,GPE
+4589,first,ORDINAL
+4590,the coming years,DATE
+4591,today,DATE
+4592,Iran,GPE
+4593,Afghanistan,GPE
+4594,the United States,GPE
+4595,Congress,ORG
+4596,the past three years,DATE
+4597,Congress,ORG
+4598,the United States,GPE
+4599,American,NORP
+4600,Last year,DATE
+4601,8 percent,PERCENT
+4602,5 percent,PERCENT
+4603,the year before,DATE
+4604,50,CARDINAL
+4605,1980,DATE
+4606,8.2 million barrels,QUANTITY
+4607,1977,DATE
+4608,1,CARDINAL
+4609,last year,DATE
+4610,last year,DATE
+4611,one,CARDINAL
+4612,OPEC,ORG
+4613,Tonight,TIME
+4614,America,GPE
+4615,1980,DATE
+4616,a year,DATE
+4617,First,ORDINAL
+4618,Second,ORDINAL
+4619,Third,ORDINAL
+4620,Fourth,ORDINAL
+4621,America,GPE
+4622,19Medicare,CARDINAL
+4623,fifth,ORDINAL
+4624,the decade,DATE
+4625,19Medicare,CARDINAL
+4626,America,GPE
+4627,this decade,DATE
+4628,America,GPE
+4629,Walter Lippmann,PERSON
+4630,19Medicare,CARDINAL
+4631,America,GPE
+4632,America,GPE
+4633,America,GPE
+4634,America,GPE
+4635,the United States Constitution,GPE
+4636,America,GPE
+4637,America,GPE
+4638,America,GPE
+4639,America,GPE
+4640,America,GPE
+4641,one,CARDINAL
+4642,one,CARDINAL
+4643,a decade,DATE
+4644,Late yesterday,DATE
+4645,Iran,GPE
+4646,American,NORP
+4647,November 4,DATE
+4648,two,CARDINAL
+4649,American,NORP
+4650,Iran,GPE
+4651,American,NORP
+4652,eight,CARDINAL
+4653,two,CARDINAL
+4654,Americans,NORP
+4655,Iran,GPE
+4656,Iranian,NORP
+4657,several hours,TIME
+4658,Americans,NORP
+4659,Iran,GPE
+4660,Americans,NORP
+4661,Iran,GPE
+4662,Iran,GPE
+4663,Iran,GPE
+4664,Iranian,NORP
+4665,Embassy,GPE
+4666,Iranian,NORP
+4667,Iranian,NORP
+4668,Iran,GPE
+4669,American,NORP
+4670,America,GPE
+4671,Iran,GPE
+4672,American,NORP
+4673,The United States,GPE
+4674,Americans,NORP
+4675,American,NORP
+4676,Iran,GPE
+4677,Democrats,NORP
+4678,Fritz Mondale,PERSON
+4679,Fritz,PERSON
+4680,American,NORP
+4681,Republicans,NORP
+4682,November,DATE
+4683,Franklin Delano Roosevelt,PERSON
+4684,Harry Truman,PERSON
+4685,Truman,ORG
+4686,John Fitzgerald Kennedy,PERSON
+4687,Lyndon Baines Johnson,PERSON
+4688,Hubert Horatio Hornblower,PERSON
+4689,Humphrey,GPE
+4690,Humphrey,PERSON
+4691,the Democratic Party,ORG
+4692,Jerry Brown,PERSON
+4693,Edward Kennedy,PERSON
+4694,Kennedy,PERSON
+4695,Ted,PERSON
+4696,the Democratic Party,ORG
+4697,Democratic,NORP
+4698,this year,DATE
+4699,tonight,TIME
+4700,this fall,DATE
+4701,Republicans,NORP
+4702,Democrats,NORP
+4703,America,GPE
+4704,America,GPE
+4705,Franklin Roosevelt,PERSON
+4706,40 years ago,DATE
+4707,this year,DATE
+4708,thousands and thousands,CARDINAL
+4709,America,GPE
+4710,the United States of America,GPE
+4711,the Oval Office,FAC
+4712,1,CARDINAL
+4713,tonight,TIME
+4714,4 years ago,DATE
+4715,Americans,NORP
+4716,Iran,GPE
+4717,Earth,LOC
+4718,the Oval Office,FAC
+4719,the United States,GPE
+4720,Nation,ORG
+4721,today,DATE
+4722,1980,DATE
+4723,two,CARDINAL
+4724,two,CARDINAL
+4725,two,CARDINAL
+4726,America,GPE
+4727,The year 2000,DATE
+4728,just four,CARDINAL
+4729,this year,DATE
+4730,the 21st century,DATE
+4731,the year 2000,DATE
+4732,the next few years,DATE
+4733,American,NORP
+4734,less than 3 months,DATE
+4735,tonight,TIME
+4736,one,CARDINAL
+4737,the Constitution of the United States of America,LAW
+4738,American,NORP
+4739,American,NORP
+4740,America,GPE
+4741,America,GPE
+4742,millions,CARDINAL
+4743,Democrat,NORP
+4744,Republican,NORP
+4745,the Republican Party,ORG
+4746,America,GPE
+4747,Democrats,NORP
+4748,America,GPE
+4749,Medicare,ORG
+4750,World War II,EVENT
+4751,America,GPE
+4752,first,ORDINAL
+4753,two,CARDINAL
+4754,Republicans,NORP
+4755,8,CARDINAL
+4756,the last 11 years,DATE
+4757,Soviet,NORP
+4758,more than a third,CARDINAL
+4759,Republican,NORP
+4760,Every year,DATE
+4761,the United States of America,GPE
+4762,the Soviet Union,GPE
+4763,NATO,ORG
+4764,Trident,PRODUCT
+4765,Cruise,PERSON
+4766,the Rapid Deployment Force,ORG
+4767,second,ORDINAL
+4768,the Republican Party,ORG
+4769,Earth,LOC
+4770,Republican,NORP
+4771,Democratic,NORP
+4772,"Harry, Truman",ORG
+4773,Republican,NORP
+4774,Dwight D. Eisenhower,PERSON
+4775,Soviet,NORP
+4776,Afghanistan,GPE
+4777,the Soviet Union,GPE
+4778,Congress,ORG
+4779,1881,DATE
+4780,Olympic Committee,ORG
+4781,more than 60,CARDINAL
+4782,Russia,GPE
+4783,the Moscow Olympics,EVENT
+4784,Republican,NORP
+4785,two,CARDINAL
+4786,third,ORDINAL
+4787,Southwest Asia,LOC
+4788,Cuba,GPE
+4789,Russians,NORP
+4790,first,ORDINAL
+4791,1,CARDINAL
+4792,the full 4 years,DATE
+4793,the next 4 years,DATE
+4794,America,GPE
+4795,Zimbabwe-Rhodesia,GPE
+4796,the Middle East,LOC
+4797,the Camp David accords,LAW
+4798,Middle East,LOC
+4799,Middle East,LOC
+4800,Camp David,FAC
+4801,Israel,GPE
+4802,Egypt,GPE
+4803,Cairo,GPE
+4804,Tel Aviv,GPE
+4805,the Middle East,LOC
+4806,Democrats,NORP
+4807,the fall,DATE
+4808,nearly half,CARDINAL
+4809,Israel,GPE
+4810,the 32 years,DATE
+4811,Republican,NORP
+4812,Israel,GPE
+4813,Israel,GPE
+4814,the Middle East,LOC
+4815,America,GPE
+4816,Republican,NORP
+4817,America,GPE
+4818,the Soviet Union,GPE
+4819,the Hungarian Americans,NORP
+4820,Polish,NORP
+4821,Americans,NORP
+4822,John Paul II,PERSON
+4823,millions,CARDINAL
+4824,America,GPE
+4825,American,NORP
+4826,two,CARDINAL
+4827,America,GPE
+4828,1973,DATE
+4829,Arab,NORP
+4830,Republicans,NORP
+4831,the White House,FAC
+4832,Democrats,NORP
+4833,3 years,DATE
+4834,America,GPE
+4835,Americans,NORP
+4836,decades,DATE
+4837,20 percent,PERCENT
+4838,1 1/2 million barrels,QUANTITY
+4839,American,NORP
+4840,American,NORP
+4841,millions,CARDINAL
+4842,American,NORP
+4843,Republicans,NORP
+4844,two,CARDINAL
+4845,first,ORDINAL
+4846,American,NORP
+4847,the last 3 years,DATE
+4848,Americans,NORP
+4849,55-mile,QUANTITY
+4850,Republicans,NORP
+4851,the Clean Air Act,LAW
+4852,one,CARDINAL
+4853,Democrats,NORP
+4854,tomorrow,DATE
+4855,November,DATE
+4856,more than 8 million,CARDINAL
+4857,last year's,DATE
+4858,OPEC,ORG
+4859,1980,DATE
+4860,first,ORDINAL
+4861,America,GPE
+4862,five,CARDINAL
+4863,American,NORP
+4864,America,GPE
+4865,American,NORP
+4866,America,GPE
+4867,American,NORP
+4868,OPEC,ORG
+4869,millions,CARDINAL
+4870,American,NORP
+4871,American,NORP
+4872,American,NORP
+4873,the United States of America,GPE
+4874,1980,DATE
+4875,America,GPE
+4876,Republican,NORP
+4877,Reagan,PERSON
+4878,Americans,NORP
+4879,Republican,NORP
+4880,Reagan,PERSON
+4881,more than 30 percent,PERCENT
+4882,the Republican Convention,ORG
+4883,first,ORDINAL
+4884,Republican,NORP
+4885,G. I.,PERSON
+4886,the Lincoln Memorial,FAC
+4887,American,NORP
+4888,American,NORP
+4889,The Democratic Party,ORG
+4890,American,NORP
+4891,America,GPE
+4892,America,GPE
+4893,America,GPE
+4894,Republicans,NORP
+4895,the last 50 years,DATE
+4896,Franklin Delano Roosevelt's,PERSON
+4897,first,ORDINAL
+4898,Republicans,NORP
+4899,Democratic,NORP
+4900,Herbert Hoover,PERSON
+4901,Franklin Delano Roosevelt,PERSON
+4902,Richard Nixon,PERSON
+4903,John Fitzgerald Kennedy,PERSON
+4904,Republicans,NORP
+4905,this year,DATE
+4906,Lincoln,ORG
+4907,Lincoln,ORG
+4908,Republican,NORP
+4909,the Democratic Party,ORG
+4910,years,DATE
+4911,One,CARDINAL
+4912,Americans,NORP
+4913,Vietnam,GPE
+4914,Watergate,EVENT
+4915,The Democratic Party,ORG
+4916,American,NORP
+4917,Republican,NORP
+4918,this year,DATE
+4919,American,NORP
+4920,Three weeks,DATE
+4921,Pearl Harbor,FAC
+4922,Winston Churchill,PERSON
+4923,North America,LOC
+4924,the centuries,DATE
+4925,Americans,NORP
+4926,Americans,NORP
+4927,American,NORP
+4928,two,CARDINAL
+4929,Americans,NORP
+4930,MR,GPE
+4931,The League of Women Voters,ORG
+4932,Cleveland,GPE
+4933,Ohio,GPE
+4934,Convention Center Music Hall,ORG
+4935,Jimmy Carter,PERSON
+4936,the Democratic Party's,ORG
+4937,Ronald Reagan,PERSON
+4938,California,GPE
+4939,the Republican Party's,ORG
+4940,Marvin Stone,PERSON
+4941,1881,DATE
+4942,World Report,ORG
+4943,Harry Ellis,PERSON
+4944,the Christian Science Monitor,ORG
+4945,William Hilliard,PERSON
+4946,the Portland Oregonian,ORG
+4947,Barbara Walters,PERSON
+4948,ABC News,ORG
+4949,two,CARDINAL
+4950,two,CARDINAL
+4951,the first half,DATE
+4952,the second half later,DATE
+4953,one,CARDINAL
+4954,Reagan,PERSON
+4955,first,ORDINAL
+4956,Marvin Stone,PERSON
+4957,1881,DATE
+4958,recent weeks,DATE
+4959,Carter,PERSON
+4960,Soviet,NORP
+4961,Armed Forces,ORG
+4962,Afghanistan,GPE
+4963,Iran,GPE
+4964,two,CARDINAL
+4965,American,NORP
+4966,REAGAN,PERSON
+4967,Carter,PERSON
+4968,first,ORDINAL
+4969,the Free World,ORG
+4970,America,GPE
+4971,the last 3,DATE
+4972,years,DATE
+4973,Carter,PERSON
+4974,four,CARDINAL
+4975,1,CARDINAL
+4976,Americans,NORP
+4977,Pacific,LOC
+4978,Asia,LOC
+4979,Europe,LOC
+4980,MR,GPE
+4981,Stone,PERSON
+4982,tens of billions of dollars,MONEY
+4983,American,NORP
+4984,this fiscal year,DATE
+4985,more than $ 60 billion,MONEY
+4986,REAGAN,PERSON
+4987,Stone,PERSON
+4988,5-year,DATE
+4989,1983,DATE
+4990,Carter,PERSON
+4991,the next 5 years,DATE
+4992,$ 86 billion,MONEY
+4993,next year,DATE
+4994,this year,DATE
+4995,$ 86 billion,MONEY
+4996,1,CARDINAL
+4997,1,CARDINAL
+4998,Garter,PERSON
+4999,Carter,PERSON
+5000,Carter,PERSON
+5001,Soviet,NORP
+5002,Armed Forces,ORG
+5003,Afghanistan,GPE
+5004,Iran,GPE
+5005,Reagan,PERSON
+5006,two,CARDINAL
+5007,American,NORP
+5008,Stone,PERSON
+5009,thousands,CARDINAL
+5010,the Oval Office,FAC
+5011,1,CARDINAL
+5012,4 years ago,DATE
+5013,Ford,PERSON
+5014,H. L. Mencken,PERSON
+5015,the 8 years,DATE
+5016,Seven,CARDINAL
+5017,eight years,DATE
+5018,37 percent,PERCENT
+5019,the United States,GPE
+5020,the Middle East,LOC
+5021,Israel,GPE
+5022,Egypt,GPE
+5023,Israel,GPE
+5024,Egypt,GPE
+5025,the Oval Office,FAC
+5026,Oval Office,ORG
+5027,the United States,GPE
+5028,American,NORP
+5029,Stone,PERSON
+5030,Persian Oil Gulf,LOC
+5031,Russian,NORP
+5032,Afghanistan,GPE
+5033,Iran,GPE
+5034,Pakistan,GPE
+5035,Stone,PERSON
+5036,earlier this year,DATE
+5037,the Persian Gulf,LOC
+5038,two,CARDINAL
+5039,five,CARDINAL
+5040,American,NORP
+5041,the Persian Gulf,LOC
+5042,the Middle East,LOC
+5043,Reagan,PERSON
+5044,REAGAN,PERSON
+5045,two,CARDINAL
+5046,the preceding 8 years,DATE
+5047,those 8 years,DATE
+5048,Republican,NORP
+5049,those years,DATE
+5050,Democratic,NORP
+5051,Houses of the Congress,ORG
+5052,Gerald Ford,PERSON
+5053,5-year,DATE
+5054,Garter,PERSON
+5055,38 percent,PERCENT
+5056,60,CARDINAL
+5057,Navy,ORG
+5058,Minuteman,PRODUCT
+5059,Trident,PRODUCT
+5060,Carter,PERSON
+5061,One,CARDINAL
+5062,Reagan,PERSON
+5063,Democrats,NORP
+5064,Republicans,NORP
+5065,Strength,ORG
+5066,Harry Ellis,PERSON
+5067,Carter,PERSON
+5068,1976,DATE
+5069,4.8 percent,PERCENT
+5070,more than 12 percent,PERCENT
+5071,Nation,ORG
+5072,7 to 9 percent,PERCENT
+5073,1881,DATE
+5074,OPEC,ORG
+5075,last year,DATE
+5076,the United States,GPE
+5077,second,ORDINAL
+5078,1974,DATE
+5079,OPEC,ORG
+5080,1979,DATE
+5081,1974,DATE
+5082,the Second World War,EVENT
+5083,the Second World War,EVENT
+5084,Earlier this year,DATE
+5085,the first quarter,DATE
+5086,OPEC,ORG
+5087,about 18 percent,PERCENT
+5088,the first quarter of this year,DATE
+5089,The second quarter,DATE
+5090,about 13 percent,PERCENT
+5091,the last 3 months,DATE
+5092,the third quarter of this year,DATE
+5093,7 percent,PERCENT
+5094,million,CARDINAL
+5095,the last 3 1/2 years,DATE
+5096,Reagan,PERSON
+5097,Reagan,PERSON
+5098,George Bush,PERSON
+5099,30-percent,PERCENT
+5100,Business Week,ORG
+5101,Democratic,NORP
+5102,Reagan,PERSON
+5103,American,NORP
+5104,9 million,CARDINAL
+5105,the years ahead,DATE
+5106,Ellis,PERSON
+5107,Carter,PERSON
+5108,9 million,CARDINAL
+5109,second,ORDINAL
+5110,American,NORP
+5111,American,NORP
+5112,today,DATE
+5113,about one-third,CARDINAL
+5114,a year ago,DATE
+5115,25-percent,PERCENT
+5116,the first year,DATE
+5117,about 9 million,CARDINAL
+5118,two,CARDINAL
+5119,One,CARDINAL
+5120,American,NORP
+5121,this year,DATE
+5122,this year,DATE
+5123,next year,DATE
+5124,about a million,CARDINAL
+5125,the next 2 years,DATE
+5126,"600,000",CARDINAL
+5127,House,ORG
+5128,Senate,ORG
+5129,Reagan,PERSON
+5130,Reagan,PERSON
+5131,REAGAN,PERSON
+5132,Reagan,PERSON
+5133,the past 4 years,DATE
+5134,4.8 percent,PERCENT
+5135,over 12 percent,PERCENT
+5136,Nation,ORG
+5137,7 to 9 percent,PERCENT
+5138,1881,DATE
+5139,OPEC,ORG
+5140,last year,DATE
+5141,the United States,GPE
+5142,REAGAN,PERSON
+5143,Ellis,PERSON
+5144,Carter,PERSON
+5145,4.8 percent,PERCENT
+5146,two,CARDINAL
+5147,Gerald Ford,PERSON
+5148,12.7 percent,PERCENT
+5149,Carter,PERSON
+5150,8 million,CARDINAL
+5151,America,GPE
+5152,today,DATE
+5153,2 million,CARDINAL
+5154,the last few months,DATE
+5155,Carter,PERSON
+5156,1980,DATE
+5157,January,DATE
+5158,the beginning of the year,DATE
+5159,more than 18 percent,PERCENT
+5160,OPEC,ORG
+5161,the Federal Reserve System,ORG
+5162,American,NORP
+5163,just a few days ago,DATE
+5164,Ellis,PERSON
+5165,REAGAN,PERSON
+5166,one,CARDINAL
+5167,HEW,ORG
+5168,Carter,PERSON
+5169,$ 7 billion,MONEY
+5170,the General Accounting Office,ORG
+5171,tens of billions of dollars,MONEY
+5172,1,CARDINAL
+5173,California,GPE
+5174,California,GPE
+5175,Carter,PERSON
+5176,Reagan,PERSON
+5177,Reagan,PERSON
+5178,American,NORP
+5179,at least $ 130 billion,MONEY
+5180,the Wall Street Journal,ORG
+5181,this week,DATE
+5182,One,CARDINAL
+5183,this year,DATE
+5184,Reagan,PERSON
+5185,Republican,NORP
+5186,Reagan,PERSON
+5187,California,GPE
+5188,1,CARDINAL
+5189,Reagan,PERSON
+5190,three,CARDINAL
+5191,State,ORG
+5192,State,ORG
+5193,30-percent,PERCENT
+5194,California,GPE
+5195,MR,GPE
+5196,Carter,PERSON
+5197,Reagan,PERSON
+5198,REAGAN,PERSON
+5199,California,GPE
+5200,California,GPE
+5201,California,GPE
+5202,Georgia,GPE
+5203,Carter,PERSON
+5204,Georgia,GPE
+5205,the same 4 years,DATE
+5206,California,GPE
+5207,Georgia,GPE
+5208,third,ORDINAL
+5209,Reagan,PERSON
+5210,William Hilliard,PERSON
+5211,Reagan,PERSON
+5212,the next 4 years,DATE
+5213,REAGAN,PERSON
+5214,National Government,ORG
+5215,the South Bronx,LOC
+5216,Carter,PERSON
+5217,1977,DATE
+5218,one,CARDINAL
+5219,Carter,PERSON
+5220,one,CARDINAL
+5221,Hilliard,PERSON
+5222,Reagan,PERSON
+5223,Nation,ORG
+5224,REAGAN,PERSON
+5225,the days,DATE
+5226,Teddy Roosevelt,PERSON
+5227,one day,DATE
+5228,Hilliard,PERSON
+5229,Carter,PERSON
+5230,Carter,PERSON
+5231,the next 4 years,DATE
+5232,Hilliard,PERSON
+5233,1976,DATE
+5234,9 million,CARDINAL
+5235,1.3 million,CARDINAL
+5236,Americans,NORP
+5237,Spanish,LANGUAGE
+5238,about $ 43 billion,MONEY
+5239,the next 10 years,DATE
+5240,73-percent,PERCENT
+5241,the White House,ORG
+5242,Spanish,NORP
+5243,Reagan,PERSON
+5244,Carter,PERSON
+5245,Nation,ORG
+5246,Spanish,LANGUAGE
+5247,Americans,NORP
+5248,Reagan,PERSON
+5249,REAGAN,PERSON
+5250,Detroit,GPE
+5251,Michigan,GPE
+5252,56 percent,PERCENT
+5253,Garter,PERSON
+5254,American,NORP
+5255,the Democratic Party,ORG
+5256,Reagan,PERSON
+5257,American,NORP
+5258,fourth,ORDINAL
+5259,Garter,PERSON
+5260,Barbara Walters,PERSON
+5261,INTERNATIONAL TERRORISM MS,ORG
+5262,tonight,TIME
+5263,Iran,GPE
+5264,Israel,GPE
+5265,Iran,GPE
+5266,Barbara,PERSON
+5267,one,CARDINAL
+5268,one,CARDINAL
+5269,one,CARDINAL
+5270,recent years,DATE
+5271,recent months,DATE
+5272,Jews,NORP
+5273,France,GPE
+5274,Israel,GPE
+5275,PLO,ORG
+5276,Libya,GPE
+5277,Iraq,GPE
+5278,Reagan,PERSON
+5279,Iraq,GPE
+5280,Walters,PERSON
+5281,Iran,GPE
+5282,American,NORP
+5283,Iraq,GPE
+5284,Iran,GPE
+5285,the Middle East,LOC
+5286,Iran,GPE
+5287,Iraq,GPE
+5288,Iran,GPE
+5289,Iran,GPE
+5290,Iran,GPE
+5291,Iranian,NORP
+5292,Reagan,PERSON
+5293,Walters,PERSON
+5294,WALTERS,PERSON
+5295,tonight,TIME
+5296,Iran,GPE
+5297,Israel,GPE
+5298,Iran,GPE
+5299,REAGAN,PERSON
+5300,Barbara,PERSON
+5301,at least one,CARDINAL
+5302,at least 50,CARDINAL
+5303,Second,ORDINAL
+5304,First,ORDINAL
+5305,just lacking 1 week of a year,DATE
+5306,Congress,ORG
+5307,1,CARDINAL
+5308,WALTERS,PERSON
+5309,Reagan,PERSON
+5310,Iranian,NORP
+5311,Iran,GPE
+5312,37 million,CARDINAL
+5313,Shah,ORG
+5314,Ayatollah,PERSON
+5315,the United States,GPE
+5316,the United States,GPE
+5317,REAGAN,PERSON
+5318,one,CARDINAL
+5319,one,CARDINAL
+5320,the Soviet Union,GPE
+5321,second,ORDINAL
+5322,Iranian,NORP
+5323,Embassy,GPE
+5324,1,CARDINAL
+5325,Carter,PERSON
+5326,Reagan,PERSON
+5327,Secondly,ORDINAL
+5328,the Oval Office,FAC
+5329,Third,ORDINAL
+5330,PLO,ORG
+5331,PLO,ORG
+5332,Israel,GPE
+5333,U.N. Resolution 242,ORG
+5334,Middle East,LOC
+5335,Reagan,PERSON
+5336,REAGAN,PERSON
+5337,SMITH,PERSON
+5338,the first half,DATE
+5339,the second half,DATE
+5340,the second half,DATE
+5341,two,CARDINAL
+5342,Reagan,PERSON
+5343,first,ORDINAL
+5344,Marvin Stone,PERSON
+5345,STONE,PERSON
+5346,Reagan,PERSON
+5347,Russia,GPE
+5348,American,NORP
+5349,Soviets,NORP
+5350,one,CARDINAL
+5351,REAGAN,PERSON
+5352,Carter,PERSON
+5353,Congress,ORG
+5354,REAGAN,PERSON
+5355,America,GPE
+5356,Soviet,NORP
+5357,Carter,PERSON
+5358,the Soviet Union,GPE
+5359,12 hours,TIME
+5360,one,CARDINAL
+5361,the Soviet Union,GPE
+5362,Carter,PERSON
+5363,B-1,PRODUCT
+5364,MX,PRODUCT
+5365,Trident,PRODUCT
+5366,Minuteman,PRODUCT
+5367,The Soviet Union,GPE
+5368,the SALT II treaty,LAW
+5369,Carter,PERSON
+5370,Mondale,PERSON
+5371,Senate,ORG
+5372,Democratic,NORP
+5373,the Senate Armed Services Committee,ORG
+5374,10,CARDINAL
+5375,0,CARDINAL
+5376,7,CARDINAL
+5377,the SALT II,EVENT
+5378,the United States,GPE
+5379,Congress,ORG
+5380,one,CARDINAL
+5381,B-52,PRODUCT
+5382,Backfire,PERSON
+5383,Carter,PERSON
+5384,Carter,PERSON
+5385,Russia,GPE
+5386,Vienna,GPE
+5387,American,NORP
+5388,Soviets,NORP
+5389,one,CARDINAL
+5390,Congress,ORG
+5391,Russians,NORP
+5392,the Oval Office,FAC
+5393,Harry Truman,PERSON
+5394,the Soviet Union,GPE
+5395,Reagan,PERSON
+5396,SALT,ORG
+5397,the Vladivostok Treaty,WORK_OF_ART
+5398,the Soviet Union,GPE
+5399,Ford,PERSON
+5400,the Soviet Union,GPE
+5401,7-year,DATE
+5402,two,CARDINAL
+5403,Republican,NORP
+5404,Senate,ORG
+5405,Senate,ORG
+5406,Senate,ORG
+5407,99,CARDINAL
+5408,Reagan,PERSON
+5409,REAGAN,PERSON
+5410,First,ORDINAL
+5411,the Soviet Union,GPE
+5412,two,CARDINAL
+5413,Republican,NORP
+5414,SALT,ORG
+5415,Ford,PERSON
+5416,90 percent,PERCENT
+5417,SALT,ORG
+5418,Henry Jackson,PERSON
+5419,Hollings of South Carolina,ORG
+5420,the Soviet Union,GPE
+5421,Carter,PERSON
+5422,Reagan,PERSON
+5423,the Soviet Union,GPE
+5424,the Soviet Union,GPE
+5425,Brezhnev,PERSON
+5426,three,CARDINAL
+5427,American,NORP
+5428,7-year,DATE
+5429,Americans,NORP
+5430,American,NORP
+5431,the Second World War,EVENT
+5432,Democratic,NORP
+5433,Republican,NORP
+5434,the Soviet Union,GPE
+5435,Reagan,PERSON
+5436,REAGAN,PERSON
+5437,the United States,GPE
+5438,the SALT II,EVENT
+5439,two,CARDINAL
+5440,Ford,PERSON
+5441,about 10 percent,PERCENT
+5442,SALT,ORG
+5443,Carter,PERSON
+5444,10,CARDINAL
+5445,50 tons,QUANTITY
+5446,TNT,ORG
+5447,TNT,ORG
+5448,one,CARDINAL
+5449,thousands,CARDINAL
+5450,million tons,QUANTITY
+5451,TNT,ORG
+5452,Harry Ellis,PERSON
+5453,Carter,PERSON
+5454,Americans,NORP
+5455,today,DATE
+5456,a year ago,DATE
+5457,1881,DATE
+5458,Arab,NORP
+5459,today,DATE
+5460,1973,DATE
+5461,Arab,NORP
+5462,Arab,NORP
+5463,1881,DATE
+5464,the United States,GPE
+5465,American,NORP
+5466,two,CARDINAL
+5467,one,CARDINAL
+5468,secondly,ORDINAL
+5469,American,NORP
+5470,the last year,DATE
+5471,today,DATE
+5472,2 million barrels,QUANTITY
+5473,a year ago,DATE
+5474,American,NORP
+5475,American,NORP
+5476,American,NORP
+5477,American,NORP
+5478,this year,DATE
+5479,this year,DATE
+5480,OPEC,ORG
+5481,American,NORP
+5482,Americans,NORP
+5483,millions,CARDINAL
+5484,Reagan,PERSON
+5485,Reagan,PERSON
+5486,Americans,NORP
+5487,today,DATE
+5488,a year ago,DATE
+5489,1881,DATE
+5490,Arab,NORP
+5491,today,DATE
+5492,1973,DATE
+5493,Arab,NORP
+5494,Arab,NORP
+5495,the United States,GPE
+5496,American,NORP
+5497,REAGAN,PERSON
+5498,1,CARDINAL
+5499,one-eighth,CARDINAL
+5500,"22,000",CARDINAL
+5501,the Clean Air Act,LAW
+5502,2 percent,PERCENT
+5503,the last year or so,DATE
+5504,millions of acres,QUANTITY
+5505,70 percent,PERCENT
+5506,the United States,GPE
+5507,Alaska,GPE
+5508,36,CARDINAL
+5509,32,CARDINAL
+5510,the United States,GPE
+5511,Japan,GPE
+5512,Western Europe,LOC
+5513,Carter,PERSON
+5514,this year,DATE
+5515,800 million tons,QUANTITY
+5516,Reagan,PERSON
+5517,the next 15 years,DATE
+5518,Reagan,PERSON
+5519,$ 227 billion,MONEY
+5520,the Department of Energy,ORG
+5521,one,CARDINAL
+5522,Reagan,PERSON
+5523,REAGAN,PERSON
+5524,The Department of Energy,ORG
+5525,$ 10 billion,MONEY
+5526,Carter,PERSON
+5527,California,GPE
+5528,the United States,GPE
+5529,the United States,GPE
+5530,OSHA,ORG
+5531,the Federal Government,ORG
+5532,one,CARDINAL
+5533,this day,DATE
+5534,thousands,CARDINAL
+5535,$ 130 billion,MONEY
+5536,Carter,PERSON
+5537,California,GPE
+5538,Reagan,PERSON
+5539,the Occupational Safety and Health Act,ORG
+5540,Reagan,PERSON
+5541,Reagan,PERSON
+5542,Alaska,GPE
+5543,100 percent,PERCENT
+5544,95 percent,PERCENT
+5545,Alaska,GPE
+5546,5-year,DATE
+5547,1954,DATE
+5548,American,NORP
+5549,Reagan,PERSON
+5550,REAGAN,PERSON
+5551,California,GPE
+5552,the Federal Government,ORG
+5553,California,GPE
+5554,California,GPE
+5555,California,GPE
+5556,Congress,ORG
+5557,the Environmental Protection Agency,ORG
+5558,only 2 percent,PERCENT
+5559,the next 5 years,DATE
+5560,5 years,DATE
+5561,the 121 years,DATE
+5562,Reagan,PERSON
+5563,William Hilliard,PERSON
+5564,SOCIAL SECURITY MR,ORG
+5565,Reagan,PERSON
+5566,two,CARDINAL
+5567,REAGAN,PERSON
+5568,first,ORDINAL
+5569,about 16 years ago,DATE
+5570,trillions of dollars,MONEY
+5571,a few years,DATE
+5572,Carter,PERSON
+5573,Carter,PERSON
+5574,two,CARDINAL
+5575,Democratic,NORP
+5576,the White House,ORG
+5577,Reagan,PERSON
+5578,four,CARDINAL
+5579,the Wall Street Journal,ORG
+5580,earlier this week,DATE
+5581,1976,DATE
+5582,the Democratic Congress,ORG
+5583,Reagan,PERSON
+5584,REAGAN,PERSON
+5585,just a few years,DATE
+5586,today,DATE
+5587,many years ago,DATE
+5588,first,ORDINAL
+5589,Carter,PERSON
+5590,Medicare,ORG
+5591,Reagan,PERSON
+5592,Medicare,ORG
+5593,American,NORP
+5594,Reagan,PERSON
+5595,REAGAN,PERSON
+5596,Medicare,ORG
+5597,Congress,ORG
+5598,the Disability Insurance Fund,ORG
+5599,every month,DATE
+5600,tens of thousands,CARDINAL
+5601,every month,DATE
+5602,State,ORG
+5603,Carter,PERSON
+5604,Medicare,ORG
+5605,tonight,TIME
+5606,the Democratic Party,ORG
+5607,the Republican Party,ORG
+5608,Reagan,PERSON
+5609,the Democratic Party,ORG
+5610,Reagan,PERSON
+5611,Democratic,NORP
+5612,Republican,NORP
+5613,Republican,NORP
+5614,Republicans,NORP
+5615,American,NORP
+5616,Reagan,PERSON
+5617,two,CARDINAL
+5618,Reagan,PERSON
+5619,Carter,PERSON
+5620,Barbara Walters,PERSON
+5621,tonight,TIME
+5622,American,NORP
+5623,just a week from today,DATE
+5624,Barbara,PERSON
+5625,Reagan,PERSON
+5626,Democrat,NORP
+5627,the Oval Office,FAC
+5628,the last 4 years,DATE
+5629,Reagan,PERSON
+5630,Eisenhower,PERSON
+5631,Reagan,PERSON
+5632,1968,DATE
+5633,American,NORP
+5634,North Korea,GPE
+5635,Cuba,GPE
+5636,this year,DATE
+5637,American,NORP
+5638,Ecuador,GPE
+5639,South America,LOC
+5640,American,NORP
+5641,Reagan,PERSON
+5642,the Oval Office,ORG
+5643,daily,DATE
+5644,Barbara,PERSON
+5645,Reagan,PERSON
+5646,REAGAN,PERSON
+5647,Barbara,PERSON
+5648,Carter,PERSON
+5649,tonight,TIME
+5650,Federal Government,ORG
+5651,the Federal Government,ORG
+5652,State,ORG
+5653,1976,DATE
+5654,Carter,PERSON
+5655,12.5,CARDINAL
+5656,Ford,PERSON
+5657,Today,DATE
+5658,20 percent,PERCENT
+5659,Democrat,NORP
+5660,Democrat,NORP
+5661,those days,DATE
+5662,Democrat,NORP
+5663,today,DATE
+5664,today,DATE
+5665,millions,CARDINAL
+5666,Democrats,NORP
+5667,Carter,PERSON
+5668,Reagan,PERSON
+5669,the Constitution of our Nation,LAW
+5670,40 years,DATE
+5671,the Republican Party,ORG
+5672,Six,CARDINAL
+5673,the Oval Office,ORG
+5674,Reagan,PERSON
+5675,Republican Party,ORG
+5676,59 cents,MONEY
+5677,the Federal Government,ORG
+5678,State,ORG
+5679,the Democratic Party,ORG
+5680,Reagan,PERSON
+5681,Reagan,PERSON
+5682,REAGAN,PERSON
+5683,4 years,DATE
+5684,one,CARDINAL
+5685,Democratic,NORP
+5686,more than 8 years ago,DATE
+5687,14,CARDINAL
+5688,California,GPE
+5689,14,CARDINAL
+5690,all these years,DATE
+5691,California,GPE
+5692,first,ORDINAL
+5693,hundreds,CARDINAL
+5694,the Federal Government,ORG
+5695,Carter,PERSON
+5696,1,CARDINAL
+5697,American,NORP
+5698,One,CARDINAL
+5699,the Democratic Congress,ORG
+5700,South,LOC
+5701,the long Depression years,DATE
+5702,the Oval Office,FAC
+5703,Reagan,PERSON
+5704,REAGAN,PERSON
+5705,two,CARDINAL
+5706,1,CARDINAL
+5707,six,CARDINAL
+5708,3 minutes,TIME
+5709,Carter,PERSON
+5710,First,ORDINAL
+5711,the League of Women Voters,ORG
+5712,American,NORP
+5713,Reagan,PERSON
+5714,Cleveland,GPE
+5715,Ohio,GPE
+5716,this last few hours,TIME
+5717,almost 4 years,DATE
+5718,thousands,CARDINAL
+5719,Reagan,PERSON
+5720,The United States,GPE
+5721,the United States,GPE
+5722,six,CARDINAL
+5723,eight,CARDINAL
+5724,this last 3 1/2 years,DATE
+5725,almost 50 - 50,CARDINAL
+5726,the Oval Office,FAC
+5727,American,NORP
+5728,American,NORP
+5729,next Tuesday,DATE
+5730,one,CARDINAL
+5731,one,CARDINAL
+5732,1960,DATE
+5733,John Kennedy,PERSON
+5734,1968,DATE
+5735,Hubert Humphrey,PERSON
+5736,Richard Nixon,PERSON
+5737,American,NORP
+5738,Reagan,PERSON
+5739,REAGAN,PERSON
+5740,the League of Women Voters,ORG
+5741,1,CARDINAL
+5742,third,ORDINAL
+5743,three,CARDINAL
+5744,Next Tuesday,DATE
+5745,election day,DATE
+5746,Next Tuesday,DATE
+5747,4 years ago,DATE
+5748,4 years ago,DATE
+5749,4 years ago,DATE
+5750,America,GPE
+5751,4 years ago,DATE
+5752,the last 4 years,DATE
+5753,the next 4,DATE
+5754,today,DATE
+5755,2 feet,QUANTITY
+5756,New York City,GPE
+5757,Los Angeles,GPE
+5758,California,GPE
+5759,California,GPE
+5760,State,ORG
+5761,seventh,ORDINAL
+5762,the next few years,DATE
+5763,today,DATE
+5764,half,CARDINAL
+5765,the 8 years,DATE
+5766,$ 5.7 billion,MONEY
+5767,today,DATE
+5768,60 years,DATE
+5769,the League of Women Voters,ORG
+5770,Americans,NORP
+5771,the League of Women Voters,ORG
+5772,Carter,PERSON
+5773,Reagan,PERSON
+5774,Cleveland,GPE
+5775,tonight,TIME
+5776,evening,TIME
+5777,a few days,DATE
+5778,Mondale,PERSON
+5779,Cabinet,ORG
+5780,hundreds,CARDINAL
+5781,the last 4 years,DATE
+5782,American,NORP
+5783,1,CARDINAL
+5784,the United States,GPE
+5785,These last 4 years,DATE
+5786,Tonight,TIME
+5787,first,ORDINAL
+5788,the United States,GPE
+5789,Congress,ORG
+5790,American,NORP
+5791,the United States,GPE
+5792,Today,DATE
+5793,a few hundred thousand,CARDINAL
+5794,almost 230 million,CARDINAL
+5795,Today,DATE
+5796,American,NORP
+5797,Americans,NORP
+5798,4 years,DATE
+5799,Godspeed,PERSON
+5800,a few minutes,TIME
+5801,one,CARDINAL
+5802,about three,CARDINAL
+5803,three,CARDINAL
+5804,35 years,DATE
+5805,first,ORDINAL
+5806,Hiroshima,GPE
+5807,Earth,LOC
+5808,dozens,CARDINAL
+5809,World War II,EVENT
+5810,second,ORDINAL
+5811,the long afternoon,TIME
+5812,World War II,EVENT
+5813,second,ORDINAL
+5814,the first few hours,TIME
+5815,the United States,GPE
+5816,the United States,GPE
+5817,American,NORP
+5818,Earth,LOC
+5819,billions,CARDINAL
+5820,the year 2000,DATE
+5821,first,ORDINAL
+5822,One,CARDINAL
+5823,America,GPE
+5824,America,GPE
+5825,America,GPE
+5826,first,ORDINAL
+5827,one,CARDINAL
+5828,American,NORP
+5829,Americans,NORP
+5830,this century,DATE
+5831,American,NORP
+5832,Happiness,ORG
+5833,the next few days,DATE
+5834,American,NORP
+5835,the last 14 months,DATE
+5836,American,NORP
+5837,Iran,GPE
+5838,South,LOC

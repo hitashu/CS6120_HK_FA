@@ -1,0 +1,5301 @@
+,ent,ent_label
+0,the Department of Justice,ORG
+1,the Bureauof Corporations,ORG
+2,the Department of Commerce,ORG
+3,Labor,ORG
+4,the InterstateCommerce Commission,ORG
+5,first,ORDINAL
+6,December,DATE
+7,American,NORP
+8,Congress,ORG
+9,the 15th day of March,DATE
+10,theDingley Act,PERSON
+11,Dingley Act,PERSON
+12,Congress,ORG
+13,1907,DATE
+14,the currentfiscal year,DATE
+15,"100,000,000",MONEY
+16,the Department of Agriculture,ORG
+17,half a century ago,DATE
+18,FederalGovernment,ORG
+19,the Panama Canal,FAC
+20,Congress,ORG
+21,Ohio,GPE
+22,theMississippi,ORG
+23,American,NORP
+24,European,NORP
+25,the United States,GPE
+26,American,NORP
+27,Monroe,PERSON
+28,a few years,DATE
+29,annual,DATE
+30,Europe,LOC
+31,Asiaof,PRODUCT
+32,Hague,GPE
+33,Tribunal,ORG
+34,UnitedStates,ORG
+35,the United States,GPE
+36,Spanish,NORP
+37,Asiatic,NORP
+38,Meantimewe,GPE
+39,the Federal Government,ORG
+40,the Federal Executive,ORG
+41,FederalGovernment,ORG
+42,States,GPE
+43,State,ORG
+44,Executivein,ORG
+45,the National Government,ORG
+46,One,CARDINAL
+47,European,NORP
+48,Congress,ORG
+49,Republicanplatform,ORG
+50,Congress,ORG
+51,Orient,LOC
+52,Philippines,GPE
+53,South America,LOC
+54,Philippines,GPE
+55,North and South America,GPE
+56,Congress,ORG
+57,Root,PERSON
+58,the Departments of Agriculture andof Commerce,ORG
+59,Labor,ORG
+60,Europe,LOC
+61,The Panama Canal,FAC
+62,the United States,GPE
+63,South America,LOC
+64,South America,LOC
+65,Congress,ORG
+66,the War Department,ORG
+67,Isthmus,GPE
+68,Goethalsand,PERSON
+69,Isthmus,GPE
+70,Porto Rico,GPE
+71,Philippinesare,ORG
+72,PortoRico,ORG
+73,Philippines,GPE
+74,the United States,GPE
+75,Philippines,GPE
+76,American,NORP
+77,South,LOC
+78,the Southern States,LOC
+79,South,LOC
+80,South,LOC
+81,thirteenth,ORDINAL
+82,fourteenth,ORDINAL
+83,Southern,NORP
+84,today,DATE
+85,only one,CARDINAL
+86,Southern,NORP
+87,South,LOC
+88,Northerners,PERSON
+89,South,LOC
+90,Constitution,LAW
+91,States,GPE
+92,Southern,NORP
+93,States,GPE
+94,Constitution,LAW
+95,theUnited States,GPE
+96,theFederal Government,ORG
+97,Southern,NORP
+98,South,LOC
+99,the last fifty years,DATE
+100,Americans,NORP
+101,here years ago,DATE
+102,one,CARDINAL
+103,theSouth,GPE
+104,South,LOC
+105,one,CARDINAL
+106,Congress,ORG
+107,the District of Columbia,GPE
+108,Congress,ORG
+109,American,NORP
+110,American,NORP
+111,Congress,ORG
+112,Senate,ORG
+113,House of Representatives,ORG
+114,Congress,ORG
+115,Dingley,ORG
+116,the last twelve years,DATE
+117,July 1,DATE
+118,the current fiscal year,DATE
+119,"100,000,000",MONEY
+120,Constitution,LAW
+121,at least one,CARDINAL
+122,Congress,ORG
+123,Senate,ORG
+124,House of Representatives,ORG
+125,Congress,ORG
+126,Congress,ORG
+127,The House of Representatives,ORG
+128,Senate,ORG
+129,Finance Committee,ORG
+130,Pollock,PERSON
+131,Loan and Trust Company,ORG
+132,429,CARDINAL
+133,the Supreme Court,ORG
+134,the Federal Government,ORG
+135,States,GPE
+136,Congress,ORG
+137,the Supreme Court,ORG
+138,the National Government,ORG
+139,the National Government,ORG
+140,Congress,ORG
+141,Houses,ORG
+142,two-thirds,CARDINAL
+143,Constitution,LAW
+144,the National Government,ORG
+145,States,GPE
+146,Congress,ORG
+147,Constitution,LAW
+148,Congress,ORG
+149,Treasury,ORG
+150,States,GPE
+151,the National Government,ORG
+152,States,GPE
+153,Second,ORDINAL
+154,Pollock,PERSON
+155,the National Government,ORG
+156,2 per cent,MONEY
+157,Treasury,ORG
+158,the United States,GPE
+159,"less than $ 25,000,000",MONEY
+160,the Supreme Court,ORG
+161,Spreckels Sugar Refining Company,ORG
+162,McClain,LOC
+163,397,CARDINAL
+164,annual,DATE
+165,first,ORDINAL
+166,two-thirds,CARDINAL
+167,Houses,ORG
+168,Constitution,LAW
+169,the Federal Government,ORG
+170,States,GPE
+171,second,ORDINAL
+172,2 per cent,MONEY
+173,As long ago,DATE
+174,"August, 1906",DATE
+175,Maine,GPE
+176,ten years,DATE
+177,Dingley,ORG
+178,Dingley,ORG
+179,American,NORP
+180,the summer of 1907,DATE
+181,Republican,NORP
+182,Republican,NORP
+183,The Ways and Means Committee,ORG
+184,House,ORG
+185,Payne,PERSON
+186,a full year,DATE
+187,Payne,PERSON
+188,Payne Tariff,ORG
+189,Senate,ORG
+190,Senate,ORG
+191,House,ORG
+192,Senate,ORG
+193,Senate,ORG
+194,House,ORG
+195,One,CARDINAL
+196,Dingley,ORG
+197,"2,024",CARDINAL
+198,Payne,ORG
+199,"1,150",CARDINAL
+200,654,CARDINAL
+201,220,CARDINAL
+202,three,CARDINAL
+203,first,ORDINAL
+204,232,CARDINAL
+205,Dingley,ORG
+206,81,CARDINAL
+207,22,CARDINAL
+208,129,CARDINAL
+209,170,CARDINAL
+210,Dingley,ORG
+211,46,CARDINAL
+212,12,CARDINAL
+213,112,CARDINAL
+214,321,CARDINAL
+215,Dingley,ORG
+216,185,CARDINAL
+217,30,CARDINAL
+218,106,CARDINAL
+219,35,CARDINAL
+220,Dingley,ORG
+221,18,CARDINAL
+222,3,CARDINAL
+223,14,CARDINAL
+224,38,CARDINAL
+225,2,CARDINAL
+226,36,CARDINAL
+227,8,CARDINAL
+228,187,CARDINAL
+229,Dingley,ORG
+230,14,CARDINAL
+231,19,CARDINAL
+232,154,CARDINAL
+233,33,CARDINAL
+234,Dingley,ORG
+235,4,CARDINAL
+236,23,CARDINAL
+237,6,CARDINAL
+238,261,CARDINAL
+239,28,CARDINAL
+240,47,CARDINAL
+241,186,CARDINAL
+242,254,CARDINAL
+243,Dingley,ORG
+244,187,CARDINAL
+245,4,CARDINAL
+246,63,CARDINAL
+247,78,CARDINAL
+248,3,CARDINAL
+249,75,DATE
+250,78,CARDINAL
+251,21,CARDINAL
+252,31,CARDINAL
+253,26,CARDINAL
+254,59,CARDINAL
+255,Dingley,ORG
+256,9,CARDINAL
+257,39,CARDINAL
+258,270,CARDINAL
+259,20,CARDINAL
+260,196,CARDINAL
+261,"2,024",CARDINAL
+262,Dingley,ORG
+263,654,CARDINAL
+264,220,CARDINAL
+265,874,CARDINAL
+266,"1,150",CARDINAL
+267,232,CARDINAL
+268,103,CARDINAL
+269,170,CARDINAL
+270,321,CARDINAL
+271,Wood,ORG
+272,35 18,CARDINAL
+273,Sugar,GPE
+274,38 2,CARDINAL
+275,2,CARDINAL
+276,Signed Tobacco,ORG
+277,8,CARDINAL
+278,0,CARDINAL
+279,NECESSITY,ORG
+280,Agricultural,ORG
+281,187 14 19 33 1895,DATE
+282,33,CARDINAL
+283,Guaidó Cotton,PERSON
+284,261,CARDINAL
+285,Flax,ORG
+286,254,CARDINAL
+287,191,CARDINAL
+288,"13,994,613.24",CARDINAL
+289,78 3 0 3,CARDINAL
+290,78,CARDINAL
+291,"74,480,201.05--Pulp",TIME
+292,59,CARDINAL
+293,20,CARDINAL
+294,270,CARDINAL
+295,196,CARDINAL
+296,874 1/2,CARDINAL
+297,Payne,PERSON
+298,"433,000,000",MONEY
+299,"11,000,000",MONEY
+300,B.,PERSON
+301,"128,000,000",MONEY
+302,"1,221,000,000",MONEY
+303,"only $ 37,000,000",MONEY
+304,"566,000,000",MONEY
+305,"31,000,000",MONEY
+306,"483,000,000",MONEY
+307,"4,000,000",MONEY
+308,"462,000,000",MONEY
+309,"41,000,000",MONEY
+310,"22,000,000",MONEY
+311,"804,000",MONEY
+312,Schedule K,PERSON
+313,"8,000,000",MONEY
+314,"106,000,000",MONEY
+315,"67,000,000",MONEY
+316,"81,000,000",MONEY
+317,Schedule N,PERSON
+318,"1,719,000,000",MONEY
+319,"101,000,000",MONEY
+320,Schedule H,ORG
+321,"462,000,000",MONEY
+322,Schedule L,ORG
+323,"106,000,000",MONEY
+324,"579,000,000",MONEY
+325,"only $ 272,000,000",MONEY
+326,"5,000,000,000",MONEY
+327,650,CARDINAL
+328,"$ 433,099,846 $ 1899",MONEY
+329,"128,423,732",CARDINAL
+330,C Metals,ORG
+331,"37,675,804",CARDINAL
+332,"566,870,950",CARDINAL
+333,"300,965,953",CARDINAL
+334,Agricultural,ORG
+335,"483,430,637 gathering(ed",QUANTITY
+336,Communiqué Cotton,PERSON
+337,Flax,ORG
+338,"22,127,145",CARDINAL
+339,MacNeil,ORG
+340,Lehrer Wool,ORG
+341,L Silks,ORG
+342,"7,947,568 17,134,944",CARDINAL
+343,"4,951,878,575",MONEY
+344,Schedule A. Chemicals,ORG
+345,"16,000,000",CARDINAL
+346,Wines,ORG
+347,462,CARDINAL
+348,"1,114,382",CARDINAL
+349,L. Silks,PERSON
+350,Europe,LOC
+351,Radio,ORG
+352,"298,905,752",MONEY
+353,about five billion dollars,MONEY
+354,"5,000,000,000",MONEY
+355,"less than $ 300,000,000",MONEY
+356,Republican,NORP
+357,Payne,ORG
+358,the Republican party,ORG
+359,Republican,NORP
+360,the Republican party,ORG
+361,the Republican party,ORG
+362,House,ORG
+363,Senate,ORG
+364,Senate,ORG
+365,the Treasury Department,ORG
+366,Senate,ORG
+367,about 10 per cent,MONEY
+368,Dingley,ORG
+369,Payne,ORG
+370,Congress,ORG
+371,Congress,ORG
+372,one,CARDINAL
+373,Congress,ORG
+374,a year,DATE
+375,Canada,GPE
+376,2,MONEY
+377,6,MONEY
+378,Dingley,ORG
+379,Canada,GPE
+380,Payne,PERSON
+381,Republican,NORP
+382,2,MONEY
+383,Canadian,NORP
+384,4,MONEY
+385,Canada,GPE
+386,2,MONEY
+387,House,ORG
+388,Canada,GPE
+389,Canadian,NORP
+390,Canadian,NORP
+391,Canada,GPE
+392,the United States,GPE
+393,Chicago,GPE
+394,25 to 10,CARDINAL
+395,20 to 5,CARDINAL
+396,45 to 20,CARDINAL
+397,33 1/3,CARDINAL
+398,$ 2 to $ 1.25,MONEY
+399,South,LOC
+400,Maine,GPE
+401,Northwest,ORG
+402,Canadian,NORP
+403,more than 75 cents,MONEY
+404,Pinchot,PERSON
+405,2,MONEY
+406,House,ORG
+407,Senate,ORG
+408,two,CARDINAL
+409,Republican,NORP
+410,many years ago,DATE
+411,11 cents,MONEY
+412,Payne,PERSON
+413,House,ORG
+414,Aldrich,PERSON
+415,Senate,ORG
+416,the Republican party,ORG
+417,the Far West,LOC
+418,East,LOC
+419,States,GPE
+420,Congress,ORG
+421,one,CARDINAL
+422,Payne,ORG
+423,House,ORG
+424,Senate,ORG
+425,Payne,ORG
+426,Republican,NORP
+427,75 per cent,MONEY
+428,as low as 20,CARDINAL
+429,40 or 50,CARDINAL
+430,Republican,NORP
+431,the Republican party,ORG
+432,50 per cent,MONEY
+433,25 per cent,MONEY
+434,25 per cent,MONEY
+435,the Democratic party,ORG
+436,Senate,ORG
+437,Democratic,NORP
+438,Republican,NORP
+439,Senate,ORG
+440,House,ORG
+441,Republican,NORP
+442,Congress,ORG
+443,Tawney,PERSON
+444,Congress,ORG
+445,Republican,NORP
+446,the Appropriations Committee,ORG
+447,400,CARDINAL
+448,House,ORG
+449,some 92,CARDINAL
+450,House,ORG
+451,eighty or ninety millions,CARDINAL
+452,one,CARDINAL
+453,Republican,NORP
+454,Tawney,PERSON
+455,one,CARDINAL
+456,two,CARDINAL
+457,Tawney,PERSON
+458,House,ORG
+459,the Republican party,ORG
+460,Tawney,PERSON
+461,Republicans,NORP
+462,Republicans,NORP
+463,Democrats,NORP
+464,a year,DATE
+465,Dingley,ORG
+466,Congress,ORG
+467,the United States,GPE
+468,Second,ORDINAL
+469,1 per cent,MONEY
+470,"5,000",MONEY
+471,26 to 30 millions of dollars,CARDINAL
+472,Philippines,GPE
+473,Philippines,GPE
+474,the United States,GPE
+475,Philippines,GPE
+476,Philippines,GPE
+477,the United States,GPE
+478,Roosevelt,LOC
+479,"75,000",MONEY
+480,first,ORDINAL
+481,the United States,GPE
+482,the United States,GPE
+483,the United States,GPE
+484,Congress,ORG
+485,Congress,ORG
+486,Republican,NORP
+487,Representatives,PRODUCT
+488,Congress,ORG
+489,Republicans,NORP
+490,two or three years,DATE
+491,Congress,ORG
+492,Weather Bureau,ORG
+493,Tawney,PERSON
+494,the United States,GPE
+495,EUROPE,LOC
+496,the United States,GPE
+497,Great Britain,GPE
+498,"April 4, 1908",DATE
+499,two,CARDINAL
+500,"January 27, 1909",DATE
+501,the North Atlantic Coast,LOC
+502,the Permanent Court of Arbitration at The Hague,ORG
+503,October 4,DATE
+504,the Arbitral Tribunal,ORG
+505,The Hague,GPE
+506,the United States,GPE
+507,American,NORP
+508,the United States,GPE
+509,Great Britain,GPE
+510,nearly seventy years,DATE
+511,American,NORP
+512,first,ORDINAL
+513,the Permanent Court of Arbitration at The Hague,ORG
+514,the United States,GPE
+515,Great Britain,GPE
+516,Canadian International,ORG
+517,"April 11, 1908",DATE
+518,two,CARDINAL
+519,the United States,GPE
+520,the Dominion of Canada,ORG
+521,the Passamaquoddy Bay,LOC
+522,the period of six months,DATE
+523,six months,DATE
+524,The International Fisheries Commission,ORG
+525,"April 11, 1908",DATE
+526,the United States,GPE
+527,Great Britain,GPE
+528,the United States,GPE
+529,Canada,GPE
+530,Congress,ORG
+531,Convention,ORG
+532,the United States,GPE
+533,Canada,GPE
+534,two,CARDINAL
+535,"the 11th day of January, 1909",DATE
+536,Senate,ORG
+537,"March 3, 1909",DATE
+538,Great Britain,GPE
+539,the United States,GPE
+540,Canada,GPE
+541,the St. John River,LOC
+542,Maine,GPE
+543,New Brunswick,GPE
+544,the North Pacific,LOC
+545,the Governments of Great Britain,ORG
+546,Japan,GPE
+547,Russia,GPE
+548,Governments,ORG
+549,The Second Peace Conference,ORG
+550,The Hague,GPE
+551,an International Prize Court,ORG
+552,the United States,GPE
+553,France,GPE
+554,Germany,GPE
+555,Great Britain,GPE
+556,Tribunal,ORG
+557,Article 7 of the Convention,LAW
+558,Court,ORG
+559,Great Britain,GPE
+560,London,GPE
+561,"December 2, 1908",DATE
+562,"February 26, 1909",DATE
+563,the United States,GPE
+564,Austria-Hungary,GPE
+565,France,GPE
+566,Germany,GPE
+567,Great Britain,GPE
+568,Italy,GPE
+569,Japan,GPE
+570,the Netherlands,GPE
+571,Russia,GPE
+572,Spain,GPE
+573,the Declaration of London,WORK_OF_ART
+574,London,GPE
+575,one,CARDINAL
+576,an International Prize Court,ORG
+577,"March 4, 1909",DATE
+578,the United States,GPE
+579,the International Conference on Maritime Law,ORG
+580,Brussels,GPE
+581,Conference,ORG
+582,the 28th of September,DATE
+583,Two,CARDINAL
+584,one,CARDINAL
+585,"April 11, 1910",DATE
+586,The International Conference,ORG
+587,Netherlands,GPE
+588,The Hague,GPE
+589,"September, 1909",DATE
+590,"June, 1910",DATE
+591,The United States,GPE
+592,Conference,ORG
+593,Congress,ORG
+594,Belgium,GPE
+595,American,NORP
+596,World,ORG
+597,Brussels,GPE
+598,1910,DATE
+599,Congress,ORG
+600,Continental,NORP
+601,Exposition,ORG
+602,Belgian,NORP
+603,the Independent State of the Congo,ORG
+604,Africa,LOC
+605,American,NORP
+606,all quarters,DATE
+607,Belgian,NORP
+608,the United States,GPE
+609,one,CARDINAL
+610,the United States,GPE
+611,Germany,GPE
+612,German,NORP
+613,American,NORP
+614,"February 23, 1909",DATE
+615,American,NORP
+616,European,NORP
+617,Congress,ORG
+618,American,NORP
+619,Monrovia,ORG
+620,the United States,GPE
+621,Liberia,GPE
+622,Liberia,GPE
+623,the American Government,ORG
+624,The Liberian Government,ORG
+625,Commission,ORG
+626,Monrovia,GPE
+627,British,NORP
+628,Sierra Leone,ORG
+629,Commission,ORG
+630,the United States,GPE
+631,the Republic of Liberia,GPE
+632,American,NORP
+633,African,NORP
+634,Liberia,GPE
+635,the United States,GPE
+636,the United States,GPE
+637,Liberia,GPE
+638,last year,DATE
+639,Commission,ORG
+640,the Department of State,ORG
+641,The Norwegian Government,ORG
+642,"January 26, 1909",DATE
+643,the Department of State,ORG
+644,the United States,GPE
+645,February,DATE
+646,"March, 1910",DATE
+647,the Spitzbergen Islands,LOC
+648,State,ORG
+649,States,GPE
+650,Norway,GPE
+651,Belgium,GPE
+652,Denmark,GPE
+653,France,GPE
+654,Germany,GPE
+655,Great Britain,GPE
+656,Russia,GPE
+657,Sweden,GPE
+658,Netherlands,GPE
+659,The Department of State,ORG
+660,1906,DATE
+661,American,NORP
+662,Spitzbergen,PERSON
+663,the United States,GPE
+664,European,NORP
+665,the United States,GPE
+666,THE NEAR EAST,LOC
+667,Majesty Mehmed V,PERSON
+668,Turkey,GPE
+669,the Ottoman Empire,GPE
+670,one,CARDINAL
+671,Parliament,ORG
+672,Persia,GPE
+673,the Near East,LOC
+674,that quarter,DATE
+675,the United States,GPE
+676,American,NORP
+677,the Near East,LOC
+678,LATIN AMERICA,ORG
+679,One,CARDINAL
+680,Pan-American,ORG
+681,the Governments of Bolivia,ORG
+682,Peru,GPE
+683,some weeks,DATE
+684,the United States,GPE
+685,the Governments of Peru,ORG
+686,Bolivia,GPE
+687,the 9th of July,DATE
+688,Buenos Aires,ORG
+689,Fourth,ORDINAL
+690,Pan-American Conference,ORG
+691,Americans,NORP
+692,American,NORP
+693,Congress,ORG
+694,The Argentine Republic,GPE
+695,"May to November, 1910",DATE
+696,Buenos Aires,ORG
+697,International Agricultural Exhibition,ORG
+698,the United States,GPE
+699,the United States,GPE
+700,the Argentine Republic,GPE
+701,two,CARDINAL
+702,Departments of this Government,ORG
+703,Today,DATE
+704,American,NORP
+705,American,NORP
+706,American,NORP
+707,American,NORP
+708,the Department of State,ORG
+709,American,NORP
+710,American,NORP
+711,Pan-American,ORG
+712,the United States,GPE
+713,Republics,GPE
+714,American,NORP
+715,the United States,GPE
+716,Pan-American,ORG
+717,Latin America,LOC
+718,Diaz,PERSON
+719,American,NORP
+720,Mexican,NORP
+721,one,CARDINAL
+722,Venezuela,GPE
+723,the past few months,DATE
+724,Venezuela,GPE
+725,The Hague,ORG
+726,"July 30, 1909",DATE
+727,Panama,GPE
+728,American,NORP
+729,one,CARDINAL
+730,Panaman,GPE
+731,this year,DATE
+732,Panama,GPE
+733,Army,ORG
+734,Instructor of Police,ORG
+735,Cuba,GPE
+736,the United States,GPE
+737,Congress,ORG
+738,Cuba,GPE
+739,the United States,GPE
+740,the Dominican Republic,GPE
+741,the United States,GPE
+742,1907,DATE
+743,Dominican,NORP
+744,the Dominican Government,ORG
+745,the Emery Company,ORG
+746,Nicaragua,GPE
+747,"September 18, 1909",DATE
+748,Many years ago,DATE
+749,American,NORP
+750,two,CARDINAL
+751,the Governments of the United States,ORG
+752,Chile,GPE
+753,Britannic Majesty,PERSON
+754,Edward,PERSON
+755,the Washington Conventions,ORG
+756,1907,DATE
+757,the United States,GPE
+758,one,CARDINAL
+759,five,CARDINAL
+760,Central American,NORP
+761,the Zelaya Government,ORG
+762,Nicaragua,GPE
+763,Central America,LOC
+764,Central American,NORP
+765,the United States,GPE
+766,the Washington Conventions,ORG
+767,the Canal Zone,GPE
+768,American,NORP
+769,Central America,LOC
+770,the United States,GPE
+771,Republics,GPE
+772,the Caribbean Sea,LOC
+773,Republics,GPE
+774,the Zelaya Government,ORG
+775,two,CARDINAL
+776,Americans,NORP
+777,Zelaya,PERSON
+778,about half,CARDINAL
+779,the Zelaya Government,ORG
+780,Nicaraguan,NORP
+781,American,NORP
+782,Central America,LOC
+783,Congress,ORG
+784,The International Bureau of American Republics,ORG
+785,the last year,DATE
+786,the American Republics,ORG
+787,Pan-American,ORG
+788,one,CARDINAL
+789,American,NORP
+790,American,NORP
+791,THE FAR EAST,LOC
+792,the Far East,LOC
+793,the Chinese Empire,GPE
+794,China,GPE
+795,China,GPE
+796,Chinese,NORP
+797,Governments,ORG
+798,China,GPE
+799,China,GPE
+800,Administration,ORG
+801,American,NORP
+802,American,NORP
+803,American,NORP
+804,months,DATE
+805,Americans,NORP
+806,Americans,NORP
+807,the Far East,LOC
+808,The Imperial Chinese Government,ORG
+809,the United States,GPE
+810,the Opium Conference,ORG
+811,Shanghai,GPE
+812,last spring,DATE
+813,the United States,GPE
+814,China,GPE
+815,Governments,ORG
+816,the United States,GPE
+817,one,CARDINAL
+818,Chinese,NORP
+819,September 4 of this year,DATE
+820,some quarters,DATE
+821,South Manchurian,NORP
+822,Antung-Mukden Railroads,ORG
+823,Americans,NORP
+824,China,GPE
+825,State,ORG
+826,Chinese,NORP
+827,Japanese,NORP
+828,the United States,GPE
+829,Japan,GPE
+830,Imperial,ORG
+831,Pacific,LOC
+832,Japan,GPE
+833,Pacific,LOC
+834,1908,DATE
+835,the United States,GPE
+836,the United States,GPE
+837,Japan,GPE
+838,1912,DATE
+839,The Department of State,ORG
+840,1856,DATE
+841,THE DEPARTMENT OF STATE,ORG
+842,Congress,ORG
+843,the Department of State,ORG
+844,State,ORG
+845,Department,ORG
+846,American,NORP
+847,Latin-American,NORP
+848,Far Eastern Affairs,ORG
+849,Europe,LOC
+850,the Near East,LOC
+851,the Department of,ORG
+852,State,ORG
+853,State,ORG
+854,"April 5, 1906",DATE
+855,the Executive Order of June,ORG
+856,American,NORP
+857,an Executive Order,ORG
+858,first,ORDINAL
+859,last summer,DATE
+860,the Department of State,ORG
+861,"August 5, 1909",DATE
+862,three,CARDINAL
+863,"August 5, 1909",DATE
+864,the Treasury Department,ORG
+865,the Department of Commerce,ORG
+866,Labor,ORG
+867,the Bureau of Trade Relations of the Department of State,ORG
+868,Section 2 of the tariff act of,LAW
+869,"August 5, 1909",DATE
+870,State,ORG
+871,the United States,GPE
+872,the Bureau of Trade Relations,ORG
+873,the Department of State,ORG
+874,the State Department,ORG
+875,the beginning of this Administration,DATE
+876,State,ORG
+877,Congress,ORG
+878,Congress,ORG
+879,Departments,ORG
+880,annual,DATE
+881,Departments,ORG
+882,Administration,ORG
+883,the last fiscal year,DATE
+884,the current year,DATE
+885,Congress,ORG
+886,Executive,ORG
+887,Treasury,ORG
+888,Treasury,ORG
+889,the Executive Departments,ORG
+890,fiscal year,DATE
+891,"the current fiscal year ending June 30, 1910",DATE
+892,"34,075,620",MONEY
+893,the Panama Canal,FAC
+894,"38,000,000",MONEY
+895,"1,000,000",MONEY
+896,"73,075,620",MONEY
+897,the Panama Canal,FAC
+898,the Panama Canal,FAC
+899,the Spooner Act,WORK_OF_ART
+900,1902,DATE
+901,half,CARDINAL
+902,"January 1, 1915",DATE
+903,"297,766,000",MONEY
+904,"139,705,200",MONEY
+905,"75,435,000",MONEY
+906,"375,201,000",MONEY
+907,100 feet,QUANTITY
+908,Culebra,ORG
+909,fiscal year,DATE
+910,Treasury,ORG
+911,"the next fiscal year ending June 30, 1911",DATE
+912,this current fiscal year,DATE
+913,"42,818,000",MONEY
+914,Treasury,ORG
+915,"the next fiscal year ending June 30, 1911",DATE
+916,the Panama Canal,FAC
+917,"35,931,000",MONEY
+918,Departments,ORG
+919,Congress,ORG
+920,Treasury,ORG
+921,the next fiscal year,DATE
+922,two,CARDINAL
+923,Departments,ORG
+924,second,ORDINAL
+925,the Treasury Department,ORG
+926,one,CARDINAL
+927,the United States,GPE
+928,two,CARDINAL
+929,three,CARDINAL
+930,two or more years,DATE
+931,two,CARDINAL
+932,one,CARDINAL
+933,Departments,ORG
+934,Houses of Congress,ORG
+935,the Spanish war,EVENT
+936,at least two years,DATE
+937,Senate,ORG
+938,New York City,GPE
+939,the American Sugar Refining Company,ORG
+940,the American Sugar Refining Company,ORG
+941,The Treasury Department,ORG
+942,the Department of Justice,ORG
+943,Congress,ORG
+944,the Treasury Department,ORG
+945,the Department of Justice,ORG
+946,Two,CARDINAL
+947,the United States,GPE
+948,the United States,GPE
+949,twenty-five,CARDINAL
+950,Executive,ORG
+951,the United States,GPE
+952,the State Department,ORG
+953,THE NEW TARIFF BOARD,ORG
+954,the Department of State,ORG
+955,three,CARDINAL
+956,two or three years,DATE
+957,Congress,ORG
+958,annual,DATE
+959,Congress,ORG
+960,Congress,ORG
+961,WAR DEPARTMENT,ORG
+962,the War Department,ORG
+963,the coming fiscal year,DATE
+964,forty-five millions,QUANTITY
+965,last year,DATE
+966,the period of one year,DATE
+967,Army,ORG
+968,Congress,ORG
+969,Congress,ORG
+970,first,ORDINAL
+971,Congress,ORG
+972,Army,ORG
+973,Navy,ORG
+974,Army,ORG
+975,United States,GPE
+976,one,CARDINAL
+977,Chesapeake Bay,LOC
+978,Atlantic,LOC
+979,Gulf,LOC
+980,one,CARDINAL
+981,the Philippine Islands,GPE
+982,Pearl Harbor,FAC
+983,Honolulu,GPE
+984,Philippines,GPE
+985,Philippines,GPE
+986,Corregidor,GPE
+987,Olongapo,ORG
+988,Dewey,ORG
+989,Manila Bay,FAC
+990,Olongapo,PERSON
+991,Pearl Harbor,FAC
+992,NAVY,ORG
+993,Navy,ORG
+994,Navy,ORG
+995,Congress,ORG
+996,Navy,ORG
+997,Congress,ORG
+998,thirty eight millions,CARDINAL
+999,last year,DATE
+1000,two,CARDINAL
+1001,first,ORDINAL
+1002,one,CARDINAL
+1003,Navy,ORG
+1004,Department,ORG
+1005,the Navy Department,ORG
+1006,Congress,ORG
+1007,Naval Observatory,FAC
+1008,the Naval Department,ORG
+1009,Naval Observatory,FAC
+1010,Board of Visitors,ORG
+1011,Congress,ORG
+1012,1901,DATE
+1013,Senate,ORG
+1014,the Geological Survey,ORG
+1015,two or three years ',DATE
+1016,the Navy Department,ORG
+1017,Congress,ORG
+1018,the Naval Observatory,FAC
+1019,the Navy Department,ORG
+1020,EXPEDITION,PERSON
+1021,the American Bar Association,ORG
+1022,many State Bar Associations,ORG
+1023,American,NORP
+1024,State,ORG
+1025,State,ORG
+1026,English,NORP
+1027,State,ORG
+1028,Constitution,LAW
+1029,the Supreme Court,ORG
+1030,the Supreme Court,ORG
+1031,first,ORDINAL
+1032,the Supreme Court,ORG
+1033,The Republican party,ORG
+1034,State,ORG
+1035,the hour,TIME
+1036,seven days,DATE
+1037,such seven days,DATE
+1038,the General Government,ORG
+1039,Sherman Anti-trust,WORK_OF_ART
+1040,Interstate Commerce,FAC
+1041,first,ORDINAL
+1042,Congress,ORG
+1043,Congress,ORG
+1044,"January 11, 1909",DATE
+1045,Commissioners,ORG
+1046,the District of Columbia,GPE
+1047,Congress,ORG
+1048,Congress,ORG
+1049,the National Government,ORG
+1050,Capitol Dome,ORG
+1051,POST-OFFICE DEPARTMENT,ORG
+1052,SECOND,ORDINAL
+1053,the Post-Office Department,ORG
+1054,1 cent,MONEY
+1055,second,ORDINAL
+1056,second,ORDINAL
+1057,1 cent,MONEY
+1058,"about $ 63,000,000",MONEY
+1059,more than 9 cents,MONEY
+1060,291 miles,QUANTITY
+1061,"1,049",CARDINAL
+1062,"1,128 miles",QUANTITY
+1063,three,CARDINAL
+1064,one-half,CARDINAL
+1065,nearly four,CARDINAL
+1066,daily,DATE
+1067,1 cent,MONEY
+1068,1907,CARDINAL
+1069,second,ORDINAL
+1070,63.91 per cent,MONEY
+1071,only 5.19 per cent,MONEY
+1072,Congress,ORG
+1073,the Post-Office Department,ORG
+1074,more than half,CARDINAL
+1075,three and a half,DATE
+1076,the last fiscal year,DATE
+1077,the Post-Office Department,ORG
+1078,"17,500,000",MONEY
+1079,second,ORDINAL
+1080,"63,000,000",MONEY
+1081,"28,000,000",MONEY
+1082,second,ORDINAL
+1083,the Post-Office,ORG
+1084,Congress,ORG
+1085,POSTAL SAVINGS BANKS,ORG
+1086,second,ORDINAL
+1087,the Post-Office Department,ORG
+1088,States,GPE
+1089,Senate,ORG
+1090,the Monetary Commission,ORG
+1091,the Monetary Commission,ORG
+1092,Europe,LOC
+1093,Congress,ORG
+1094,Atlantic,LOC
+1095,South America,LOC
+1096,the United States,GPE
+1097,South America,LOC
+1098,China,GPE
+1099,Japan,GPE
+1100,Philippines,GPE
+1101,first,ORDINAL
+1102,American,NORP
+1103,American,NORP
+1104,House,ORG
+1105,Senate,ORG
+1106,INTERIOR DEPARTMENT,ORG
+1107,ARIZONA,GPE
+1108,New Mexico,GPE
+1109,Arizona,GPE
+1110,Territory,PERSON
+1111,State,ORG
+1112,Territory,PERSON
+1113,State,ORG
+1114,State,ORG
+1115,Alaska,GPE
+1116,Territory,PERSON
+1117,Territory,PERSON
+1118,NATIONAL RESOURCES,ORG
+1119,Departments,ORG
+1120,Congress,ORG
+1121,DEPARTMENT OF AGRICULTURE,ORG
+1122,Agriculture,ORG
+1123,Department,ORG
+1124,the current year,DATE
+1125,DEPARTMENT OF COMMERCE,ORG
+1126,The Light-House Board,ORG
+1127,the Department of Commerce,ORG
+1128,Labor,ORG
+1129,forty years,DATE
+1130,Board,ORG
+1131,two or three,CARDINAL
+1132,Board,ORG
+1133,sixteen,CARDINAL
+1134,Army,ORG
+1135,Navy,ORG
+1136,Board,ORG
+1137,Board,ORG
+1138,Congressional,NORP
+1139,Commerce,ORG
+1140,Labor,ORG
+1141,THE WHITE SLAVE TRADE,ORG
+1142,the Bureau of Immigration,ORG
+1143,The White Slave Trade,WORK_OF_ART
+1144,"50,000",MONEY
+1145,Commerce,ORG
+1146,Labor,ORG
+1147,BUREAU OF HEALTH,ORG
+1148,the National Government,ORG
+1149,the Medical Department of the Army,ORG
+1150,the Medical Department of the Navy,ORG
+1151,the General Government,ORG
+1152,Bureau of Public Health,ORG
+1153,the Marine-Hospital Service,ORG
+1154,States,GPE
+1155,the Federal Government,ORG
+1156,the Agricultural Department,ORG
+1157,one,CARDINAL
+1158,States,GPE
+1159,Federal Government,ORG
+1160,CIVIL SERVICE COMMISSION,ORG
+1161,the United States Civil Service Commission,GPE
+1162,Commission,ORG
+1163,the Census Act,LAW
+1164,Executive,ORG
+1165,Commission,ORG
+1166,annual,DATE
+1167,this year,DATE
+1168,Congress,ORG
+1169,the House of Representatives,ORG
+1170,the United States Government,GPE
+1171,CongressFREEDMAN 'S SAVINGS AND TRUST COMPANY,ORG
+1172,Congress,ORG
+1173,the Freedman's Savings and Trust Company,ORG
+1174,The year 1913,DATE
+1175,fiftieth,ORDINAL
+1176,Negroes,GPE
+1177,South,LOC
+1178,Negroes,ORG
+1179,more than seven,CARDINAL
+1180,Senate,ORG
+1181,House of Representatives,ORG
+1182,Congress,ORG
+1183,States,GPE
+1184,annual,DATE
+1185,the Interstate Commerce Commission,ORG
+1186,the year 1908,DATE
+1187,"between July 1, 1908",DATE
+1188,one,CARDINAL
+1189,Congress,ORG
+1190,twelve,CARDINAL
+1191,six,CARDINAL
+1192,six,CARDINAL
+1193,first,ORDINAL
+1194,days,DATE
+1195,the year 1909,DATE
+1196,seventeen,CARDINAL
+1197,1908,DATE
+1198,only one,CARDINAL
+1199,the Supreme Court of,ORG
+1200,the United States,GPE
+1201,five,CARDINAL
+1202,"October, 1909",DATE
+1203,the United States,GPE
+1204,the United States,GPE
+1205,five,CARDINAL
+1206,the United States,GPE
+1207,United States Court of Commerce,ORG
+1208,1,CARDINAL
+1209,the Interstate Commerce Commission,ORG
+1210,2,CARDINAL
+1211,the Interstate Commerce Commission,ORG
+1212,3,CARDINAL
+1213,"February 19, 1903",DATE
+1214,the United States,GPE
+1215,4,CARDINAL
+1216,20,CARDINAL
+1217,the United States,GPE
+1218,Congress,ORG
+1219,the Court of Customs Appeals,ORG
+1220,"August 5, 1909",DATE
+1221,the Commerce Court,ORG
+1222,five,CARDINAL
+1223,second,ORDINAL
+1224,third,ORDINAL
+1225,fourth,ORDINAL
+1226,seventh,ORDINAL
+1227,eighth,ORDINAL
+1228,the Court of Commerce,ORG
+1229,the Court of Commerce,ORG
+1230,annual,DATE
+1231,"up to $ 10,000",MONEY
+1232,the United States,GPE
+1233,the Supreme Court of,ORG
+1234,the United States,GPE
+1235,the Supreme Court,ORG
+1236,The Commerce Court,ORG
+1237,the Interstate Commerce Commission,ORG
+1238,more than sixty days,DATE
+1239,the Interstate Commerce Commission,ORG
+1240,the Department of Justice,ORG
+1241,the Interstate Commerce Commission,ORG
+1242,the United States,GPE
+1243,Congress,ORG
+1244,Sherman,PERSON
+1245,Republican,NORP
+1246,1908,DATE
+1247,Congress,ORG
+1248,thirty days ',DATE
+1249,two hundred and fifty dollars,CARDINAL
+1250,the United States,GPE
+1251,one,CARDINAL
+1252,thirty days,DATE
+1253,months,DATE
+1254,the Interstate Commerce Commission,ORG
+1255,the Hepburn Act,LAW
+1256,1905 - 6,DATE
+1257,annually,DATE
+1258,the Interstate Commerce Commission,ORG
+1259,"almost 200,000",CARDINAL
+1260,the United States,GPE
+1261,the Interstate Commerce Commission,ORG
+1262,sixty days,DATE
+1263,section 15,LAW
+1264,one,CARDINAL
+1265,between two or more,CARDINAL
+1266,Commerce Commission,ORG
+1267,Republican,NORP
+1268,1908,DATE
+1269,One,CARDINAL
+1270,one,CARDINAL
+1271,States,GPE
+1272,less than,CARDINAL
+1273,Republican,NORP
+1274,1908,DATE
+1275,more than one year,DATE
+1276,the Interstate Commerce Commission,ORG
+1277,twelve months from date,DATE
+1278,the Interstate Commerce Commission,ORG
+1279,the Interstate Commerce Commission,ORG
+1280,the House of Representatives,ORG
+1281,the Interstate Commerce Committee of the Senate,ORG
+1282,forty years,DATE
+1283,First,ORDINAL
+1284,second,ORDINAL
+1285,third,ORDINAL
+1286,Congress,ORG
+1287,Sherman Anti-Trust Act,WORK_OF_ART
+1288,1890,DATE
+1289,first,ORDINAL
+1290,second,ORDINAL
+1291,second,ORDINAL
+1292,first,ORDINAL
+1293,first,ORDINAL
+1294,second,ORDINAL
+1295,one,CARDINAL
+1296,one,CARDINAL
+1297,1890,DATE
+1298,the United States,GPE
+1299,Knight,PERSON
+1300,Sugar Trust,WORK_OF_ART
+1301,Sugar Trust,ORG
+1302,Sugar Trust,ORG
+1303,American,NORP
+1304,The Supreme Court,ORG
+1305,the Supreme Court,ORG
+1306,the Supreme Court,ORG
+1307,Congress,ORG
+1308,two decades,DATE
+1309,the Supreme Court,ORG
+1310,more than a dozen,CARDINAL
+1311,one,CARDINAL
+1312,two,CARDINAL
+1313,a dozen States,GPE
+1314,the Supreme Court,ORG
+1315,the Department of Justice,ORG
+1316,the Department of Justice,ORG
+1317,millions,CARDINAL
+1318,Congress,ORG
+1319,one,CARDINAL
+1320,States,GPE
+1321,one,CARDINAL
+1322,State,ORG
+1323,the Federal Government,ORG
+1324,States,GPE
+1325,States,GPE
+1326,Congress,ORG
+1327,States,GPE
+1328,States,GPE
+1329,States,GPE
+1330,the Department of Commerce,ORG
+1331,Labor,ORG
+1332,States,GPE
+1333,National Government,ORG
+1334,the United States,GPE
+1335,one,CARDINAL
+1336,States,GPE
+1337,Sherman,PERSON
+1338,first,ORDINAL
+1339,second,ORDINAL
+1340,third,ORDINAL
+1341,the Federal Government,ORG
+1342,the Sherman Act,WORK_OF_ART
+1343,Second,ORDINAL
+1344,Congress,ORG
+1345,Congress,ORG
+1346,Congress,ORG
+1347,the Supreme Court,ORG
+1348,State,ORG
+1349,the Federal Government,ORG
+1350,the Supreme Court,ORG
+1351,the Supreme Court,ORG
+1352,third,ORDINAL
+1353,three,CARDINAL
+1354,First,ORDINAL
+1355,States,GPE
+1356,Second,ORDINAL
+1357,Third,ORDINAL
+1358,Congress,ORG
+1359,Senate,ORG
+1360,House of Representatives,ORG
+1361,Departments,ORG
+1362,Congress,ORG
+1363,1860,DATE
+1364,"1,055,911,288 acres",QUANTITY
+1365,"731,354,081 acres",QUANTITY
+1366,"368,035,975 acres",QUANTITY
+1367,Alaska,GPE
+1368,West,LOC
+1369,more than a quarter of a century ago,DATE
+1370,millions of acres,QUANTITY
+1371,recent years,DATE
+1372,Nature,ORG
+1373,"March 4, 1909",DATE
+1374,102,CARDINAL
+1375,229 per cent,MONEY
+1376,Interior,ORG
+1377,Congress,ORG
+1378,Congress,ORG
+1379,Executive,ORG
+1380,Executive,ORG
+1381,Congress,ORG
+1382,Interior,ORG
+1383,Interior,ORG
+1384,Congress,ORG
+1385,One,CARDINAL
+1386,the Interior Department,ORG
+1387,the Geological Survey,ORG
+1388,each year,DATE
+1389,Alaska,GPE
+1390,the United States,GPE
+1391,States,GPE
+1392,the Federal Government,ORG
+1393,States,GPE
+1394,Government,ORG
+1395,one,CARDINAL
+1396,fifty years,DATE
+1397,the Department of Agriculture,ORG
+1398,State,ORG
+1399,the Department of Agriculture,ORG
+1400,160,CARDINAL
+1401,320 acres,QUANTITY
+1402,millions of acres,QUANTITY
+1403,Congress,ORG
+1404,Interior,ORG
+1405,the Reclamation Service,ORG
+1406,the Far West,LOC
+1407,over 30,CARDINAL
+1408,One,CARDINAL
+1409,the Reclamation Service,ORG
+1410,as many acres,QUANTITY
+1411,"30,000,000",MONEY
+1412,Interior,ORG
+1413,ten years,DATE
+1414,the years,DATE
+1415,ten years,DATE
+1416,the United States,GPE
+1417,annual,DATE
+1418,"June 3, 1878",DATE
+1419,Interior,ORG
+1420,annual,DATE
+1421,Congress,ORG
+1422,Interior,ORG
+1423,the United States,GPE
+1424,"some 190,000,000 acres",QUANTITY
+1425,the Department of Agriculture,ORG
+1426,"400,000,000 acres",QUANTITY
+1427,only 3 per cent,MONEY
+1428,Constitution,LAW
+1429,the Federal Government,ORG
+1430,State,ORG
+1431,the Federal Government,ORG
+1432,the Lower House,ORG
+1433,Congress,ORG
+1434,National Government,ORG
+1435,each year,DATE
+1436,the Geological Survey,ORG
+1437,each year,DATE
+1438,five or ten years,DATE
+1439,West,LOC
+1440,the Mississippi Valley,LOC
+1441,The Mississippi River,LOC
+1442,Missouri,GPE
+1443,Ohio,GPE
+1444,Congress,ORG
+1445,One,CARDINAL
+1446,the Ohio River,LOC
+1447,Pittsburg,GPE
+1448,Cairo,GPE
+1449,all seasons of the year,DATE
+1450,9 feet,QUANTITY
+1451,seven,CARDINAL
+1452,six,CARDINAL
+1453,fifty-four,CARDINAL
+1454,"63,000,000",MONEY
+1455,twelve years,DATE
+1456,the Ohio River,LOC
+1457,Mississippi,GPE
+1458,St. Paul to St. Louis,GPE
+1459,6 feet,QUANTITY
+1460,Missouri,GPE
+1461,Kansas City,GPE
+1462,St. Louis,GPE
+1463,6 feet,QUANTITY
+1464,St. Louis,GPE
+1465,Cairo,GPE
+1466,8 feet,QUANTITY
+1467,Congress,ORG
+1468,Mississippi,LOC
+1469,Cairo,GPE
+1470,Gulf,LOC
+1471,9 feet,QUANTITY
+1472,Cairo,GPE
+1473,Europe,LOC
+1474,one,CARDINAL
+1475,Europe,LOC
+1476,more than 6 feet,QUANTITY
+1477,more than 10,CARDINAL
+1478,Germany,GPE
+1479,France,GPE
+1480,England,GPE
+1481,the Interstate Commerce Commission,ORG
+1482,Congress,ORG
+1483,Congress,ORG
+1484,the Interior Department,ORG
+1485,the Forest Service,ORG
+1486,the Agricultural Department,ORG
+1487,Senate,ORG
+1488,House of Representatives,ORG
+1489,the past year,DATE
+1490,the United States,GPE
+1491,The year,DATE
+1492,two,CARDINAL
+1493,the Permanent Court of The Hague,ORG
+1494,the United States,GPE
+1495,Great Britain,GPE
+1496,the Fisheries Convention of 1818,ORG
+1497,first,ORDINAL
+1498,"April 4, 1908",DATE
+1499,the United States,GPE
+1500,Great Britain,GPE
+1501,nearly ninety years,DATE
+1502,two,CARDINAL
+1503,The United States,GPE
+1504,the argument six days,DATE
+1505,Court,ORG
+1506,Elihu Root,PERSON
+1507,State,ORG
+1508,Root,PERSON
+1509,State,ORG
+1510,Root,PERSON
+1511,New York,GPE
+1512,Tribunal,ORG
+1513,The Hague,GPE
+1514,the Governments of the United States,ORG
+1515,Venezuela,GPE
+1516,the Orinoco Steamship Company,ORG
+1517,Venezuela,GPE
+1518,the United States,GPE
+1519,The Hague Convention,ORG
+1520,an International Prize Court,ORG
+1521,Senate,ORG
+1522,Convention,LAW
+1523,the London Maritime Conference,EVENT
+1524,Convention,ORG
+1525,the International Prize Court,ORG
+1526,Court,ORG
+1527,Netherlands,GPE
+1528,under date of,DATE
+1529,"May 24, 1910",DATE
+1530,The Hague Convention,ORG
+1531,the International Prize Court,ORG
+1532,the International Prize Court,ORG
+1533,an Arbitral Court of Justice,ORG
+1534,two,CARDINAL
+1535,Congress,ORG
+1536,five,CARDINAL
+1537,the United States,GPE
+1538,BRITAIN,GPE
+1539,CANADA,GPE
+1540,Great Britain,GPE
+1541,the past twelve months,DATE
+1542,Senate,ORG
+1543,the United States,GPE
+1544,Great Britain,GPE
+1545,the United States,GPE
+1546,Canada,GPE
+1547,Passamaquoddy Bay,LOC
+1548,Treaty,ORG
+1549,"May 21, 1910",DATE
+1550,"April 11, 1908",DATE
+1551,Convention,ORG
+1552,"January 11, 1909",DATE
+1553,the United States,GPE
+1554,Great Britain,GPE
+1555,the United States,GPE
+1556,Canada,GPE
+1557,two,CARDINAL
+1558,the International Fisheries Commission,ORG
+1559,1908,DATE
+1560,"April 11, 1908",DATE
+1561,Great Britain,GPE
+1562,the United States,GPE
+1563,Canada,GPE
+1564,the United States,GPE
+1565,PORTUGAL,ORG
+1566,October,DATE
+1567,Portugal,GPE
+1568,a provisional Republic,QUANTITY
+1569,a de facto Government,ORG
+1570,the United States,GPE
+1571,Governmental,GPE
+1572,LIBERIA,ORG
+1573,Liberia,GPE
+1574,this year,DATE
+1575,1862,DATE
+1576,American,NORP
+1577,Liberian,NORP
+1578,the American Naval Officers,ORG
+1579,Liberia,GPE
+1580,the American Commission,ORG
+1581,Congress,ORG
+1582,March 25,DATE
+1583,Liberia,GPE
+1584,THE NEAR EAST,LOC
+1585,TURKEY,GPE
+1586,the Special Embassy,FAC
+1587,Ottomans,NORP
+1588,the Ottoman Government,ORG
+1589,the United States,GPE
+1590,the United States,GPE
+1591,Turkey,GPE
+1592,Bulgaria,GPE
+1593,Roumania,GPE
+1594,Servia,ORG
+1595,American,NORP
+1596,the Near East,LOC
+1597,The National Skoupchtina,ORG
+1598,Montenegro,GPE
+1599,Kingdom,GPE
+1600,August 15,DATE
+1601,King of Montenegro,ORG
+1602,the United States,GPE
+1603,THE FAR EAST,LOC
+1604,Far Eastern,NORP
+1605,the past year,DATE
+1606,China,GPE
+1607,the Chinese Government,ORG
+1608,Hankow,GPE
+1609,Canton,GPE
+1610,the Yangtse Valley,LOC
+1611,the Hukuang Loan,ORG
+1612,May last,DATE
+1613,the Chinese Government,ORG
+1614,America,GPE
+1615,Great Britain,GPE
+1616,France,GPE
+1617,Germany,GPE
+1618,the United States,GPE
+1619,the Hukuang Loan,ORG
+1620,China,GPE
+1621,State,ORG
+1622,Manchuria,GPE
+1623,the Governments of Russia,ORG
+1624,Japan,GPE
+1625,China,GPE
+1626,American,NORP
+1627,China,GPE
+1628,China,GPE
+1629,China,GPE
+1630,American,NORP
+1631,"50,000,000",MONEY
+1632,Chinese,NORP
+1633,The United States,GPE
+1634,1903,DATE
+1635,China,GPE
+1636,the following year,DATE
+1637,China,GPE
+1638,Peking,GPE
+1639,the International Exchange Commission,ORG
+1640,1908,DATE
+1641,China,GPE
+1642,the United States,GPE
+1643,American,NORP
+1644,Majesties,PRODUCT
+1645,the Emperor of China,ORG
+1646,a few months ago,DATE
+1647,China,GPE
+1648,"50,000,000",MONEY
+1649,American,NORP
+1650,China,GPE
+1651,the United States,GPE
+1652,China,GPE
+1653,American,NORP
+1654,Americans,NORP
+1655,China,GPE
+1656,"October, 1909",DATE
+1657,October,DATE
+1658,the present year,DATE
+1659,first,ORDINAL
+1660,Peking,GPE
+1661,The year,DATE
+1662,two,CARDINAL
+1663,Far Eastern,NORP
+1664,the Russo Japanese Agreement,EVENT
+1665,Manchuria,GPE
+1666,"July 4, 1910",DATE
+1667,China,GPE
+1668,the United States,GPE
+1669,Korea,GPE
+1670,the Empire of Japan,GPE
+1671,"August 29, 1910",DATE
+1672,several years past,DATE
+1673,the United States,GPE
+1674,American,NORP
+1675,Korea,GPE
+1676,the Far East,LOC
+1677,the year,DATE
+1678,Their Imperial Highnesses Princes Tsai-tao,ORG
+1679,Tsai-Hsun of China,ORG
+1680,Imperial,ORG
+1681,Prince Higashi Fushimi,PERSON
+1682,Prince Tokugawa,PERSON
+1683,the House of Peers of Japan,ORG
+1684,War,EVENT
+1685,Japan,GPE
+1686,China,GPE
+1687,Philippines,GPE
+1688,American,NORP
+1689,China,GPE
+1690,LATIN AMERICA,ORG
+1691,the past year,DATE
+1692,Republics,GPE
+1693,hundredth,CARDINAL
+1694,Argentina,GPE
+1695,Chile,GPE
+1696,Mexico,GPE
+1697,the United States,GPE
+1698,Congressional,NORP
+1699,the centennial anniversary,DATE
+1700,Mexican,NORP
+1701,Diaz,PERSON
+1702,Mexican,NORP
+1703,two,CARDINAL
+1704,the Fourth Pan-American Conference,FAC
+1705,Buenos Aires,GPE
+1706,July,DATE
+1707,August,DATE
+1708,seven weeks,DATE
+1709,three,CARDINAL
+1710,American,NORP
+1711,Senate,ORG
+1712,the Delegation of the United States,WORK_OF_ART
+1713,Congress,ORG
+1714,America,GPE
+1715,The International Bureau of American Republics,ORG
+1716,Pan American,ORG
+1717,the International Conference of American States at,ORG
+1718,Buenos Aires,GPE
+1719,Pan American Union,ORG
+1720,April 26 of this year,DATE
+1721,American,NORP
+1722,twenty-two,CARDINAL
+1723,the United States,GPE
+1724,Peru,GPE
+1725,Ecuador,GPE
+1726,Brazil,GPE
+1727,the Argentine Republic,GPE
+1728,Powers,NORP
+1729,Governments,ORG
+1730,Ecuador,GPE
+1731,Peru,GPE
+1732,America,GPE
+1733,three,CARDINAL
+1734,American,NORP
+1735,first,ORDINAL
+1736,The Hague Convention,ORG
+1737,the United States,GPE
+1738,Mexico,GPE
+1739,the United States,GPE
+1740,Mexican Boundary Commission,ORG
+1741,Canada,GPE
+1742,the Chamizal Tract,ORG
+1743,Tex,GPE
+1744,two,CARDINAL
+1745,The Republic of Honduras,GPE
+1746,many years,DATE
+1747,Europe,LOC
+1748,Last year,DATE
+1749,American,NORP
+1750,more than a year,DATE
+1751,Honduras,GPE
+1752,the Honduranean Government,ORG
+1753,the Washington Conventions,ORG
+1754,Honduras,GPE
+1755,Central America,LOC
+1756,the past year,DATE
+1757,the Republic of Nicaragua,GPE
+1758,Zelaya,PERSON
+1759,seventeen years,DATE
+1760,Nicaragua,GPE
+1761,Central America,LOC
+1762,five,CARDINAL
+1763,Nicaragua,GPE
+1764,two,CARDINAL
+1765,American,NORP
+1766,the American Government,ORG
+1767,the Zelaya Government,ORG
+1768,State,ORG
+1769,Nicaragua,GPE
+1770,American,NORP
+1771,American,NORP
+1772,Nicaragua,GPE
+1773,Americans,NORP
+1774,Zelaya,ORG
+1775,State,ORG
+1776,Nicaraguan,NORP
+1777,the Madriz Government,ORG
+1778,Managua,GPE
+1779,the Provisional Government,ORG
+1780,Nicaragua,GPE
+1781,Nicaragua,GPE
+1782,the Argentine Republic,GPE
+1783,some months ago,DATE
+1784,American,NORP
+1785,two,CARDINAL
+1786,the Argentine Republic,GPE
+1787,the United States,GPE
+1788,section 2,LAW
+1789,the United States,GPE
+1790,"April 1, 1910",DATE
+1791,the United States,GPE
+1792,American,NORP
+1793,one hundred and thirty four,CARDINAL
+1794,the United States,GPE
+1795,the United States,GPE
+1796,the United States,GPE
+1797,the United States,GPE
+1798,ninety days ',DATE
+1799,the United States,GPE
+1800,American,NORP
+1801,the Dominion of Canada,ORG
+1802,the Tariff Act,LAW
+1803,"August, 1909",DATE
+1804,two,CARDINAL
+1805,the Dominion Government,ORG
+1806,October,DATE
+1807,the summer,DATE
+1808,State,ORG
+1809,two,CARDINAL
+1810,the Department of State,ORG
+1811,Ottawa,GPE
+1812,the Dominion Government,ORG
+1813,the Dominion Government,ORG
+1814,the Dominion Government,ORG
+1815,Ottawa,GPE
+1816,November,DATE
+1817,two,CARDINAL
+1818,the United States,GPE
+1819,Canada,GPE
+1820,Washington,GPE
+1821,January,DATE
+1822,the Department of State,ORG
+1823,Argentine,NORP
+1824,Argentine,NORP
+1825,Cuban Government,ORG
+1826,the Department of State,ORG
+1827,the United States,GPE
+1828,American,NORP
+1829,Congress,ORG
+1830,the Department of State,ORG
+1831,AMERICAN BRANCH BANKS ABROAD,ORG
+1832,American,NORP
+1833,American,NORP
+1834,Latin America,LOC
+1835,American,NORP
+1836,the United States,GPE
+1837,Latin America,LOC
+1838,no other quarter,DATE
+1839,Latin America,LOC
+1840,the Western Hemisphere,LOC
+1841,the Panama Canal,FAC
+1842,Congress,ORG
+1843,American,NORP
+1844,American,NORP
+1845,Congress,ORG
+1846,the Courts of the United States,ORG
+1847,the United States,GPE
+1848,the United States,GPE
+1849,the United States,GPE
+1850,Congress,ORG
+1851,1753,DATE
+1852,the United States,GPE
+1853,the Civil Service Act,ORG
+1854,"January 16, 1883",DATE
+1855,the Executive Orders,ORG
+1856,"June 27, 1906",DATE
+1857,"November 26, 1909",DATE
+1858,Civil Service,ORG
+1859,the four years,DATE
+1860,the Civil Service Act,ORG
+1861,a year ago,DATE
+1862,LEGATION PREMISES,GPE
+1863,many years past,DATE
+1864,Congress,ORG
+1865,Congress,ORG
+1866,Latin-American States,NORP
+1867,Europe,LOC
+1868,Congress,ORG
+1869,the House Committee on Foreign Affairs,ORG
+1870,"February 14, 1910",DATE
+1871,43MADISON,CARDINAL
+1872,annual,DATE
+1873,the Diplomatic Service,ORG
+1874,American,NORP
+1875,Congress,ORG
+1876,TREASURY DEPARTMENT,ORG
+1877,"fiscal year ending June 30, 1912",DATE
+1878,Congress,ORG
+1879,Congress,ORG
+1880,FIFTY-TWO MILLION,CARDINAL
+1881,CUT,ORG
+1882,"the year ending June 30, 1912",DATE
+1883,Treasury,ORG
+1884,November 29 of this year,DATE
+1885,"52,964,887.36",MONEY
+1886,"the fiscal year ending June 30, 1911",DATE
+1887,"16,883,153.44",MONEY
+1888,Congress,ORG
+1889,Treasury,ORG
+1890,the year 1911,DATE
+1891,"5,574,659.39",MONEY
+1892,Treasury,ORG
+1893,1911,DATE
+1894,the Panama Canal,FAC
+1895,as much each year,DATE
+1896,Canal,PERSON
+1897,the Panama Canal,FAC
+1898,more than fifty-six millions of dollars,CARDINAL
+1899,twenty millions,CARDINAL
+1900,1912,DATE
+1901,nineteen millions,CARDINAL
+1902,"630,494,013.12",MONEY
+1903,Treasury,ORG
+1904,next year,DATE
+1905,"680,000,000",MONEY
+1906,"about $ 50,000,000",MONEY
+1907,The Treasury Department,ORG
+1908,the last two years,DATE
+1909,four hundred,CARDINAL
+1910,seven,CARDINAL
+1911,nine,CARDINAL
+1912,Congress,ORG
+1913,Congress,ORG
+1914,the Auditor for the Post Office Department,ORG
+1915,"120,000",MONEY
+1916,the fiscal years 1912 and 1911,DATE
+1917,1911,DATE
+1918,Final Estimates for 1912,ORG
+1919,Treasury,ORG
+1920,1911,DATE
+1921,Total Estimates,WORK_OF_ART
+1922,1911,DATE
+1923,1911,DATE
+1924,1912,DATE
+1925,1911,DATE
+1926,Increase,PERSON
+1927,1912,DATE
+1928,1911,DATE
+1929,Increase,PERSON
+1930,1911,DATE
+1931,1911,DATE
+1932,"$ 257,126.03 + $ 488,757.73 +",MONEY
+1933,Gardner+,MONEY
+1934,"6,469,643.04",MONEY
+1935,Philippine,NORP
+1936,fiscal years 1908 - 1910,DATE
+1937,silver.]Fiscal Year,DATE
+1938,United States,GPE
+1939,monthly,DATE
+1940,"the year ending August, 1910",DATE
+1941,United States,GPE
+1942,"20,035,902",MONEY
+1943,49 per cent,MONEY
+1944,"41,075,738",MONEY
+1945,"031,275",CARDINAL
+1946,the United States,GPE
+1947,34 per cent,MONEY
+1948,"32,183,871",MONEY
+1949,"the year ending August, 1909",DATE
+1950,Philippine,NORP
+1951,fiscal years 1908 - 1910,DATE
+1952,supplies.]Fiscal Year From,DATE
+1953,United States,GPE
+1954,monthly,DATE
+1955,"the year ending August, 1910",DATE
+1956,United States,GPE
+1957,"11,615,982",MONEY
+1958,30 per cent,MONEY
+1959,"39,025,667",MONEY
+1960,"5,193,419",MONEY
+1961,the United States,GPE
+1962,18 per cent,MONEY
+1963,"28,948,011",MONEY
+1964,"the year ending August, 1909",DATE
+1965,RICO,LAW
+1966,The year,DATE
+1967,Porto Rico,GPE
+1968,Provide a Civil Government,WORK_OF_ART
+1969,Porto Rico,GPE
+1970,the House of Representatives,ORG
+1971,"June 15, 1910",DATE
+1972,Congress,ORG
+1973,Senate,ORG
+1974,House,ORG
+1975,Porto Rico,GPE
+1976,Congress,ORG
+1977,Congress,ORG
+1978,first,ORDINAL
+1979,Army Engineer,ORG
+1980,the Panama Canal,FAC
+1981,Isthmus,GPE
+1982,"January 1, 1915",DATE
+1983,"375,000,000",MONEY
+1984,the United States,GPE
+1985,the Culebra Cut,ORG
+1986,Hayes,PERSON
+1987,the last month,DATE
+1988,Isthmus,GPE
+1989,the Canal Zone,GPE
+1990,one,CARDINAL
+1991,4,CARDINAL
+1992,5 miles,QUANTITY
+1993,ten millions of yards,QUANTITY
+1994,an average of each month through the year,DATE
+1995,"1,300,000",CARDINAL
+1996,"about 30,000,000 yards",QUANTITY
+1997,85 feet,QUANTITY
+1998,American,NORP
+1999,CANAL,ORG
+2000,Congress,ORG
+2001,Canal,ORG
+2002,Canal,ORG
+2003,Navy,ORG
+2004,Canal,ORG
+2005,Canal,FAC
+2006,one,CARDINAL
+2007,1900,DATE
+2008,the Isthmian Canal,FAC
+2009,1914,DATE
+2010,"6,843,805 tons",QUANTITY
+2011,25.1 per cent,MONEY
+2012,Canal,ORG
+2013,two years,DATE
+2014,Canal,ORG
+2015,Canal,ORG
+2016,Canal,ORG
+2017,"400,000,000",MONEY
+2018,the United States,GPE
+2019,Canal,PERSON
+2020,first,ORDINAL
+2021,the United States,GPE
+2022,Canal,ORG
+2023,the United States,GPE
+2024,Eastern,ORG
+2025,the Suez Canal,LOC
+2026,two,CARDINAL
+2027,the Tehuantepec Railroad,ORG
+2028,Central America,LOC
+2029,the Panama Canal,FAC
+2030,1,MONEY
+2031,"January 1, 1911",DATE
+2032,the Suez Canal,LOC
+2033,7 francs,MONEY
+2034,25,CARDINAL
+2035,Suez Canal,LOC
+2036,Danube,ORG
+2037,the Panama Canal,FAC
+2038,"nearly $ 7,000,000",MONEY
+2039,"3,000,000",MONEY
+2040,Canal,PERSON
+2041,Isthmus,GPE
+2042,the Isthmus of Panama,FAC
+2043,Port Said,FAC
+2044,Suez,ORG
+2045,thousands of miles,QUANTITY
+2046,Isthmus,GPE
+2047,PROHIBITION OF RAILROAD OWNERSHIP OF CANAL STEAMERS,ORG
+2048,the Panama Canal,FAC
+2049,the United States,GPE
+2050,the Department of Justice,ORG
+2051,Congress,ORG
+2052,the General Government,ORG
+2053,Department,ORG
+2054,the current year,DATE
+2055,hundreds of millions of dollars,MONEY
+2056,Department,ORG
+2057,INCORPORATION,GPE
+2058,Congress,ORG
+2059,Congress,ORG
+2060,Congress,ORG
+2061,the Court of Claims,ORG
+2062,Congress,ORG
+2063,the Court of Claims,ORG
+2064,One,CARDINAL
+2065,the United States,GPE
+2066,the United States,GPE
+2067,State,ORG
+2068,the General Government,ORG
+2069,States,GPE
+2070,Congress,ORG
+2071,United States,GPE
+2072,the Supreme Court of,ORG
+2073,the United States,GPE
+2074,first,ORDINAL
+2075,Court,ORG
+2076,one,CARDINAL
+2077,two,CARDINAL
+2078,Court,ORG
+2079,1789,DATE
+2080,Court,ORG
+2081,the United States,GPE
+2082,the Supreme Court,ORG
+2083,England,GPE
+2084,English,LANGUAGE
+2085,today,DATE
+2086,the Supreme Court,ORG
+2087,United States,GPE
+2088,RELIEF OF SUPREME COURT,ORG
+2089,UNNECESSARY APPEALS,ORG
+2090,the Supreme Court,ORG
+2091,first,ORDINAL
+2092,one,CARDINAL
+2093,a Supreme Court,ORG
+2094,the Supreme Court of,ORG
+2095,the United States,GPE
+2096,Constitution,LAW
+2097,the Supreme Court,ORG
+2098,Court,ORG
+2099,The Supreme Court,ORG
+2100,the Supreme Court of,ORG
+2101,the United States,GPE
+2102,the Court of Appeals of the District of Columbia,ORG
+2103,United States Circuit Courts of Appeals,ORG
+2104,1907,DATE
+2105,Constitution,LAW
+2106,the Circuit Courts of Appeals,ORG
+2107,the Supreme Court,ORG
+2108,Constitution,LAW
+2109,the Supreme Court,ORG
+2110,the Supreme Court,ORG
+2111,the Supreme Court,ORG
+2112,more than one thousand dollars,QUANTITY
+2113,the United States Court,GPE
+2114,Porto Rico,GPE
+2115,the Circuit Court of Appeals,ORG
+2116,third,ORDINAL
+2117,the Supreme Court,ORG
+2118,the Supreme Court,ORG
+2119,about 100,CARDINAL
+2120,The American Bar Association,ORG
+2121,Congress,ORG
+2122,the United States,GPE
+2123,second,ORDINAL
+2124,Congress,ORG
+2125,the Federal Judges,ORG
+2126,the United States,GPE
+2127,"17,500",MONEY
+2128,the Supreme Court,ORG
+2129,"17,000",MONEY
+2130,the Circuit Court of Appeals,ORG
+2131,"10,000",MONEY
+2132,District Judges,GPE
+2133,"9,000",MONEY
+2134,State,ORG
+2135,POST-OFFICE DEPARTMENT,ORG
+2136,POSTAL SAVINGS BANKS,ORG
+2137,Congress,ORG
+2138,the Post-Office Department of this Government,ORG
+2139,Treasury,ORG
+2140,the Post-Office,ORG
+2141,Treasury,ORG
+2142,the 1st of January,DATE
+2143,the Post-Office Department,ORG
+2144,many years,DATE
+2145,the Post-Office Department,ORG
+2146,Treasury,ORG
+2147,last year,DATE
+2148,Treasury,ORG
+2149,Department,ORG
+2150,"17,500,000",MONEY
+2151,"17,500,000",MONEY
+2152,"11,500,000",MONEY
+2153,Treasury,ORG
+2154,thousands,CARDINAL
+2155,the present year,DATE
+2156,the year,DATE
+2157,THE CLASSIFIED SERVICE,ORG
+2158,fourth,ORDINAL
+2159,first,ORDINAL
+2160,second,ORDINAL
+2161,third,ORDINAL
+2162,fourth,ORDINAL
+2163,fourth,ORDINAL
+2164,first,ORDINAL
+2165,second,ORDINAL
+2166,third,ORDINAL
+2167,first,ORDINAL
+2168,second,ORDINAL
+2169,third,ORDINAL
+2170,Senate,ORG
+2171,Senate,ORG
+2172,Congress,ORG
+2173,Department,ORG
+2174,annually,DATE
+2175,millions,CARDINAL
+2176,the Post-Office Department,ORG
+2177,first,ORDINAL
+2178,Congress,ORG
+2179,Departmental,ORG
+2180,Congressional,NORP
+2181,the past year,DATE
+2182,Department,ORG
+2183,SECOND,ORDINAL
+2184,Congress,ORG
+2185,second,ORDINAL
+2186,the Post-Office Department,ORG
+2187,many millions,CARDINAL
+2188,the Post-Office Department,ORG
+2189,the Post-Office Department,ORG
+2190,the Post-Office Department,ORG
+2191,millions,CARDINAL
+2192,Department,ORG
+2193,first,ORDINAL
+2194,one cent,MONEY
+2195,11 pounds,QUANTITY
+2196,the Post-Office,ORG
+2197,the Postal Savings Banks,ORG
+2198,The Post-Office Department,ORG
+2199,the United States,GPE
+2200,NAVY DEPARTMENT,ORG
+2201,annual,DATE
+2202,Navy,ORG
+2203,the Navy Department,ORG
+2204,the Commission on Naval Reorganization,ORG
+2205,Justice Moody,PERSON
+2206,Roosevelt,PERSON
+2207,"February 26, 1909",DATE
+2208,Navy,ORG
+2209,Court of Inquiry,ORG
+2210,Marine Corps,ORG
+2211,the Major-General Commandant of the Marine Corps,ORG
+2212,four years ',DATE
+2213,Adjutant,NORP
+2214,Inspector,ORG
+2215,Navy,ORG
+2216,Navy,ORG
+2217,navy-yards,QUANTITY
+2218,"2,700,000",MONEY
+2219,"over $ 14,000,000",MONEY
+2220,a Naval Supply Account,FAC
+2221,"July 1, 1910",DATE
+2222,The Naval Supply,FAC
+2223,"2,700,000",MONEY
+2224,Treasury,ORG
+2225,Department,ORG
+2226,the Naval Supply Account,FAC
+2227,"2,700,000",MONEY
+2228,Treasury,ORG
+2229,Treasury,ORG
+2230,Naval,GPE
+2231,this year,DATE
+2232,the Navy Department,ORG
+2233,"5,000,000",MONEY
+2234,last year,DATE
+2235,last year,DATE
+2236,two,CARDINAL
+2237,NAVY-YARDS,ORG
+2238,Navy,ORG
+2239,less than half,CARDINAL
+2240,British,NORP
+2241,Navy,ORG
+2242,the West Indies,GPE
+2243,Guantanamo,FAC
+2244,Cuba,GPE
+2245,the Panama Canal,FAC
+2246,less than half,CARDINAL
+2247,Guantanamo,FAC
+2248,Navy,ORG
+2249,Navy,ORG
+2250,JOHN PAUL JONES,PERSON
+2251,Annapolis,PERSON
+2252,John Paul Jones,PERSON
+2253,Arctic,LOC
+2254,centuries,DATE
+2255,North,LOC
+2256,American,NORP
+2257,the North Pole,LOC
+2258,"April 6, 1909",DATE
+2259,Europe,LOC
+2260,America,GPE
+2261,Congress,ORG
+2262,Robert Edwin Peary,PERSON
+2263,INTERIOR,ORG
+2264,Interior,ORG
+2265,the Court of Appeals of the District of Columbia,ORG
+2266,the Department of the Interior,ORG
+2267,Court,ORG
+2268,Western,NORP
+2269,House,ORG
+2270,the Committee on Public Lands,ORG
+2271,One,CARDINAL
+2272,the Interior Department,ORG
+2273,the Land Office,ORG
+2274,the Land Office,ORG
+2275,Congress,ORG
+2276,Department,ORG
+2277,the current fiscal year,DATE
+2278,the year,DATE
+2279,the last two or three years,DATE
+2280,AGRICULTURAL LANDS,ORG
+2281,"about $ 69,449,058.76",MONEY
+2282,"6,241,058.76",MONEY
+2283,thirty,CARDINAL
+2284,Congress,ORG
+2285,twenty millions of dollars,MONEY
+2286,a few days,DATE
+2287,September,DATE
+2288,Congress,ORG
+2289,St. Paul,GPE
+2290,the Federal Government,ORG
+2291,November 15th,DATE
+2292,First,ORDINAL
+2293,Oregon,GPE
+2294,Washington,GPE
+2295,Idaho,GPE
+2296,Montana,GPE
+2297,Colorado,GPE
+2298,Wyoming,GPE
+2299,Second,ORDINAL
+2300,fifty years,DATE
+2301,one,CARDINAL
+2302,"2,500 acres",QUANTITY
+2303,one,CARDINAL
+2304,Interior,ORG
+2305,Congress,ORG
+2306,Third,ORDINAL
+2307,Fourth,ORDINAL
+2308,two years,DATE
+2309,Fifth,ORDINAL
+2310,the Federal Government,ORG
+2311,fifty years,DATE
+2312,every ten years,DATE
+2313,State,ORG
+2314,State,ORG
+2315,State,ORG
+2316,the United States,GPE
+2317,one,CARDINAL
+2318,Congress,ORG
+2319,Congress,ORG
+2320,Executive,ORG
+2321,the United States,GPE
+2322,the United States,GPE
+2323,Alaska,GPE
+2324,Congress,ORG
+2325,Alaska,GPE
+2326,Alaska,GPE
+2327,"about 50,000",CARDINAL
+2328,Alaska,GPE
+2329,Executive,ORG
+2330,Philippines,GPE
+2331,Alaska,GPE
+2332,the United States,GPE
+2333,Alaska,GPE
+2334,many millions of dollars,MONEY
+2335,at least two,CARDINAL
+2336,Alaska,GPE
+2337,Alaska,GPE
+2338,Pacific coast,LOC
+2339,Alaska,GPE
+2340,Alaska,GPE
+2341,the Grand Canyon,LOC
+2342,Colorado,GPE
+2343,the perilous days,DATE
+2344,Civil War,EVENT
+2345,three thousand a month,DATE
+2346,their advancing years,DATE
+2347,the hour,TIME
+2348,this late day,DATE
+2349,Lincoln,PERSON
+2350,CROPS,ORG
+2351,Agriculture,ORG
+2352,"8,926,000,000",MONEY
+2353,this year,DATE
+2354,1909,DATE
+2355,"305,000,000",MONEY
+2356,South,LOC
+2357,South,LOC
+2358,Department,ORG
+2359,State,ORG
+2360,the Federal Government,ORG
+2361,Department,ORG
+2362,Department,ORG
+2363,preceding years,DATE
+2364,1891,DATE
+2365,72,CARDINAL
+2366,12 per cent,MONEY
+2367,the United States,GPE
+2368,six,CARDINAL
+2369,Western States,LOC
+2370,Agriculture,ORG
+2371,the last summer,DATE
+2372,West,LOC
+2373,one,CARDINAL
+2374,a hundred miles,QUANTITY
+2375,25 millions of dollars,MONEY
+2376,Seventy-six,CARDINAL
+2377,the Forest Service,ORG
+2378,The Red Cross,ORG
+2379,a thousand dollars,MONEY
+2380,the Forest Service,ORG
+2381,Agriculture,ORG
+2382,FOR FIRE FIGHTING,ORG
+2383,"only about $ 135,000",MONEY
+2384,nearly a million of dollars,MONEY
+2385,the current fiscal year,DATE
+2386,"over $ 900,000",MONEY
+2387,Congress,ORG
+2388,REFORESTATION,PERSON
+2389,the Forest Service,ORG
+2390,"only about 15,000 acres",QUANTITY
+2391,Agriculture,ORG
+2392,the Forest Service,ORG
+2393,Congress,ORG
+2394,the Forest Service,ORG
+2395,Congress,ORG
+2396,the Department of Commerce,ORG
+2397,Labor,ORG
+2398,Congress,ORG
+2399,THE CENSUS BUREAU,ORG
+2400,BUREAU OF LIGHT-HOUSES,ORG
+2401,the Light-House Board,ORG
+2402,the present year,DATE
+2403,"428,000",MONEY
+2404,the preceding year,DATE
+2405,three,CARDINAL
+2406,Alaska,GPE
+2407,BUREAU OF CORPORATIONS,ORG
+2408,first,ORDINAL
+2409,the United States,GPE
+2410,the United States,GPE
+2411,80,CARDINAL
+2412,one-half,CARDINAL
+2413,200,CARDINAL
+2414,14 per cent,MONEY
+2415,3,CARDINAL
+2416,BUREAU OF FISHERIES,ORG
+2417,the Pribiloff Islands,LOC
+2418,the Department of State,ORG
+2419,Pribiloff,PERSON
+2420,next month,DATE
+2421,"about $ 450,000",MONEY
+2422,The Coast and Geodetic Survey,ORG
+2423,Philippine,NORP
+2424,Islands,GPE
+2425,about half,CARDINAL
+2426,the Erdman Act,LAW
+2427,the Interstate Commerce Commission,ORG
+2428,two,CARDINAL
+2429,PHOSPHOROUS MATCHES,PERSON
+2430,EIGHT-HOUR,TIME
+2431,1868,DATE
+2432,an eight-hour day,TIME
+2433,longer than eight hours,TIME
+2434,first,ORDINAL
+2435,Grant,PERSON
+2436,the Supreme Court,ORG
+2437,a day of longer hours than eight,DATE
+2438,1892,DATE
+2439,eight-hour,TIME
+2440,the United States,GPE
+2441,the District of Columbia,GPE
+2442,the United States,GPE
+2443,District of Columbia,GPE
+2444,eight hours,TIME
+2445,one,CARDINAL
+2446,the United States,GPE
+2447,the United States,GPE
+2448,more than eight hours,TIME
+2449,one,CARDINAL
+2450,day,DATE
+2451,eight hours,TIME
+2452,eight hours,TIME
+2453,One,CARDINAL
+2454,eight-hour,TIME
+2455,eight hours,TIME
+2456,the United States,GPE
+2457,Congress,ORG
+2458,the International Congress on Industrial Insurance,ORG
+2459,1913,DATE
+2460,Washington,GPE
+2461,"10,000",MONEY
+2462,each year,DATE
+2463,Ellis Island,LOC
+2464,the City of New York,GPE
+2465,New York,GPE
+2466,the City of New York,GPE
+2467,MISCELLANEOUS,PERSON
+2468,BUREAU OF HEALTH,ORG
+2469,a Bureau of Health,ORG
+2470,the War and,EVENT
+2471,THE IMPERIAL VALLEY PROJECT,ORG
+2472,Congress,ORG
+2473,a million dollars,MONEY
+2474,the Imperial Valley,LOC
+2475,the Colorado River,LOC
+2476,Mexico,GPE
+2477,Mexican,NORP
+2478,The Southern Pacific Railroad Company,ORG
+2479,Interior,ORG
+2480,Marshall,PERSON
+2481,Congress,ORG
+2482,the Southern Pacific Railroad Company,ORG
+2483,the District of Columbia,GPE
+2484,District,LOC
+2485,Washington,GPE
+2486,Washington,GPE
+2487,Congress,ORG
+2488,District,GPE
+2489,Congress,ORG
+2490,Washington,GPE
+2491,Congress,ORG
+2492,Washington,GPE
+2493,343,CARDINAL
+2494,the Office of Public Buildings and Grounds,ORG
+2495,Rock Creek Park,LOC
+2496,the Zoological Park,LOC
+2497,the Department of Agriculture,ORG
+2498,the Botanic Garden,ORG
+2499,Capitol,FAC
+2500,the Soldiers ' Home,ORG
+2501,Washington Barracks,GPE
+2502,the District of Columbia,GPE
+2503,"over 3,100 acres",QUANTITY
+2504,ten,CARDINAL
+2505,yearly,DATE
+2506,the Office of Public Buildings and Grounds,ORG
+2507,Congress,ORG
+2508,the United States,GPE
+2509,the District of Columbia,GPE
+2510,Congress,ORG
+2511,two,CARDINAL
+2512,the Meridian Hill,LOC
+2513,Montrose,ORG
+2514,the District Commissioners,ORG
+2515,the Zoological Park,LOC
+2516,the Klingle Ford,ORG
+2517,three,CARDINAL
+2518,Commissioners,ORG
+2519,"900,000",MONEY
+2520,the Office of Public Buildings and Grounds,ORG
+2521,the District of Columbia,GPE
+2522,the United States,GPE
+2523,Congress,ORG
+2524,VIRGINIA,GPE
+2525,Congress,ORG
+2526,the District of Columbia,GPE
+2527,Potomac,NORP
+2528,Virginia,GPE
+2529,the State of Virginia,GPE
+2530,Congress,ORG
+2531,1846,DATE
+2532,Virginia,GPE
+2533,State,ORG
+2534,Alexandria,GPE
+2535,the Potomac River,LOC
+2536,Potomac River,LOC
+2537,Potomac,NORP
+2538,Arlington Cemetery,GPE
+2539,Fort Myer,GPE
+2540,Rosslyn,PERSON
+2541,Potomac,NORP
+2542,Washington,GPE
+2543,Virginia,GPE
+2544,Virginia,GPE
+2545,Virginia,GPE
+2546,Congress,ORG
+2547,the District of Columbia,GPE
+2548,Washington,GPE
+2549,the District of Columbia,GPE
+2550,the Interstate Commerce Commission,ORG
+2551,the District Commissioners,ORG
+2552,Congress,ORG
+2553,New York City,GPE
+2554,Massachusetts,GPE
+2555,Washington,GPE
+2556,the District of Columbia,GPE
+2557,Washington,GPE
+2558,about 38 cents,MONEY
+2559,13,CARDINAL
+2560,American,NORP
+2561,Washington,GPE
+2562,about 25.5 cents,MONEY
+2563,District,GPE
+2564,about 4.4 days,DATE
+2565,13,CARDINAL
+2566,the average 6.8 days,DATE
+2567,the current fiscal year,DATE
+2568,the Board of Education,ORG
+2569,about three quarters,CARDINAL
+2570,District,GPE
+2571,the School Board,ORG
+2572,the District Commissioners,ORG
+2573,the District Commissioners,ORG
+2574,the Supreme Court of the District,ORG
+2575,Washington,GPE
+2576,Commissioners,ORG
+2577,the District Commissioners,ORG
+2578,District,GPE
+2579,1912,DATE
+2580,one,CARDINAL
+2581,Willow Tree Alley,ORG
+2582,the Police and Health Departments,ORG
+2583,Congress,ORG
+2584,Fair,ORG
+2585,Washington,GPE
+2586,Willow Tree Alley,ORG
+2587,Congress,ORG
+2588,Congress,ORG
+2589,the District of Columbia,GPE
+2590,the fiscal year 1912,DATE
+2591,the United States,GPE
+2592,"616,000",MONEY
+2593,one-fourth,CARDINAL
+2594,"June 30, 1911",DATE
+2595,1912,DATE
+2596,The District of Columbia,GPE
+2597,"less than $ 6,000,000",MONEY
+2598,"June 30, 1912",DATE
+2599,"about $ 9,00,000",MONEY
+2600,"June 30, 1909",DATE
+2601,half,CARDINAL
+2602,half,CARDINAL
+2603,the United States,GPE
+2604,1924,DATE
+2605,District,LOC
+2606,the last ten years,DATE
+2607,18.78 per cent,MONEY
+2608,District,GPE
+2609,Congress,ORG
+2610,District,GPE
+2611,FREEDMEN 'S BANK,ORG
+2612,the Freedmen's Bank,ORG
+2613,Negro,ORG
+2614,fiftieth,ORDINAL
+2615,Lincoln,PERSON
+2616,the Emancipation Proclamation,ORG
+2617,The Civil Service Commission,ORG
+2618,the year,DATE
+2619,Administration,ORG
+2620,Congress,ORG
+2621,the Treasury Department,ORG
+2622,the Department of Justice,ORG
+2623,the Post-Office Department,ORG
+2624,the Interior Department,ORG
+2625,the Department of Commerce,ORG
+2626,Labor,ORG
+2627,Senate,ORG
+2628,Senate,ORG
+2629,annual,DATE
+2630,the Federal Government,ORG
+2631,Administration,ORG
+2632,the United States,GPE
+2633,first,ORDINAL
+2634,Congress,ORG
+2635,two,CARDINAL
+2636,first,ORDINAL
+2637,Departments,ORG
+2638,The Committees on Appropriations of Congress,WORK_OF_ART
+2639,Congress,ORG
+2640,Congress,ORG
+2641,Department,ORG
+2642,Congress,ORG
+2643,"100,000",MONEY
+2644,the fiscal year 1912,DATE
+2645,one,CARDINAL
+2646,two,CARDINAL
+2647,three,CARDINAL
+2648,a half century,DATE
+2649,England,GPE
+2650,about a year ago,DATE
+2651,England,GPE
+2652,Gillett,PERSON
+2653,Gillett,PERSON
+2654,INTERSTATE COMMERCE COMMISSION,ORG
+2655,"June 18, 1910",DATE
+2656,one,CARDINAL
+2657,two,CARDINAL
+2658,the Interstate Commerce Commission,ORG
+2659,thirty days,DATE
+2660,Congress,ORG
+2661,first,ORDINAL
+2662,second,ORDINAL
+2663,Executive,ORG
+2664,Congress,ORG
+2665,Arthur T. Hadley,PERSON
+2666,Yale University,ORG
+2667,Frederick Strauss,PERSON
+2668,Frederick N. Judson,PERSON
+2669,Walter L. Fisher,PERSON
+2670,B. H. Meyer,PERSON
+2671,William E. S. Griswold,PERSON
+2672,third,ORDINAL
+2673,two,CARDINAL
+2674,Congress,ORG
+2675,"May 6, 1910",DATE
+2676,the Interstate Commerce Commission,ORG
+2677,The Interstate Commerce Commission,ORG
+2678,Commission,ORG
+2679,the Interstate Commerce Commission,ORG
+2680,FRAUDULENT,ORG
+2681,some months,DATE
+2682,several millions of dollars,MONEY
+2683,American,NORP
+2684,American,NORP
+2685,"October 31, 1910",DATE
+2686,American,NORP
+2687,American,NORP
+2688,American,NORP
+2689,the United States,GPE
+2690,"December 31, 1910",DATE
+2691,Congress,ORG
+2692,two,CARDINAL
+2693,2,CARDINAL
+2694,ANTITRUST,ORG
+2695,the present decade,DATE
+2696,the Supreme Court,ORG
+2697,Senate,ORG
+2698,House of Representatives,ORG
+2699,annual,DATE
+2700,"December 6, 1910",DATE
+2701,the Dominion of Canada,ORG
+2702,"August 5, 1909",DATE
+2703,two,CARDINAL
+2704,State,ORG
+2705,two,CARDINAL
+2706,the Department of State,ORG
+2707,Ottawa,GPE
+2708,the Dominion Government,ORG
+2709,Ottawa,GPE
+2710,Washington,GPE
+2711,the 7th of the present month two,DATE
+2712,Washington,GPE
+2713,the Dominion Government,ORG
+2714,State,ORG
+2715,the 21st,DATE
+2716,One,CARDINAL
+2717,one,CARDINAL
+2718,British,NORP
+2719,the American Continent,ORG
+2720,a century,DATE
+2721,Atlantic,LOC
+2722,The Hague,ORG
+2723,Interstate Commerce Commission,ORG
+2724,Canada,GPE
+2725,two,CARDINAL
+2726,two,CARDINAL
+2727,Canadians,NORP
+2728,English,LANGUAGE
+2729,Scotch,GPE
+2730,French,NORP
+2731,Canada,GPE
+2732,two,CARDINAL
+2733,two,CARDINAL
+2734,one,CARDINAL
+2735,three thousand miles,QUANTITY
+2736,Canada,GPE
+2737,three thousand miles,QUANTITY
+2738,Canada,GPE
+2739,Dominion,ORG
+2740,two,CARDINAL
+2741,Canadian,NORP
+2742,Canada,GPE
+2743,Canadian,NORP
+2744,Canadian,NORP
+2745,the United States,GPE
+2746,Dominion,ORG
+2747,Canada,GPE
+2748,States,GPE
+2749,Dominion,ORG
+2750,Dominion,ORG
+2751,Canada,GPE
+2752,South,LOC
+2753,the Pacific coast,LOC
+2754,South,LOC
+2755,Dominion,ORG
+2756,Canada,GPE
+2757,"the last fiscal year, 1910",DATE
+2758,"655,000,000",MONEY
+2759,"376,000,000",MONEY
+2760,the United States,GPE
+2761,"more than $ 223,000,000",MONEY
+2762,Canada,GPE
+2763,Congress,ORG
+2764,Canada,GPE
+2765,Canada,GPE
+2766,Dominion,ORG
+2767,a century,DATE
+2768,the United States,GPE
+2769,Canada,GPE
+2770,American,NORP
+2771,Congress,ORG
+2772,Canada,GPE
+2773,Senate,ORG
+2774,House of Representatives,ORG
+2775,annual,DATE
+2776,"December 6, 1910",DATE
+2777,the Dominion of Canada,ORG
+2778,"August 5, 1909",DATE
+2779,two,CARDINAL
+2780,State,ORG
+2781,two,CARDINAL
+2782,the Department of State,ORG
+2783,Ottawa,GPE
+2784,the Dominion Government,ORG
+2785,Ottawa,GPE
+2786,Washington,GPE
+2787,the 7th of the present month two,DATE
+2788,Washington,GPE
+2789,the Dominion Government,ORG
+2790,State,ORG
+2791,the 21st,DATE
+2792,One,CARDINAL
+2793,one,CARDINAL
+2794,British,NORP
+2795,the American Continent,ORG
+2796,a century,DATE
+2797,Atlantic,LOC
+2798,The Hague,ORG
+2799,Interstate Commerce Commission,ORG
+2800,Canada,GPE
+2801,two,CARDINAL
+2802,two,CARDINAL
+2803,Canadians,NORP
+2804,English,LANGUAGE
+2805,Scotch,GPE
+2806,French,NORP
+2807,Canada,GPE
+2808,two,CARDINAL
+2809,two,CARDINAL
+2810,one,CARDINAL
+2811,three thousand miles,QUANTITY
+2812,Canada,GPE
+2813,three thousand miles,QUANTITY
+2814,Canada,GPE
+2815,Dominion,ORG
+2816,two,CARDINAL
+2817,Canadian,NORP
+2818,Canada,GPE
+2819,Canadian,NORP
+2820,Canadian,NORP
+2821,the United States,GPE
+2822,Dominion,ORG
+2823,Canada,GPE
+2824,States,GPE
+2825,Dominion,ORG
+2826,Dominion,ORG
+2827,Canada,GPE
+2828,South,LOC
+2829,the Pacific coast,LOC
+2830,South,LOC
+2831,Dominion,ORG
+2832,Canada,GPE
+2833,"the last fiscal year, 1910",DATE
+2834,"655,000,000",MONEY
+2835,"376,000,000",MONEY
+2836,the United States,GPE
+2837,"more than $ 223,000,000",MONEY
+2838,Canada,GPE
+2839,Congress,ORG
+2840,Canada,GPE
+2841,Canada,GPE
+2842,Dominion,ORG
+2843,a century,DATE
+2844,the United States,GPE
+2845,Canada,GPE
+2846,American,NORP
+2847,Congress,ORG
+2848,Canada,GPE
+2849,Senate,ORG
+2850,House of Representatives,ORG
+2851,first,ORDINAL
+2852,Congress,ORG
+2853,the Christmas holidays,DATE
+2854,Executive,ORG
+2855,Congress,ORG
+2856,the National Legislature,ORG
+2857,first,ORDINAL
+2858,May,DATE
+2859,the Supreme Court,ORG
+2860,the United States,GPE
+2861,the Standard Oil Trust,ORG
+2862,the American Tobacco Trust,ORG
+2863,1890,DATE
+2864,first,ORDINAL
+2865,States,GPE
+2866,second,ORDINAL
+2867,States,GPE
+2868,two,CARDINAL
+2869,the Standard Oil and Tobacco,ORG
+2870,the Supreme Court,ORG
+2871,two,CARDINAL
+2872,two,CARDINAL
+2873,twenty-one years,DATE
+2874,Knight,PERSON
+2875,States,GPE
+2876,the last three or four years,DATE
+2877,the Supreme and Circuit Courts,ORG
+2878,thirty seven,CARDINAL
+2879,New Jersey,GPE
+2880,New Jersey,GPE
+2881,seven,CARDINAL
+2882,Tobacco,PERSON
+2883,twenty-nine,CARDINAL
+2884,the Standard Oil Trust,ORG
+2885,the American Tobacco Company,ORG
+2886,fourteen,DATE
+2887,The American Tobacco Company,ORG
+2888,92,MONEY
+2889,"000,000",CARDINAL
+2890,the Liggett & Meyers Tobacco Company,ORG
+2891,"67,000,000",MONEY
+2892,the P. Lorillard Company,ORG
+2893,"47,000,000",MONEY
+2894,the R. J. Reynolds Tobacco Company,ORG
+2895,"7,525,000",MONEY
+2896,one,CARDINAL
+2897,two,CARDINAL
+2898,"825,000",MONEY
+2899,"400,000",MONEY
+2900,one,CARDINAL
+2901,three,CARDINAL
+2902,"15,000,000",MONEY
+2903,"8,000,000",MONEY
+2904,"8,000,000",MONEY
+2905,two,CARDINAL
+2906,"5,758,300",MONEY
+2907,"200,000",MONEY
+2908,the British-American Tobacco Company,ORG
+2909,British,NORP
+2910,"26,000,000",MONEY
+2911,the Porto Rican Tobacco Company,ORG
+2912,"1,800,000",MONEY
+2913,United Cigar Stores,ORG
+2914,"9,000,000",MONEY
+2915,two,CARDINAL
+2916,21 39 per cent,MONEY
+2917,the American Tobacco Company,ORG
+2918,33 - 08,CARDINAL
+2919,the Liggett & Meyers 20.05,ORG
+2920,the Lorillard Company 22.82,ORG
+2921,Reynolds Company,ORG
+2922,2.66 per cent,MONEY
+2923,thirteen,CARDINAL
+2924,American Tobacco Company,ORG
+2925,78 to 40,CARDINAL
+2926,twenty-nine,CARDINAL
+2927,41 per cent,MONEY
+2928,28.5 per cent,MONEY
+2929,one,CARDINAL
+2930,the Porto Rican Tobacco Company,ORG
+2931,45 per cent,MONEY
+2932,twenty-nine,CARDINAL
+2933,three years,DATE
+2934,fourteen,CARDINAL
+2935,American,NORP
+2936,the Tobacco Trust,ORG
+2937,Noyes,ORG
+2938,Congress,ORG
+2939,United,ORG
+2940,I STOCK OWNERSHIP,ORG
+2941,thousands,CARDINAL
+2942,one,CARDINAL
+2943,HAND,ORG
+2944,two,CARDINAL
+2945,the Powder Trust,ORG
+2946,the Supreme Court,ORG
+2947,two,CARDINAL
+2948,two,CARDINAL
+2949,years,DATE
+2950,recent days,DATE
+2951,the Supreme Court,ORG
+2952,SUPPLEMENTAL LEGISLATION NEEDED NOT REPEAL OR AMENDMENT,PERSON
+2953,FEDERAL INCORPORATION RECOMMENDED,ORG
+2954,Congress,ORG
+2955,"January 7, 1910",DATE
+2956,millions,CARDINAL
+2957,Congress,ORG
+2958,one,CARDINAL
+2959,States,GPE
+2960,one,CARDINAL
+2961,State,ORG
+2962,the Federal Government,ORG
+2963,States,GPE
+2964,States,GPE
+2965,States,GPE
+2966,National Government,ORG
+2967,the United States,GPE
+2968,one,CARDINAL
+2969,States,GPE
+2970,GOVERNMENT ADMINISTRATIVE EXPERTS NEEDED,ORG
+2971,AID COURTS,ORG
+2972,the Bureau of Corporations,ORG
+2973,Tobacco Trust,ORG
+2974,the Bureau of Corporations,ORG
+2975,FEDERAL CORPORATION COMMISSION PROPOSED,ORG
+2976,the Department of Commerce,ORG
+2977,Labor,ORG
+2978,the Comptroller of the Currency,WORK_OF_ART
+2979,the Interstate Commerce Commission,ORG
+2980,INCORPORATION,GPE
+2981,the Supreme Court,ORG
+2982,one,CARDINAL
+2983,State,ORG
+2984,twenty years,DATE
+2985,twenty years,DATE
+2986,another term of years,DATE
+2987,one,CARDINAL
+2988,THE WHITE HOUSE,ORG
+2989,December 7,DATE
+2990,Senate,ORG
+2991,House of Representatives,ORG
+2992,the United States,GPE
+2993,the past twelve months,DATE
+2994,The year,DATE
+2995,the United States,GPE
+2996,Great Britain,GPE
+2997,France,GPE
+2998,last spring,DATE
+2999,Great Britain,GPE
+3000,France,GPE
+3001,Governments,ORG
+3002,the United States,GPE
+3003,Great Britain,GPE
+3004,Japan,GPE
+3005,the French Government,ORG
+3006,Senate,ORG
+3007,ALSOP & CO,ORG
+3008,July 5,DATE
+3009,American,NORP
+3010,Alsop & Co.,ORG
+3011,the Government of Chile,ORG
+3012,Majesty,PERSON
+3013,"nearly $ 1,000,000",MONEY
+3014,Chile,GPE
+3015,the Republic of Chile,GPE
+3016,the United States,GPE
+3017,two decades,DATE
+3018,two,CARDINAL
+3019,COSTA RICA-COLOMBIA,GPE
+3020,the United States,GPE
+3021,Panama,GPE
+3022,Costa Rica,GPE
+3023,Haiti,GPE
+3024,the Dominican Republic,GPE
+3025,Colombia,GPE
+3026,Costa Rica,GPE
+3027,Colombia,GPE
+3028,Panama,GPE
+3029,France,GPE
+3030,two,CARDINAL
+3031,"January, 1910",DATE
+3032,the Department of State,ORG
+3033,the United States,GPE
+3034,a few months ago,DATE
+3035,the Dominican Republic and,GPE
+3036,Haiti,GPE
+3037,many years,DATE
+3038,the United States,GPE
+3039,two,CARDINAL
+3040,Washington,GPE
+3041,the State Department,ORG
+3042,Mexico,GPE
+3043,LATIN AMERICA,ORG
+3044,the past year,DATE
+3045,the Republic of Venezuela,GPE
+3046,hundredth,CARDINAL
+3047,The United States,GPE
+3048,Caracas,GPE
+3049,the United States,GPE
+3050,Mexico,GPE
+3051,American,NORP
+3052,the United States,GPE
+3053,the Federal Government,ORG
+3054,the 6th of March,DATE
+3055,State,ORG
+3056,Wilson,PERSON
+3057,the United States,GPE
+3058,Mexico,GPE
+3059,Mexico,GPE
+3060,Diaz,PERSON
+3061,"40,000",CARDINAL
+3062,American,NORP
+3063,Mexico,GPE
+3064,American,NORP
+3065,War,EVENT
+3066,Navy,ORG
+3067,Army,ORG
+3068,San Antonio,GPE
+3069,Tex.,GPE
+3070,three,CARDINAL
+3071,Galveston,GPE
+3072,Infantry,ORG
+3073,Los Angeles,GPE
+3074,California,GPE
+3075,Galveston,GPE
+3076,San Diego,GPE
+3077,the City of Mexico,GPE
+3078,Diaz,PERSON
+3079,the 15th of March,DATE
+3080,War,EVENT
+3081,Navy,ORG
+3082,Congress,ORG
+3083,Mexico,GPE
+3084,American,NORP
+3085,Texas,GPE
+3086,Mexican Government,ORG
+3087,American,NORP
+3088,Americans,NORP
+3089,Army,ORG
+3090,Mexican,NORP
+3091,American,NORP
+3092,Mexican,NORP
+3093,Mexico,GPE
+3094,the Colorado River,LOC
+3095,the Imperial Valley,LOC
+3096,Mexican,NORP
+3097,American,NORP
+3098,Mexico,GPE
+3099,Southwest,LOC
+3100,first,ORDINAL
+3101,first,ORDINAL
+3102,Army,ORG
+3103,the War College,ORG
+3104,the next three months,DATE
+3105,Wilson,PERSON
+3106,Mexico,GPE
+3107,Washington,GPE
+3108,Aleshire,PERSON
+3109,Texas,GPE
+3110,three months,DATE
+3111,Second,ORDINAL
+3112,Texas,GPE
+3113,State,ORG
+3114,"20,000",CARDINAL
+3115,State,ORG
+3116,Mexicans,NORP
+3117,Texas,GPE
+3118,Cuba,GPE
+3119,"more than 5,000",CARDINAL
+3120,a year,DATE
+3121,Texas,GPE
+3122,Third,ORDINAL
+3123,One,CARDINAL
+3124,Mexican,NORP
+3125,Army,ORG
+3126,Navy,ORG
+3127,Carter,PERSON
+3128,Texas,GPE
+3129,Mexican,NORP
+3130,Wilson,PERSON
+3131,Mexico,GPE
+3132,American,NORP
+3133,"April 3, 1911",DATE
+3134,American,NORP
+3135,Mexican,NORP
+3136,Congress,ORG
+3137,Mexican,NORP
+3138,American,NORP
+3139,American,NORP
+3140,American,NORP
+3141,Mexican,NORP
+3142,"April 17, 1911",DATE
+3143,1,CARDINAL
+3144,Arizona,GPE
+3145,Douglas,PERSON
+3146,five,CARDINAL
+3147,Americans,NORP
+3148,Federals,ORG
+3149,Douglas,PERSON
+3150,Douglas,PERSON
+3151,Douglas,PERSON
+3152,State,ORG
+3153,Sloan,PERSON
+3154,April,DATE
+3155,1911 9 11,DATE
+3156,upon Mexican Government,ORG
+3157,Mexican,NORP
+3158,Mexican,NORP
+3159,Douglas,PERSON
+3160,Douglas,PERSON
+3161,American,NORP
+3162,Mexican,NORP
+3163,Americans,NORP
+3164,Mexico,GPE
+3165,the Mexican Government,ORG
+3166,Douglas,PERSON
+3167,Douglas,PERSON
+3168,Americans,NORP
+3169,Mexico,GPE
+3170,Americans,NORP
+3171,American,NORP
+3172,Mexican,NORP
+3173,American,NORP
+3174,American,NORP
+3175,Douglas,PERSON
+3176,Occurrence,ORG
+3177,Mexican,NORP
+3178,Mexico,GPE
+3179,two,CARDINAL
+3180,Republics,GPE
+3181,one,CARDINAL
+3182,the Mexican Republic,GPE
+3183,American,NORP
+3184,the United States,GPE
+3185,Mexican,NORP
+3186,Douglas,GPE
+3187,Arizona,GPE
+3188,Tia Juana,GPE
+3189,Mexico,GPE
+3190,Lower California,LOC
+3191,"May 25, 1911",DATE
+3192,Diaz,PERSON
+3193,Senor de la Barra,PERSON
+3194,Senor Francisco,PERSON
+3195,Madero,ORG
+3196,October 15,DATE
+3197,November 6,DATE
+3198,Madero,PERSON
+3199,Madero,PERSON
+3200,Bernardo Reyes,PERSON
+3201,Texas,GPE
+3202,Mexico,GPE
+3203,the United States,GPE
+3204,Mexico,GPE
+3205,CENTRAL AMERICA-HONDURAS,ORG
+3206,Central America,LOC
+3207,Republics,GPE
+3208,Nicaragua,GPE
+3209,Honduras,GPE
+3210,Senate,ORG
+3211,these Central American Republics,LOC
+3212,Nicaragua,GPE
+3213,American,NORP
+3214,Nicaragua,GPE
+3215,American,NORP
+3216,two,CARDINAL
+3217,American,NORP
+3218,American,NORP
+3219,Nicaragua,GPE
+3220,Honduras,GPE
+3221,the United States,GPE
+3222,Republics,GPE
+3223,PANAMA,GPE
+3224,the Republic of Panama,GPE
+3225,two,CARDINAL
+3226,THE PAN AMERICAN UNION,ORG
+3227,The Pan American Union,ORG
+3228,the Bureau of American Republics,ORG
+3229,American,NORP
+3230,the past year,DATE
+3231,the United States,GPE
+3232,American,NORP
+3233,THE FAR EAST,LOC
+3234,CHINESE,NORP
+3235,The past year,DATE
+3236,China,GPE
+3237,two,CARDINAL
+3238,Hukuang,ORG
+3239,China,GPE
+3240,the United States,GPE
+3241,Great Britain,GPE
+3242,Japan,GPE
+3243,1909,DATE
+3244,British,NORP
+3245,French,NORP
+3246,German,NORP
+3247,the Provinces of Hunan and Hupeh,ORG
+3248,Governments,ORG
+3249,American,NORP
+3250,British,NORP
+3251,French,NORP
+3252,German,NORP
+3253,Governments,ORG
+3254,the Chinese Government,ORG
+3255,China,GPE
+3256,"30,000,000",MONEY
+3257,"50,000,000",MONEY
+3258,China,GPE
+3259,Empire,GPE
+3260,American,NORP
+3261,three,CARDINAL
+3262,American,NORP
+3263,the United States,GPE
+3264,Chinese,NORP
+3265,the Chinese Government,ORG
+3266,1910,DATE
+3267,the American Government,ORG
+3268,Manchuria,GPE
+3269,two,CARDINAL
+3270,"50,000,000",MONEY
+3271,American,NORP
+3272,the American Government,ORG
+3273,China,GPE
+3274,American,NORP
+3275,Hukuang,ORG
+3276,China,GPE
+3277,NEUTRAL FINANCIAL ADVISER,ORG
+3278,China,GPE
+3279,the American Government,ORG
+3280,China,GPE
+3281,"September 28, 1911",DATE
+3282,the Dutch Java Bank,ORG
+3283,Orient,LOC
+3284,the Chinese Government,ORG
+3285,Chinese Empire,GPE
+3286,the Far East,LOC
+3287,the Chinese Empire,ORG
+3288,first,ORDINAL
+3289,two,CARDINAL
+3290,Chinese,NORP
+3291,Haichi,GPE
+3292,Ching,PERSON
+3293,New York,GPE
+3294,the United States,GPE
+3295,Japan,GPE
+3296,1894,DATE
+3297,"July 17, 1912",DATE
+3298,Japan,GPE
+3299,1911,DATE
+3300,the United States,GPE
+3301,Americans,NORP
+3302,Japan,GPE
+3303,The United States,GPE
+3304,American,NORP
+3305,1908,DATE
+3306,The Japanese Government,ORG
+3307,Korea,GPE
+3308,Japan,GPE
+3309,the United States,GPE
+3310,Nation,ORG
+3311,two,CARDINAL
+3312,Siam,GPE
+3313,American,NORP
+3314,Bangkok,GPE
+3315,the United States,GPE
+3316,THE NEAR EAST,LOC
+3317,Europe,LOC
+3318,the Near East,LOC
+3319,twelve-month,DATE
+3320,Moroccan,NORP
+3321,some months,DATE
+3322,The Ottoman Empire,GPE
+3323,Albania,GPE
+3324,Italy,GPE
+3325,Greece,GPE
+3326,Balkan,NORP
+3327,Persia,GPE
+3328,European,NORP
+3329,the United States,GPE
+3330,Italy,GPE
+3331,Turkey,GPE
+3332,American,NORP
+3333,THE NEAR EAST,LOC
+3334,the United States,GPE
+3335,the Near East,LOC
+3336,Turkey,GPE
+3337,the United States,GPE
+3338,American,NORP
+3339,two,CARDINAL
+3340,Turkey,GPE
+3341,American,NORP
+3342,Turkey,GPE
+3343,the United States,GPE
+3344,American,NORP
+3345,Turkey,GPE
+3346,America,GPE
+3347,the Near East,LOC
+3348,American,NORP
+3349,Europe,LOC
+3350,22d of June,DATE
+3351,George V.,PERSON
+3352,London,GPE
+3353,Government,ORG
+3354,His Majesty,PERSON
+3355,Great Britain,GPE
+3356,two,CARDINAL
+3357,Great Britain,GPE
+3358,the United States,GPE
+3359,two,CARDINAL
+3360,recent years,DATE
+3361,two,CARDINAL
+3362,1910,DATE
+3363,Article 11,LAW
+3364,Great Britain,GPE
+3365,April 4,DATE
+3366,"5,000,000",CARDINAL
+3367,Senate,ORG
+3368,Congress,ORG
+3369,two,CARDINAL
+3370,Senate,ORG
+3371,an early date,DATE
+3372,Congress,ORG
+3373,Congress,ORG
+3374,"June 23, 1910",DATE
+3375,State,ORG
+3376,Library,PERSON
+3377,Albert Jaegers,PERSON
+3378,von Steuben,PERSON
+3379,Washington,GPE
+3380,German,NORP
+3381,German,NORP
+3382,Frederick the Great,PERSON
+3383,the United States,GPE
+3384,September 2,DATE
+3385,The German Emperor,ORG
+3386,German,NORP
+3387,Congress,ORG
+3388,the State Department,ORG
+3389,Russia,GPE
+3390,Russia,GPE
+3391,1832,DATE
+3392,Russia,GPE
+3393,the United States,GPE
+3394,Russian,NORP
+3395,American,NORP
+3396,Russia,GPE
+3397,Christmas,DATE
+3398,Congress,ORG
+3399,Liberia,GPE
+3400,American,NORP
+3401,the Department of State,ORG
+3402,The National Constituent Assembly,ORG
+3403,Portuguese,NORP
+3404,June 19,DATE
+3405,republican,NORP
+3406,the United States,GPE
+3407,the Spitzbergen Islands,LOC
+3408,American,NORP
+3409,Norwegian,NORP
+3410,CONFERENCES,ORG
+3411,The Hague,GPE
+3412,the United States,GPE
+3413,Netherlands,GPE
+3414,London,GPE
+3415,"February 26, 1909",DATE
+3416,article 7 of The Hague,LAW
+3417,an International Prize Court,ORG
+3418,FUR-SEAL TREATY,ORG
+3419,nearly twenty-five years,DATE
+3420,the United States,GPE
+3421,Pacific Ocean,LOC
+3422,the United States,GPE
+3423,Pacific,LOC
+3424,the United States,GPE
+3425,Great Britain,GPE
+3426,Japan,GPE
+3427,Russia,GPE
+3428,the 7th of July,DATE
+3429,Pacific Ocean,LOC
+3430,LEGISLATION NECESSARY,PERSON
+3431,Congress,ORG
+3432,the United States,GPE
+3433,Senate,ORG
+3434,the 24th day of July,DATE
+3435,INDUSTRIAL PROPERTY UNION,ORG
+3436,the International Union for the Protection of Industrial Property,ORG
+3437,Congress,ORG
+3438,Washington,GPE
+3439,"May 16, 1911",DATE
+3440,"June 2, 1911",DATE
+3441,three,CARDINAL
+3442,Paris,GPE
+3443,"March 20, 1883",DATE
+3444,Brussels,GPE
+3445,December 14,DATE
+3446,"4,345,521",CARDINAL
+3447,Madrid,GPE
+3448,"April 14, 1891",DATE
+3449,Brussels,GPE
+3450,"December 14, 1900",DATE
+3451,Madrid,GPE
+3452,April 14,DATE
+3453,The United States,GPE
+3454,first,ORDINAL
+3455,Senate,ORG
+3456,INTERNATIONAL OPIUM COMMISSION,ORG
+3457,Congress,ORG
+3458,11th of January,DATE
+3459,46пїЅ,DATE
+3460,State,ORG
+3461,"December 7, 1909",DATE
+3462,the International Opium Commission,ORG
+3463,Shanghai,GPE
+3464,"February, 1909",DATE
+3465,the United States,GPE
+3466,China,GPE
+3467,the United States,GPE
+3468,the United States,GPE
+3469,The Hague,GPE
+3470,the first of this month,DATE
+3471,Congress,ORG
+3472,Congress,ORG
+3473,four,CARDINAL
+3474,the Fourth Pan American Conference at Buenos Aires,FAC
+3475,Senate,ORG
+3476,the United States,GPE
+3477,the Argentine Republic,GPE
+3478,SUPPRESS OBSCENE PUBLICATIONS,ORG
+3479,One,CARDINAL
+3480,recent years,DATE
+3481,April 13th,DATE
+3482,the present year,DATE
+3483,the United States,GPE
+3484,FOREIGN TRADE RELATIONS OF TYTE UNITED STATES,ORG
+3485,the Department of State,ORG
+3486,the United States,GPE
+3487,2,CARDINAL
+3488,American,NORP
+3489,the past year,DATE
+3490,the United States,GPE
+3491,section 2 Of the tariff law of,LAW
+3492,"August 5, 1909",DATE
+3493,the Department of State,ORG
+3494,American,NORP
+3495,1909,DATE
+3496,American,NORP
+3497,American,NORP
+3498,American,NORP
+3499,the United States,GPE
+3500,the United States,GPE
+3501,"The fiscal year ended June 30, 1911",DATE
+3502,American,NORP
+3503,American,NORP
+3504,"2,000,000,000",MONEY
+3505,the preceding year,DATE
+3506,"more than $ 300,000,000",MONEY
+3507,FACILITIES FOR FOREIGN TRADE,ORG
+3508,JOINT ACTION,PERSON
+3509,the Department of State,ORG
+3510,the Department of Commerce,ORG
+3511,Labor,ORG
+3512,American,NORP
+3513,Washington,GPE
+3514,the Department of Commerce,ORG
+3515,Labor,ORG
+3516,the United States,GPE
+3517,The Department of Commerce,ORG
+3518,Labor,ORG
+3519,the United States,GPE
+3520,year,DATE
+3521,year,DATE
+3522,the United States,GPE
+3523,the Department of State,ORG
+3524,CRYING NEED FOR AMERICAN MERCHANT,ORG
+3525,American,NORP
+3526,Navy,ORG
+3527,American,NORP
+3528,Congress,ORG
+3529,the United States,GPE
+3530,American,NORP
+3531,the Department of Commerce,ORG
+3532,Labor,ORG
+3533,the Department of State,ORG
+3534,American,NORP
+3535,one,CARDINAL
+3536,two,CARDINAL
+3537,the Department of State,ORG
+3538,one,CARDINAL
+3539,two,CARDINAL
+3540,the Department of Commerce,ORG
+3541,Labor,ORG
+3542,Congress,ORG
+3543,Congress,ORG
+3544,the National Red Cross,ORG
+3545,the past few years,DATE
+3546,the Diplomatic and Consular Service,ORG
+3547,Congress,ORG
+3548,1753,DATE
+3549,the United States,GPE
+3550,"January 16, 1883",DATE
+3551,Executive,ORG
+3552,"June 27, 1906",DATE
+3553,"November 26, 1909",DATE
+3554,Congress,ORG
+3555,Lowden,GPE
+3556,the Foreign Affairs Committee,ORG
+3557,the House of Representatives,ORG
+3558,recent years,DATE
+3559,States,GPE
+3560,THE WHITE HOUSE,ORG
+3561,"December 20, 1911",DATE
+3562,Senate,ORG
+3563,House of Representatives,ORG
+3564,Congress,ORG
+3565,"December, 1909",DATE
+3566,section 2 of the act of,LAW
+3567,"August 5, 1909",DATE
+3568,Tariff Board,ORG
+3569,three,CARDINAL
+3570,the State Department,ORG
+3571,Congress,ORG
+3572,Board,ORG
+3573,Congress,ORG
+3574,Tariff Board,ORG
+3575,five,CARDINAL
+3576,more than three,CARDINAL
+3577,House,ORG
+3578,Tariff Board,ORG
+3579,Congress,ORG
+3580,Schedule K,PERSON
+3581,"December, 1911",DATE
+3582,Tariff Board,ORG
+3583,March,DATE
+3584,4 years,DATE
+3585,five,CARDINAL
+3586,two,CARDINAL
+3587,Schedule K,PERSON
+3588,December of this year,DATE
+3589,"August 17, 1911",DATE
+3590,Schedule K,PERSON
+3591,the Tariff Board,ORG
+3592,December,DATE
+3593,the Tariff Board,ORG
+3594,Schedule K.,PERSON
+3595,Congress,ORG
+3596,American,NORP
+3597,33 cents,MONEY
+3598,a hundred pounds,QUANTITY
+3599,first,ORDINAL
+3600,11 11 cents,MONEY
+3601,the hundred pounds $ 11,MONEY
+3602,this hundred pounds,QUANTITY
+3603,80 per cent,MONEY
+3604,$ 11 $ 11,MONEY
+3605,20 pounds,QUANTITY
+3606,11,MONEY
+3607,50 pounds,QUANTITY
+3608,Australia,GPE
+3609,first,ORDINAL
+3610,second,ORDINAL
+3611,One,CARDINAL
+3612,American,NORP
+3613,American,NORP
+3614,33 cents,MONEY
+3615,up to 52 cents,MONEY
+3616,65 cents,MONEY
+3617,100 per cent,MONEY
+3618,150 per cent,MONEY
+3619,1,CARDINAL
+3620,16,CARDINAL
+3621,English,LANGUAGE
+3622,41.84,MONEY
+3623,76.90,MONEY
+3624,118.74,MONEY
+3625,183 per cent,MONEY
+3626,69.75,MONEY
+3627,67 per cent,MONEY
+3628,hundreds of thousands,CARDINAL
+3629,The Tariff Board,ORG
+3630,recent years,DATE
+3631,the Tariff Board,ORG
+3632,Schedule K,PERSON
+3633,THE WHITE HOUSE,ORG
+3634,"December 21, 1911",DATE
+3635,Senate,ORG
+3636,House of Representatives,ORG
+3637,"the last fiscal year, June 30, 1911",DATE
+3638,"701,372,374.99",MONEY
+3639,Panama Canal,ORG
+3640,"654,137,907",MONEY
+3641,"47,234,377.10",MONEY
+3642,"237,660,705.48",MONEY
+3643,"219,118.12",MONEY
+3644,first,ORDINAL
+3645,27 years,DATE
+3646,the United States,GPE
+3647,"June 30, 1911",DATE
+3648,PIERCE,PERSON
+3649,"1,879,830.26",MONEY
+3650,"386,751,917",MONEY
+3651,"1,303,984,937.69",MONEY
+3652,the Panama Canal,FAC
+3653,"the year ending June 30, 1911",DATE
+3654,"654,137,997.89",MONEY
+3655,"the year ending June 30, 1910",DATE
+3656,the Panama Canal,FAC
+3657,"659,705,391.08",MONEY
+3658,"5,567,393.19",MONEY
+3659,the year 1911,DATE
+3660,1910,DATE
+3661,"the year ending June 30, 1912",DATE
+3662,"666,000,000",MONEY
+3663,the Panama Canal,FAC
+3664,"645,842,799.34",MONEY
+3665,1912,DATE
+3666,1911,DATE
+3667,"1,534,367",MONEY
+3668,"the year ending June 30, 1913",DATE
+3669,"667,000,000",MONEY
+3670,the Panama Canal,FAC
+3671,"637,920,803.35",MONEY
+3672,1913,DATE
+3673,1912,DATE
+3674,"7,921,995.99",MONEY
+3675,the Post Office,ORG
+3676,SUM,ORG
+3677,"260,938,463",MONEY
+3678,this year,DATE
+3679,next year,DATE
+3680,this year,DATE
+3681,the Post Office Department,ORG
+3682,each year,DATE
+3683,the Post Office Department,ORG
+3684,Treasury,ORG
+3685,the Post Office,ORG
+3686,a number of,DATE
+3687,years,DATE
+3688,about 4 per cent,MONEY
+3689,each year,DATE
+3690,THE CREDIT OF THE UNITED STATES,ORG
+3691,the Panama Canal,FAC
+3692,2.909 per cent,MONEY
+3693,THE TREASURY DEPARTMENT,ORG
+3694,the Treasury Department,ORG
+3695,134,CARDINAL
+3696,the coming year,DATE
+3697,Two hundred and sixty-seven,CARDINAL
+3698,the last year,DATE
+3699,Treasury,ORG
+3700,Washington,GPE
+3701,141,CARDINAL
+3702,the year 1910,DATE
+3703,542,CARDINAL
+3704,"March 4, 1909",DATE
+3705,"1,259",CARDINAL
+3706,Treasury,ORG
+3707,"1,801",CARDINAL
+3708,first,ORDINAL
+3709,Congress,ORG
+3710,Congress,ORG
+3711,Monetary Commission,ORG
+3712,Congress,ORG
+3713,1907,DATE
+3714,Congress,ORG
+3715,a later date,DATE
+3716,Congress,ORG
+3717,the Monetary Commission,ORG
+3718,Congress,ORG
+3719,National Reserve Association,ORG
+3720,State,ORG
+3721,one,CARDINAL
+3722,Congress,ORG
+3723,the Monetary Commission,ORG
+3724,Congress,ORG
+3725,THE WAR DEPARTMENT,ORG
+3726,Congress a Dill,ORG
+3727,Army,ORG
+3728,four,CARDINAL
+3729,First,ORDINAL
+3730,the General Staff,ORG
+3731,the Inspector General's,ORG
+3732,Departments,ORG
+3733,second,ORDINAL
+3734,the Quartermaster's Department,ORG
+3735,Subsistence,PRODUCT
+3736,third,ORDINAL
+3737,Army Service Corps,ORG
+3738,fourth,ORDINAL
+3739,three to five years,DATE
+3740,Army Service Corps,ORG
+3741,Army,ORG
+3742,the Staff Corps,ORG
+3743,the Staff Corps,ORG
+3744,"February 2, 1901",DATE
+3745,the General Staff Corps,ORG
+3746,more than four years,DATE
+3747,two years,DATE
+3748,the General Staff Corps,ORG
+3749,two years,DATE
+3750,Army,ORG
+3751,Army,ORG
+3752,Congress,ORG
+3753,2,CARDINAL
+3754,Army,ORG
+3755,three to five,CARDINAL
+3756,six years,DATE
+3757,the end of three years,DATE
+3758,the remaining three years,DATE
+3759,the three years,DATE
+3760,Army of the United States,ORG
+3761,"799,959,736",CARDINAL
+3762,Mexico,GPE
+3763,War,EVENT
+3764,the Medical Corps,ORG
+3765,Army,ORG
+3766,ARLINGTON,GPE
+3767,last year,DATE
+3768,Congress,ORG
+3769,Arlington,GPE
+3770,Va.,GPE
+3771,the Panama Canal,FAC
+3772,last year,DATE
+3773,"as early as the 1st of July, 1913",DATE
+3774,about 18 months,DATE
+3775,the Spooner Act,LAW
+3776,some years ago,DATE
+3777,Congress,ORG
+3778,the important days,DATE
+3779,Spooner Act,PERSON
+3780,40 miles,QUANTITY
+3781,10 miles,QUANTITY
+3782,"50,000",CARDINAL
+3783,"60,000",CARDINAL
+3784,One,CARDINAL
+3785,two,CARDINAL
+3786,Congress,ORG
+3787,the War Department,ORG
+3788,today,DATE
+3789,Congress,ORG
+3790,Congress,ORG
+3791,the United States,GPE
+3792,Congress,ORG
+3793,the Suez Canal,LOC
+3794,Atlantic,LOC
+3795,the Pacific coast,LOC
+3796,One,CARDINAL
+3797,two,CARDINAL
+3798,the Panama Canal,FAC
+3799,THE PHILIPPINE ISLANDS,ORG
+3800,Philippines,GPE
+3801,"February 6, 1905",DATE
+3802,the Philippine Government,ORG
+3803,"$ 5,000,000 to $ 15,000,000",MONEY
+3804,"5,000,000",MONEY
+3805,the Philippine Islands,GPE
+3806,Filipinos,NORP
+3807,the Philippine Islands,LOC
+3808,Congress,ORG
+3809,Dickinson,PERSON
+3810,Congress,ORG
+3811,"7,000,000",MONEY
+3812,only two,CARDINAL
+3813,"60,000 acres",QUANTITY
+3814,first,ORDINAL
+3815,"32,000,000",MONEY
+3816,the coming year,DATE
+3817,Congress,ORG
+3818,each year,DATE
+3819,the Mississippi River,LOC
+3820,the Ohio River,LOC
+3821,Congress,ORG
+3822,Congress,ORG
+3823,the Missouri River,LOC
+3824,the Missouri River,LOC
+3825,Kansas City,GPE
+3826,St. Louis,GPE
+3827,6 feet,QUANTITY
+3828,"20,000,000",MONEY
+3829,at least three,CARDINAL
+3830,"2,000,000",MONEY
+3831,Congress,ORG
+3832,Kansas City,GPE
+3833,"1,000,000",MONEY
+3834,Kansas City,GPE
+3835,St. Louis,GPE
+3836,"600,000",MONEY
+3837,"2,000,000",MONEY
+3838,annually,DATE
+3839,10 years,DATE
+3840,GULF,ORG
+3841,Lake Michigan,LOC
+3842,the Illinois River,LOC
+3843,Mississippi,LOC
+3844,the Gulf of Mexico,LOC
+3845,the Sanitary District of Chicago,GPE
+3846,the State of Illinois,GPE
+3847,Illinois,GPE
+3848,"20,000,000",MONEY
+3849,62 miles,QUANTITY
+3850,Utica,GPE
+3851,Utica,GPE
+3852,the Illinois River,LOC
+3853,State,ORG
+3854,Illinois River,LOC
+3855,the State of Illinois,GPE
+3856,Illinois River,LOC
+3857,the United States,GPE
+3858,the State of Illinois,GPE
+3859,Lockport,GPE
+3860,the Illinois River,LOC
+3861,State,ORG
+3862,Lockport,GPE
+3863,Utica,GPE
+3864,THE DEPARTMENT OF JUSTICE,ORG
+3865,French,NORP
+3866,Congress,ORG
+3867,the Court of Claims,ORG
+3868,French,NORP
+3869,1905,DATE
+3870,about 75 per cent,MONEY
+3871,Congress,ORG
+3872,Congress,ORG
+3873,the first of the year,DATE
+3874,Congress,ORG
+3875,DELAY,DATE
+3876,the Supreme Court,ORG
+3877,The American Bar Association,ORG
+3878,Congress,ORG
+3879,one,CARDINAL
+3880,House,ORG
+3881,"February 6, 1911",DATE
+3882,Senate,ORG
+3883,the Supreme Court,ORG
+3884,Constitution,LAW
+3885,the United States,GPE
+3886,1909,DATE
+3887,"17,479,770.47",MONEY
+3888,two years,DATE
+3889,"220,000",MONEY
+3890,"3,744",CARDINAL
+3891,186,CARDINAL
+3892,"2,516",CARDINAL
+3893,"60,000 miles",QUANTITY
+3894,these two years,DATE
+3895,"more than 8,000",CARDINAL
+3896,POSTAL-SAVINGS SYSTEM,ORG
+3897,"January 3, 1911",DATE
+3898,48 States and,DATE
+3899,Territories,GPE
+3900,three months ',DATE
+3901,"7,500",CARDINAL
+3902,first,ORDINAL
+3903,second,ORDINAL
+3904,third,ORDINAL
+3905,the end of the year,DATE
+3906,fourth,ORDINAL
+3907,"only $ 60,652",MONEY
+3908,the end of the first month's,DATE
+3909,"679,310",MONEY
+3910,July,DATE
+3911,11 months,DATE
+3912,"11,000,000",MONEY
+3913,Treasurer,PERSON
+3914,the United States,GPE
+3915,"approximately 150,000",CARDINAL
+3916,40,CARDINAL
+3917,Americans,NORP
+3918,English,LANGUAGE
+3919,Italians,NORP
+3920,first,ORDINAL
+3921,United States,GPE
+3922,2.5 per cent,MONEY
+3923,"July 1, 1911",DATE
+3924,"41,900",MONEY
+3925,a little more than 6 per cent,DATE
+3926,June 30,DATE
+3927,"6,120",MONEY
+3928,"35,780",MONEY
+3929,PARCEL POST,ORG
+3930,fiscal year,DATE
+3931,"150,000",MONEY
+3932,the City Delivery Service,ORG
+3933,Congress,ORG
+3934,eleven pounds,QUANTITY
+3935,THE NAVY DEPARTMENT,ORG
+3936,New York Harbor,GPE
+3937,24,CARDINAL
+3938,2,CARDINAL
+3939,2,CARDINAL
+3940,22,CARDINAL
+3941,12,CARDINAL
+3942,8,CARDINAL
+3943,98,CARDINAL
+3944,"576,634 tons",QUANTITY
+3945,Americans,NORP
+3946,British,NORP
+3947,German,NORP
+3948,Japanese,NORP
+3949,this year,DATE
+3950,two,CARDINAL
+3951,two,CARDINAL
+3952,two,CARDINAL
+3953,the Panama Canal,FAC
+3954,first,ORDINAL
+3955,number 40,CARDINAL
+3956,Navy,ORG
+3957,four,CARDINAL
+3958,Navy,ORG
+3959,last year,DATE
+3960,Navy,ORG
+3961,four,CARDINAL
+3962,European,NORP
+3963,American,NORP
+3964,ten,CARDINAL
+3965,two or three,CARDINAL
+3966,North Chicago,GPE
+3967,Ill.,GPE
+3968,weeks,DATE
+3969,Army,ORG
+3970,Navy,ORG
+3971,Great Britain,GPE
+3972,the Treasury Department,ORG
+3973,the War Department,ORG
+3974,the Navy Department,ORG
+3975,Congress,ORG
+3976,"2,000",CARDINAL
+3977,Navy,ORG
+3978,Four thousand,CARDINAL
+3979,"about 47,750",CARDINAL
+3980,"April, 1912",DATE
+3981,"49,166",CARDINAL
+3982,"3,000",CARDINAL
+3983,NAVY,ORG
+3984,Navy,ORG
+3985,Army,ORG
+3986,Navy,ORG
+3987,Navy,ORG
+3988,the coming year,DATE
+3989,Congress,ORG
+3990,NAVY,ORG
+3991,Navy,ORG
+3992,Navy,ORG
+3993,Navy,ORG
+3994,first,ORDINAL
+3995,at least one,CARDINAL
+3996,COUNCIL OF NATIONAL DEFENSE,ORG
+3997,Congress,ORG
+3998,Congress,ORG
+3999,last winter,DATE
+4000,Congress,ORG
+4001,Army,ORG
+4002,Navy,ORG
+4003,DEPARTMENTS OF AGRICULTURE AND COMMERCE,ORG
+4004,the Agricultural Department,ORG
+4005,the Department of Commerce,ORG
+4006,Labor,ORG
+4007,Congress,ORG
+4008,Alaska,GPE
+4009,West,LOC
+4010,second,ORDINAL
+4011,the Post Office Department,ORG
+4012,ON EFFICIENCY AND ECONOMY,ORG
+4013,the Commission on Economy and Efficiency,ORG
+4014,the 31st of December,DATE
+4015,Congress,ORG
+4016,four,CARDINAL
+4017,Senate,ORG
+4018,1,CARDINAL
+4019,Senate,ORG
+4020,House of Representatives,ORG
+4021,the United States,GPE
+4022,the United States,GPE
+4023,the United States,GPE
+4024,the United States,GPE
+4025,present-day,DATE
+4026,the United States,GPE
+4027,the United States,GPE
+4028,the United States,GPE
+4029,the United States,GPE
+4030,American,NORP
+4031,the last year,DATE
+4032,State,ORG
+4033,annual,DATE
+4034,the United States,GPE
+4035,the United States,GPE
+4036,THE STATE DEPARTMENT,ORG
+4037,the United States,GPE
+4038,the Spanish-American War,EVENT
+4039,American,NORP
+4040,The Department of State,ORG
+4041,Congress,ORG
+4042,"August 5, 1909",DATE
+4043,the Department of State,ORG
+4044,Divisions of LatinAmerican Affairs,ORG
+4045,Far Eastern,ORG
+4046,Western European Affairs,ORG
+4047,American,NORP
+4048,every quarter,DATE
+4049,the Department of State,ORG
+4050,Division of Information,ORG
+4051,American,NORP
+4052,American,NORP
+4053,Congress,ORG
+4054,DIPLOMATIC CORPS Expert,ORG
+4055,Department of State,ORG
+4056,Cleveland,PERSON
+4057,first,ORDINAL
+4058,the Diplomatic Service,ORG
+4059,first,ORDINAL
+4060,"November 26, 1909",DATE
+4061,the Diplomatic Service,ORG
+4062,the Consular Service,ORG
+4063,the Diplomatic and Consular Services,ORG
+4064,the last four years,DATE
+4065,Three,CARDINAL
+4066,ten,CARDINAL
+4067,five,CARDINAL
+4068,Nine,CARDINAL
+4069,thirty,CARDINAL
+4070,eleven,CARDINAL
+4071,the Department of State,ORG
+4072,nineteen,CARDINAL
+4073,Latin America,LOC
+4074,fifteen,CARDINAL
+4075,three,CARDINAL
+4076,Thirty-seven,CARDINAL
+4077,Southern,NORP
+4078,Western States,GPE
+4079,States,GPE
+4080,the Consular Service,ORG
+4081,1,CARDINAL
+4082,sixteen,CARDINAL
+4083,twenty-nine,CARDINAL
+4084,the Southern States,LOC
+4085,55 per cent,MONEY
+4086,eleven,CARDINAL
+4087,the United States,GPE
+4088,Congress,ORG
+4089,the Department of State,ORG
+4090,Congress,ORG
+4091,Congress,ORG
+4092,"February 17, 1911",DATE
+4093,State,ORG
+4094,the House of Representatives,ORG
+4095,Congress,ORG
+4096,Latin-American,NORP
+4097,the Republics of Central America,ORG
+4098,Caribbean,LOC
+4099,the United States,GPE
+4100,Nation,ORG
+4101,American,NORP
+4102,United States,GPE
+4103,American,NORP
+4104,the United States,GPE
+4105,some quarters,DATE
+4106,the United States,GPE
+4107,two,CARDINAL
+4108,American,NORP
+4109,the Argentine Republic,GPE
+4110,Brazil,GPE
+4111,the United States,GPE
+4112,Peru,GPE
+4113,Ecuador,GPE
+4114,Panama,GPE
+4115,Costa Rica,GPE
+4116,Haiti,GPE
+4117,the Dominican Republic,GPE
+4118,Nicaragua,GPE
+4119,Honduras,GPE
+4120,the United States,GPE
+4121,the Argentine Republic,GPE
+4122,Bolivia,GPE
+4123,the United States,GPE
+4124,the Republic of Colombia,GPE
+4125,China,GPE
+4126,the United States,GPE
+4127,the Governments of Chile,ORG
+4128,Peru,GPE
+4129,TacnaArica,ORG
+4130,South America,LOC
+4131,Peru,GPE
+4132,Ecuador,GPE
+4133,the United States,GPE
+4134,the Tacna-Arica,FAC
+4135,Chile,GPE
+4136,Peru,GPE
+4137,two,CARDINAL
+4138,South America,LOC
+4139,China,GPE
+4140,American,NORP
+4141,China,GPE
+4142,China,GPE
+4143,the United States,GPE
+4144,Hukuang,ORG
+4145,the Department of State,ORG
+4146,American,NORP
+4147,the United States,GPE
+4148,China,GPE
+4149,Chinese,NORP
+4150,CENTRAL AMERICA,ORG
+4151,Central America,LOC
+4152,Nicaragua,GPE
+4153,Honduras,GPE
+4154,the United States,GPE
+4155,First,ORDINAL
+4156,Monroe,PERSON
+4157,the Panama Canal,FAC
+4158,Caribbean,LOC
+4159,the United States,GPE
+4160,the United States,GPE
+4161,American,NORP
+4162,one,CARDINAL
+4163,second,ORDINAL
+4164,the United States,GPE
+4165,one,CARDINAL
+4166,Gulf,LOC
+4167,South,LOC
+4168,The Republics of Central America,ORG
+4169,Caribbean,LOC
+4170,Nicaragua,GPE
+4171,the past summer,DATE
+4172,thousands,CARDINAL
+4173,the Department of State,ORG
+4174,Senate,ORG
+4175,Central American States,LOC
+4176,Republics,GPE
+4177,Nicaragua,GPE
+4178,American,NORP
+4179,"over 2,000",CARDINAL
+4180,Nicaragua,GPE
+4181,Nicaragua,GPE
+4182,Red Cross,ORG
+4183,Granada,ORG
+4184,"8,000",CARDINAL
+4185,one day,DATE
+4186,American,NORP
+4187,Nicaraguans,NORP
+4188,the United States,GPE
+4189,Marine Corps,ORG
+4190,Nicaragua,GPE
+4191,seven,CARDINAL
+4192,American,NORP
+4193,American,NORP
+4194,Nicaragua,GPE
+4195,American,NORP
+4196,"June, 1911",DATE
+4197,Senate,ORG
+4198,Republics,GPE
+4199,the United States,GPE
+4200,last March,DATE
+4201,American,NORP
+4202,Republics,GPE
+4203,Nicaraguan,NORP
+4204,Zelaya,ORG
+4205,Republics,GPE
+4206,American,NORP
+4207,Congress,ORG
+4208,THE CARIBBEAN Impressed,ORG
+4209,the United States,GPE
+4210,the Republics of Central America,ORG
+4211,Caribbean,LOC
+4212,the Panama Canal,FAC
+4213,State,ORG
+4214,last February,DATE
+4215,Republics,GPE
+4216,United States,GPE
+4217,Ten,CARDINAL
+4218,the United States,GPE
+4219,Republics,GPE
+4220,two years,DATE
+4221,Republic of Mexico,GPE
+4222,Brigandage,GPE
+4223,the United States,GPE
+4224,American,NORP
+4225,Mexican,NORP
+4226,the United States,GPE
+4227,Mexico,GPE
+4228,forty thousand,CARDINAL
+4229,American,NORP
+4230,two,CARDINAL
+4231,American,NORP
+4232,Mexico,GPE
+4233,"1,000,000,000",MONEY
+4234,Mexican,NORP
+4235,AGRICULTURAL,ORG
+4236,the past year,DATE
+4237,American,NORP
+4238,Europe,LOC
+4239,European,NORP
+4240,Nation,ORG
+4241,American,NORP
+4242,Europe,LOC
+4243,centuries,DATE
+4244,many years ago,DATE
+4245,the Old World,LOC
+4246,the Department of State,ORG
+4247,Europe,LOC
+4248,States,GPE
+4249,"the fiscal year ended June 30, 1911",DATE
+4250,American,NORP
+4251,The fiscal year 1912,DATE
+4252,"2,200,000,000",MONEY
+4253,"2,000,000,000",MONEY
+4254,the previous year,DATE
+4255,the fiscal year 1911,DATE
+4256,approximately to $,MONEY
+4257,"907,500,000",MONEY
+4258,the fiscal year 1912,DATE
+4259,"nearly $ 1,022,000,000",MONEY
+4260,"114,000,000",MONEY
+4261,ADVANTAGE OF MAXIMUM AND MINIMUM TARIFF,ORG
+4262,American,NORP
+4263,the Department of State,ORG
+4264,section 2 of the tariff law of,LAW
+4265,1909,DATE
+4266,the last year,DATE
+4267,The Department of State,ORG
+4268,first,ORDINAL
+4269,section 2,LAW
+4270,American,NORP
+4271,the Department of State,ORG
+4272,American,NORP
+4273,annual,DATE
+4274,1911,DATE
+4275,1909,DATE
+4276,American,NORP
+4277,American,NORP
+4278,American,NORP
+4279,American,NORP
+4280,Congress,ORG
+4281,State,ORG
+4282,"December 13, 1911",DATE
+4283,Executive,ORG
+4284,the United States,GPE
+4285,25,CARDINAL
+4286,the United States,GPE
+4287,the United States,GPE
+4288,the American Government,ORG
+4289,American,NORP
+4290,"50,000,000",MONEY
+4291,the United States,GPE
+4292,America,GPE
+4293,the two years,DATE
+4294,Japan,GPE
+4295,"over $ 1,000,000",MONEY
+4296,Japan,GPE
+4297,"the year ended June 30, 1910",DATE
+4298,"21,959,310",MONEY
+4299,"the year ended June 30, 1912",DATE
+4300,"53,478,046",MONEY
+4301,American,NORP
+4302,nearly 150 per cent,MONEY
+4303,the United States,GPE
+4304,Great Britain,GPE
+4305,"August 18, 1910",DATE
+4306,two,CARDINAL
+4307,Senate,ORG
+4308,"July 19, 1911",DATE
+4309,two,CARDINAL
+4310,April 26,DATE
+4311,first,ORDINAL
+4312,Congress,ORG
+4313,two,CARDINAL
+4314,Washington,GPE
+4315,early next year,DATE
+4316,FUR SEAL TREATY AND NEED FOR AMENDMENT OF OUR STATUTE,ORG
+4317,Congress,ORG
+4318,Great Britain,GPE
+4319,Japan,GPE
+4320,Russia,GPE
+4321,the United States,GPE
+4322,the Pribilof Islands,LOC
+4323,five years,DATE
+4324,season,DATE
+4325,American,NORP
+4326,American,NORP
+4327,the past season,DATE
+4328,Congress,ORG
+4329,the 20th of July,DATE
+4330,the United States,GPE
+4331,Great Britain,GPE
+4332,the North Atlantic Coast Fisheries Arbitration Tribunal,ORG
+4333,"September 7, 1910",DATE
+4334,American,NORP
+4335,"Article I of the treaty of October 20, 1818",LAW
+4336,the United States,GPE
+4337,Great Britain,GPE
+4338,Senate,ORG
+4339,August,DATE
+4340,two,CARDINAL
+4341,November 15,DATE
+4342,Newfoundland,GPE
+4343,Canada,GPE
+4344,American,NORP
+4345,more than 10 miles,QUANTITY
+4346,two,CARDINAL
+4347,Govern,ORG
+4348,two,CARDINAL
+4349,Colorado River,LOC
+4350,the Imperial Valley,LOC
+4351,Mexico,GPE
+4352,the Colorado River,LOC
+4353,Colorado River,LOC
+4354,DISPUTE,ORG
+4355,El Paso,GPE
+4356,Mexico,GPE
+4357,the Mexican Government,ORG
+4358,an early day,DATE
+4359,"23, 1906",DATE
+4360,Third,ORDINAL
+4361,Pan American Conference,ORG
+4362,Rio de Janeiro,LOC
+4363,the International Commission,ORG
+4364,the month of last June,DATE
+4365,16,CARDINAL
+4366,American,NORP
+4367,Republics,GPE
+4368,the United States,GPE
+4369,"June, 1914",DATE
+4370,two,CARDINAL
+4371,"December 7, 1911",DATE
+4372,1,CARDINAL
+4373,the Opium Conference at The Hague,ORG
+4374,Congress,ORG
+4375,Congress,ORG
+4376,two,CARDINAL
+4377,the United States,GPE
+4378,Congress,ORG
+4379,the Department of State,ORG
+4380,several European States,ORG
+4381,The Hague,GPE
+4382,seventeen,CARDINAL
+4383,Latin-American,NORP
+4384,Republics,GPE
+4385,EUROPE,LOC
+4386,THE NEAR EAST,LOC
+4387,Italy,GPE
+4388,Turkey,GPE
+4389,October,DATE
+4390,the Ottoman Empire,GPE
+4391,Cyrenaica,GPE
+4392,Tripolitania,GPE
+4393,Italy,GPE
+4394,the past year,DATE
+4395,the Near East,LOC
+4396,Italy,GPE
+4397,Turkey,GPE
+4398,Turkey,GPE
+4399,Bulgaria,GPE
+4400,Greece,GPE
+4401,Montenegro,GPE
+4402,Servia,ORG
+4403,The United States,GPE
+4404,second,ORDINAL
+4405,the Ottoman Empire,GPE
+4406,the United States,GPE
+4407,American,NORP
+4408,the Red Cross,ORG
+4409,the United States,GPE
+4410,Turkish,NORP
+4411,two,CARDINAL
+4412,the Ottoman Empire,GPE
+4413,European,NORP
+4414,American,NORP
+4415,the Western Hemisphere,LOC
+4416,the United States,GPE
+4417,European,NORP
+4418,Bosphorus,PERSON
+4419,that quarter,DATE
+4420,American,NORP
+4421,the U. S. S. Scorpion,GPE
+4422,the United States,GPE
+4423,Mediterranean,LOC
+4424,American,NORP
+4425,Smyrna,GPE
+4426,Beirut,GPE
+4427,American,NORP
+4428,Spitzbergen,ORG
+4429,American,NORP
+4430,Governments,ORG
+4431,LIBERIA,PERSON
+4432,Liberia,GPE
+4433,"1,700,000",MONEY
+4434,1912,DATE
+4435,Liberia,GPE
+4436,an early date,DATE
+4437,the United States,GPE
+4438,three,CARDINAL
+4439,the Governments of Germany,ORG
+4440,France,GPE
+4441,Great Britain,GPE
+4442,the Republic of Liberia,GPE
+4443,Liberia,GPE
+4444,the United States,GPE
+4445,American,NORP
+4446,three,CARDINAL
+4447,the Liberian Government,ORG
+4448,the Republic of Liberia,GPE
+4449,Liberia,GPE
+4450,the United States,GPE
+4451,the Republic of Liberia,GPE
+4452,American,NORP
+4453,the American Government,ORG
+4454,Tangier,ORG
+4455,China,GPE
+4456,autumn,DATE
+4457,winter of 1911,DATE
+4458,12,CARDINAL
+4459,Manchu,GPE
+4460,February 12,DATE
+4461,republican,NORP
+4462,American,NORP
+4463,republican,NORP
+4464,Chinese,NORP
+4465,Congress,ORG
+4466,"April 17, 1912",DATE
+4467,China,GPE
+4468,January,DATE
+4469,republican,NORP
+4470,the United States,GPE
+4471,last autumn,DATE
+4472,the United States,GPE
+4473,China,GPE
+4474,Chinese,NORP
+4475,American,NORP
+4476,Peking,GPE
+4477,Nineteen,CARDINAL
+4478,Chinese,NORP
+4479,American,NORP
+4480,Government of China,ORG
+4481,the United States,GPE
+4482,Governments,ORG
+4483,China,GPE
+4484,China,GPE
+4485,China,GPE
+4486,June,DATE
+4487,the United States,GPE
+4488,France,GPE
+4489,Germany,GPE
+4490,Great Britain,GPE
+4491,Japan,GPE
+4492,Russia,GPE
+4493,China,GPE
+4494,August,DATE
+4495,State,ORG
+4496,Japan,GPE
+4497,Empire,GPE
+4498,the American Commonwealth,ORG
+4499,Mutsuhito,PERSON
+4500,Japan,GPE
+4501,Knox,PERSON
+4502,Japanese,NORP
+4503,so many years,DATE
+4504,two,CARDINAL
+4505,the Argentine Republic,GPE
+4506,Brazil,GPE
+4507,the United States,GPE
+4508,two,CARDINAL
+4509,the Coast Artillery School at Fort Monroe,ORG
+4510,Alsop,PERSON
+4511,the United States,GPE
+4512,Chile,GPE
+4513,Chile,GPE
+4514,The Chilean Government,ORG
+4515,the United States Coast Artillery,GPE
+4516,the Chilean Coast Artillery School,ORG
+4517,American,NORP
+4518,American,NORP
+4519,Chilean,NORP
+4520,Last year,DATE
+4521,Ecuador,GPE
+4522,American,NORP
+4523,Ecuador,GPE
+4524,Railway Co.,ORG
+4525,the United States,GPE
+4526,the Ecuadorian Government,ORG
+4527,the Ecuadorian Government,ORG
+4528,American,NORP
+4529,Ecuador,GPE
+4530,Quito,GPE
+4531,American,NORP
+4532,Ecuador,GPE
+4533,Ecuador,GPE
+4534,the Ecuadorian Government,ORG
+4535,1908,DATE
+4536,the Ecuadorian Government,ORG
+4537,the Department of State,ORG
+4538,Guayaquil,PERSON
+4539,the Canal Zone,GPE
+4540,Guayaquil,PERSON
+4541,the Canal Zone,LOC
+4542,the United States,GPE
+4543,the Ecuadorian Government,ORG
+4544,South America,LOC
+4545,the Panama Canal,FAC
+4546,John Celestine,PERSON
+4547,Peru,GPE
+4548,two,CARDINAL
+4549,1874,DATE
+4550,1,CARDINAL
+4551,the Department of State,ORG
+4552,Peru,GPE
+4553,the American Public Health Service,ORG
+4554,American,NORP
+4555,the Peruvian Government,ORG
+4556,Peru,GPE
+4557,American,NORP
+4558,July,DATE
+4559,United States,GPE
+4560,the Third International Students Congress,ORG
+4561,Lima,GPE
+4562,American,NORP
+4563,first,ORDINAL
+4564,The Republic of Uruguay,GPE
+4565,American,NORP
+4566,American,NORP
+4567,Uruguay,GPE
+4568,Venezuela,GPE
+4569,Washington,GPE
+4570,American,NORP
+4571,Venezuela,GPE
+4572,the United States,GPE
+4573,CENTRAL AMERICA,ORG
+4574,the past summer,DATE
+4575,a year ago last November,DATE
+4576,the Dominican Republic,GPE
+4577,the United States,GPE
+4578,the Dominican Republic,GPE
+4579,American,NORP
+4580,Haitian,NORP
+4581,Dominican,NORP
+4582,the United States,GPE
+4583,the Dominican Republic and,GPE
+4584,Haiti,GPE
+4585,Haitian,NORP
+4586,two,CARDINAL
+4587,two,CARDINAL
+4588,The Republic of Cuba,GPE
+4589,last May,DATE
+4590,Americans,NORP
+4591,Cuba,GPE
+4592,American,NORP
+4593,Guantanamo,FAC
+4594,the Province of Oriente,GPE
+4595,American,NORP
+4596,The Cuban Government,ORG
+4597,a period of,DATE
+4598,six weeks,DATE
+4599,two,CARDINAL
+4600,American,NORP
+4601,Habana,ORG
+4602,Government,GPE
+4603,Cuba,GPE
+4604,Bahia Honda,ORG
+4605,Cuba,GPE
+4606,Guantanamo Bay,LOC
+4607,two,CARDINAL
+4608,Guantanamo Bay,LOC
+4609,Panama,GPE
+4610,American,NORP
+4611,Republic,GPE
+4612,the United States,GPE
+4613,Great Britain,GPE
+4614,the United States,GPE
+4615,British,NORP
+4616,Guatemala,GPE
+4617,British,NORP
+4618,Central America,LOC
+4619,the United States,GPE
+4620,Guatemala,GPE
+4621,American,NORP
+4622,Guatemalan,NORP
+4623,Guatemala,GPE
+4624,British,NORP
+4625,the United States,GPE
+4626,Nicaragua,GPE
+4627,Central American,NORP
+4628,the United States,GPE
+4629,Honduras,GPE
+4630,the United States,GPE
+4631,Honduras,GPE
+4632,the United States,GPE
+4633,Honduras,GPE
+4634,American,NORP
+4635,NECESSITY FOR GREATER GOVERNMENTAL,ORG
+4636,Congress,ORG
+4637,the United States,GPE
+4638,American,NORP
+4639,American,NORP
+4640,American,NORP
+4641,America,GPE
+4642,American,NORP
+4643,American,NORP
+4644,American,NORP
+4645,American,NORP
+4646,American,NORP
+4647,Congress,ORG
+4648,the Panama Canal,FAC
+4649,hundreds of years,DATE
+4650,Insular Affairs,ORG
+4651,THE WHITE HOUSE,ORG
+4652,"December 6, 1912",DATE
+4653,Senate,ORG
+4654,House of Representatives,ORG
+4655,3d,CARDINAL
+4656,Congress,ORG
+4657,State,ORG
+4658,Congress,ORG
+4659,the State Department,ORG
+4660,one year,DATE
+4661,annual,DATE
+4662,Congress,ORG
+4663,Congress,ORG
+4664,the year,DATE
+4665,three or four,CARDINAL
+4666,the first ten days,DATE
+4667,Congress,ORG
+4668,the four years,DATE
+4669,1907,DATE
+4670,this year,DATE
+4671,"4,000,000,000",MONEY
+4672,"500,000,000",MONEY
+4673,More than half,CARDINAL
+4674,a year,DATE
+4675,"9,500,000,000",MONEY
+4676,a year,DATE
+4677,"1,000,000,000",MONEY
+4678,TREASURY,ORG
+4679,Treasury,ORG
+4680,"963,777,770",MONEY
+4681,"134,631,980",MONEY
+4682,"378,301,284.90",MONEY
+4683,"346,681,016",MONEY
+4684,Treasury,ORG
+4685,"150,000,000",MONEY
+4686,Treasury,ORG
+4687,"167,152,478.99",MONEY
+4688,"26,975,552",MONEY
+4689,last year,DATE
+4690,three years,DATE
+4691,This year,DATE
+4692,Treasury,ORG
+4693,"the year ending June 30, 1914",DATE
+4694,"710,000,000",MONEY
+4695,that same year,DATE
+4696,Panama Canal,ORG
+4697,"732,000,000",MONEY
+4698,"22,000,000",MONEY
+4699,"the year ending June 30, 1913",DATE
+4700,"667,000,000",MONEY
+4701,that year,DATE
+4702,Treasury,ORG
+4703,Congress,ORG
+4704,"656,000,000",MONEY
+4705,"76,000,000",MONEY
+4706,1914,DATE
+4707,1913,DATE
+4708,"25,000,000",MONEY
+4709,the next year,DATE
+4710,Congress,ORG
+4711,"32,500,000",MONEY
+4712,the Navy Department,ORG
+4713,"24,000,000",MONEY
+4714,the Navy Department,ORG
+4715,the year 1913,DATE
+4716,two,CARDINAL
+4717,Congress,ORG
+4718,only one,CARDINAL
+4719,the Navy Department,ORG
+4720,the first year's,DATE
+4721,three,CARDINAL
+4722,"4,000",CARDINAL
+4723,Navy,ORG
+4724,eight-hour,TIME
+4725,three,CARDINAL
+4726,this year,DATE
+4727,1913,DATE
+4728,"more than $ 5,000,000",MONEY
+4729,Panama Canal,ORG
+4730,1914,DATE
+4731,"17,000,000",MONEY
+4732,181,CARDINAL
+4733,the National Government,ORG
+4734,1907,CARDINAL
+4735,Congress,ORG
+4736,"February, 1912",DATE
+4737,a National Reserve Association,ORG
+4738,United States,GPE
+4739,State,ORG
+4740,National,ORG
+4741,three,CARDINAL
+4742,Cabinet,ORG
+4743,the Comptroller of the Currency,WORK_OF_ART
+4744,three,CARDINAL
+4745,two,CARDINAL
+4746,the Government Treasury,ORG
+4747,State,ORG
+4748,National,ORG
+4749,three,CARDINAL
+4750,Comptroller of the Currency,WORK_OF_ART
+4751,the Jackson Administration,ORG
+4752,the National Reserve Association,ORG
+4753,State,ORG
+4754,National,ORG
+4755,Congress,ORG
+4756,Congress,ORG
+4757,TARIFF,ORG
+4758,Congress,ORG
+4759,Congress,ORG
+4760,Congress,ORG
+4761,Congress,ORG
+4762,Payne,ORG
+4763,"August 5, 1909",DATE
+4764,1,CARDINAL
+4765,38,CARDINAL
+4766,an additional 50,CARDINAL
+4767,annual,DATE
+4768,50 per cent,MONEY
+4769,the next fiscal year,DATE
+4770,Treasury,ORG
+4771,Congress,ORG
+4772,a later day,DATE
+4773,Congress,ORG
+4774,the President's Commission on Economy and Efficiency,ORG
+4775,WAR DEPARTMENT,ORG
+4776,The War Department,ORG
+4777,three,CARDINAL
+4778,Army,ORG
+4779,Philippines,GPE
+4780,Porto Rico,GPE
+4781,the Dominican Republic,GPE
+4782,the Panama Canal,FAC
+4783,ARMY,ORG
+4784,Army,ORG
+4785,"83,809",CARDINAL
+4786,"5,000",CARDINAL
+4787,Philippine,NORP
+4788,Coast Artillery,ORG
+4789,United States,GPE
+4790,Army,ORG
+4791,"only about 35,000",CARDINAL
+4792,Pearl Harbor,FAC
+4793,the Hawaiian Islands,GPE
+4794,Panama,GPE
+4795,the United States,GPE
+4796,24 States,DATE
+4797,less than 700,CARDINAL
+4798,Army,ORG
+4799,first,ORDINAL
+4800,Army,ORG
+4801,the War Department,ORG
+4802,the past year,DATE
+4803,many years,DATE
+4804,nine years ago,DATE
+4805,a century,DATE
+4806,Army,ORG
+4807,the War College Division,ORG
+4808,last summer,DATE
+4809,War,EVENT
+4810,Army,ORG
+4811,Congress,ORG
+4812,Congress,ORG
+4813,Army,ORG
+4814,the National Guard,ORG
+4815,the United States,GPE
+4816,first,ORDINAL
+4817,Army,ORG
+4818,Executive,ORG
+4819,the United States,GPE
+4820,the United States,GPE
+4821,first,ORDINAL
+4822,the United States,GPE
+4823,half,CARDINAL
+4824,the past year,DATE
+4825,Philippines,GPE
+4826,12,CARDINAL
+4827,6,CARDINAL
+4828,"over $ 1,000,000",MONEY
+4829,the United States,GPE
+4830,Hawaiian,NORP
+4831,Panama,GPE
+4832,Congress,ORG
+4833,first,ORDINAL
+4834,THE HOME ARMY Simultaneously,ORG
+4835,the War Department,ORG
+4836,Army,ORG
+4837,three,CARDINAL
+4838,two or three,CARDINAL
+4839,Artillery,ORG
+4840,Executive,ORG
+4841,Congress,ORG
+4842,Army,ORG
+4843,Congress,ORG
+4844,Army,ORG
+4845,REGULAR ARMY,ORG
+4846,the past year,DATE
+4847,Army,ORG
+4848,last summer,DATE
+4849,Regular Army,ORG
+4850,four years,DATE
+4851,three years,DATE
+4852,the end of three years,DATE
+4853,four years,DATE
+4854,Congress,ORG
+4855,National Guard,ORG
+4856,the Regular Army,ORG
+4857,first,ORDINAL
+4858,the Regular Army,ORG
+4859,the Federal Government,ORG
+4860,the National Treasury,ORG
+4861,the National Guard,ORG
+4862,The Organized Militia,ORG
+4863,the United States,GPE
+4864,the Regular Army,ORG
+4865,the War Department,ORG
+4866,the National Guard,ORG
+4867,the National Guard,ORG
+4868,first,ORDINAL
+4869,the National Guard,ORG
+4870,the Regular Army,ORG
+4871,the War College Division,ORG
+4872,NATIONAL VOLUNTEERS,ORG
+4873,National Guard,ORG
+4874,"only about 110,000",CARDINAL
+4875,the Regular Army,ORG
+4876,the National Guard,ORG
+4877,Congress,ORG
+4878,Army,ORG
+4879,States 181 Southerns,ORG
+4880,the Quartermaster's Department,ORG
+4881,the Subsistence Department,ORG
+4882,the Pay Corps,ORG
+4883,the Service Corps,ORG
+4884,Hawaii,GPE
+4885,Panama,GPE
+4886,Army,ORG
+4887,Porto Rico,GPE
+4888,17,CARDINAL
+4889,the preceding year,DATE
+4890,"up to $ 92,631,886",MONEY
+4891,more than five,CARDINAL
+4892,1901,DATE
+4893,the year,DATE
+4894,181,CARDINAL
+4895,Southerns Pupils,ORG
+4896,"145,525",CARDINAL
+4897,the preceding year,DATE
+4898,"26,000",CARDINAL
+4899,the first year,DATE
+4900,American,NORP
+4901,last June,DATE
+4902,Porto Rico,GPE
+4903,Government,ORG
+4904,American,NORP
+4905,the House of Representatives,ORG
+4906,Senate,ORG
+4907,Porto Ricans,PERSON
+4908,the United States,GPE
+4909,Porto Rico,GPE
+4910,American,NORP
+4911,Great Britain,GPE
+4912,Canada,GPE
+4913,Australia,GPE
+4914,Porto Rico,GPE
+4915,American,NORP
+4916,PHILIPPINES A,ORG
+4917,Congress,ORG
+4918,the Philippine Islands,GPE
+4919,eight years,DATE
+4920,Filipino,LANGUAGE
+4921,Philippine,NORP
+4922,the Philippine Islands,GPE
+4923,24,CARDINAL
+4924,Orient,LOC
+4925,earlier days,DATE
+4926,Filipinos,NORP
+4927,Over half a million,CARDINAL
+4928,Filipino,LANGUAGE
+4929,Philippine,NORP
+4930,more than a million,CARDINAL
+4931,Filipino,NORP
+4932,American,NORP
+4933,our markets three years ago,DATE
+4934,American,NORP
+4935,Filipinos,NORP
+4936,Asiatic,NORP
+4937,Manila,GPE
+4938,Orient,LOC
+4939,American,NORP
+4940,Filipinos,NORP
+4941,Spanish,NORP
+4942,American,NORP
+4943,the last dozen years,DATE
+4944,two-thirds,CARDINAL
+4945,four,CARDINAL
+4946,nine,CARDINAL
+4947,two,CARDINAL
+4948,about one-half,CARDINAL
+4949,Filipinos,NORP
+4950,51 per cent,MONEY
+4951,1904,DATE
+4952,1911,DATE
+4953,60 per cent,MONEY
+4954,Filipinos,NORP
+4955,Filipinos,NORP
+4956,Americans,NORP
+4957,Filipinos,NORP
+4958,the Philippine Islands,LOC
+4959,only about 3 per cent,CARDINAL
+4960,Filipinos,NORP
+4961,Filipinos,NORP
+4962,Filipinos,NORP
+4963,Filipinos,NORP
+4964,Filipino,LANGUAGE
+4965,Congress,ORG
+4966,the Federal Government,ORG
+4967,the Federal Government,ORG
+4968,the Federal Government,ORG
+4969,THE PANAMA CANAL,ORG
+4970,the past year,DATE
+4971,About 87,CARDINAL
+4972,more than 93,CARDINAL
+4973,the Culebra Cut,ORG
+4974,this year,DATE
+4975,the Culebra Cut,ORG
+4976,"January 1, 1915",DATE
+4977,the latter half of 1913,DATE
+4978,Congress,ORG
+4979,"August 24, 1912",DATE
+4980,the Canal Zone,GPE
+4981,Congress,ORG
+4982,Executive,ORG
+4983,Emory R. Johnson,PERSON
+4984,1.20,MONEY
+4985,each 100 cubic feet,QUANTITY
+4986,2,CARDINAL
+4987,40 per cent,MONEY
+4988,3,CARDINAL
+4989,50 cents,MONEY
+4990,Army,ORG
+4991,Navy,ORG
+4992,1.20,MONEY
+4993,season,DATE
+4994,the Panama Canal,FAC
+4995,the Panama Canal,FAC
+4996,Congress,ORG
+4997,"August 24, 1912",DATE
+4998,the British Government,ORG
+4999,American,NORP
+5000,American,NORP
+5001,British,NORP
+5002,the Hay-Pauncefote,FAC
+5003,the Panama Canal,FAC
+5004,two,CARDINAL
+5005,Congress,ORG
+5006,the United States,GPE
+5007,NAVY DEPARTMENT,ORG
+5008,the United States,GPE
+5009,first,ORDINAL
+5010,second,ORDINAL
+5011,the past 15 years,DATE
+5012,Navy,ORG
+5013,Navy,ORG
+5014,the Atlantic Fleet,ORG
+5015,Navy,ORG
+5016,American,NORP
+5017,Congress,ORG
+5018,Navy,ORG
+5019,Navy,ORG
+5020,Navy,ORG
+5021,the United States,GPE
+5022,Navy,ORG
+5023,A year ago,DATE
+5024,Congress,ORG
+5025,more than one,CARDINAL
+5026,Congress,ORG
+5027,three,CARDINAL
+5028,Navy,ORG
+5029,at least two,CARDINAL
+5030,Pacific,LOC
+5031,Atlantic,LOC
+5032,the Panama Canal,FAC
+5033,Christian,NORP
+5034,Navy,ORG
+5035,Army,ORG
+5036,Navy,ORG
+5037,British,NORP
+5038,Congress,ORG
+5039,Army,ORG
+5040,Navy,ORG
+5041,Congress,ORG
+5042,Navy,ORG
+5043,Navy,ORG
+5044,last year,DATE
+5045,Navy,ORG
+5046,Navy,ORG
+5047,Sherman,PERSON
+5048,the Powder Trust,ORG
+5049,the Bathtub Trust,ORG
+5050,Supreme Court,ORG
+5051,Sherman,PERSON
+5052,the Bureau of Corporations,ORG
+5053,Congress,ORG
+5054,the Supreme Court,ORG
+5055,English,LANGUAGE
+5056,the Supreme Court,ORG
+5057,three years ago,DATE
+5058,the Supreme Court,ORG
+5059,two,CARDINAL
+5060,one,CARDINAL
+5061,State,ORG
+5062,first,ORDINAL
+5063,State,ORG
+5064,these days,DATE
+5065,State,ORG
+5066,Congress,ORG
+5067,WORKMAN,PERSON
+5068,Congress,ORG
+5069,Executive,ORG
+5070,Senate,ORG
+5071,House,ORG
+5072,Congress,ORG
+5073,Senate,ORG
+5074,the Post Office,ORG
+5075,Commerce,ORG
+5076,Labor,ORG
+5077,District of Columbia,GPE
+5078,THE WHITE HOUSE,ORG
+5079,"December 19, 1912",DATE
+5080,Senate,ORG
+5081,House of Representatives,ORG
+5082,third,ORDINAL
+5083,Congress,ORG
+5084,the last year,DATE
+5085,DEPARTMENTS SHOULD HAVE SEATS ON THE FLOOR OF,ORG
+5086,Cabinet,ORG
+5087,House,ORG
+5088,Senate,ORG
+5089,House,ORG
+5090,Executive,ORG
+5091,two,CARDINAL
+5092,House,ORG
+5093,Cabinet,ORG
+5094,House,ORG
+5095,two,CARDINAL
+5096,Cabinet,ORG
+5097,House,ORG
+5098,Cabinet,ORG
+5099,House,ORG
+5100,English,NORP
+5101,English,NORP
+5102,Cabinet,ORG
+5103,Houses,ORG
+5104,Congress,ORG
+5105,the House of Representatives,ORG
+5106,Thirty-eighth,CARDINAL
+5107,Congress,ORG
+5108,seven,CARDINAL
+5109,early days,DATE
+5110,Story,PERSON
+5111,Commentaries,WORK_OF_ART
+5112,Constitution,LAW
+5113,Thirty-eighth,CARDINAL
+5114,Congress,ORG
+5115,"April 6, 1864",DATE
+5116,"February 4, 1881",DATE
+5117,Senate,ORG
+5118,three,CARDINAL
+5119,Congress,ORG
+5120,first,ORDINAL
+5121,GEO,ORG
+5122,H. PENDLETON,PERSON
+5123,W. B. ALLISON,PERSON
+5124,D. W. VOORHEES,PERSON
+5125,J. G. BLAINE,PERSON
+5126,M. C. BUTLER,PERSON
+5127,JOHN J. INGALLS,PERSON
+5128,0,CARDINAL
+5129,J. T. FARLEY,PERSON
+5130,POSTAL SAVINGS BANK SYSTEM,ORG
+5131,The Postal Savings Bank System,ORG
+5132,"4,004",CARDINAL
+5133,fourth,ORDINAL
+5134,645,CARDINAL
+5135,"12,812",CARDINAL
+5136,"300,000",CARDINAL
+5137,"approximately $ 28,000,000",MONEY
+5138,"1,314,140",MONEY
+5139,"the fiscal year ending June 30, 1913",DATE
+5140,"700,000",MONEY
+5141,"300,000",MONEY
+5142,"700,000",MONEY
+5143,"300,000",MONEY
+5144,"50,000,000",MONEY
+5145,"7,357",CARDINAL
+5146,"54,000,000",MONEY
+5147,"37,000,000",MONEY
+5148,PARCEL POST,ORG
+5149,last year,DATE
+5150,the 1st of January,DATE
+5151,the Post Office Department,ORG
+5152,the 1st of January,DATE
+5153,the past three years,DATE
+5154,fourth,ORDINAL
+5155,the Mississippi River,LOC
+5156,Canada,GPE
+5157,the Atlantic Ocean,LOC
+5158,Mason,ORG
+5159,Dixon,PERSON
+5160,fourth,ORDINAL
+5161,"September, 1912",DATE
+5162,the Postmaster General,ORG
+5163,Alaska,GPE
+5164,Guam,GPE
+5165,Hawaii,GPE
+5166,Porto Rico,GPE
+5167,Samoa,ORG
+5168,October 15 1,DATE
+5169,"36,000",CARDINAL
+5170,B. Group,ORG
+5171,500,MONEY
+5172,Congress,ORG
+5173,first,ORDINAL
+5174,second,ORDINAL
+5175,third,ORDINAL
+5176,United States,GPE
+5177,Senate,ORG
+5178,Congress,ORG
+5179,January 1st,DATE
+5180,Congress,ORG
+5181,the Interstate Commerce Commission,ORG
+5182,Congress,ORG
+5183,the last decade,DATE
+5184,Land Department,ORG
+5185,Congress,ORG
+5186,West,LOC
+5187,Alaska,GPE
+5188,Congress,ORG
+5189,the Interior Department,ORG
+5190,Indians,NORP
+5191,Indians,NORP
+5192,the Indian Bureau,ORG
+5193,Indian,NORP
+5194,first,ORDINAL
+5195,Indian,NORP
+5196,Congress,ORG
+5197,Indians,NORP
+5198,Congress,ORG
+5199,Congress,ORG
+5200,Alaska,GPE
+5201,DEPARTMENT OF AGRICULTURE,ORG
+5202,the Department of Agriculture,ORG
+5203,each year,DATE
+5204,PURE-FOOD LAW The Department of Agriculture,ORG
+5205,Roosevelt,PERSON
+5206,the Remsen Board,ORG
+5207,the Bureau of Chemistry,ORG
+5208,the Agricultural Department,ORG
+5209,Congress,ORG
+5210,Agriculture,ORG
+5211,Congress,ORG
+5212,Commerce,ORG
+5213,Labor,ORG
+5214,the Bureau of Corporations,ORG
+5215,Sherman,PERSON
+5216,PANAMA,GPE
+5217,Congress,ORG
+5218,last February,DATE
+5219,the Panama Pacific International Exposition,ORG
+5220,San Francisco,GPE
+5221,Panama,GPE
+5222,European,NORP
+5223,the past summer,DATE
+5224,400 years,DATE
+5225,the Pacific Ocean,LOC
+5226,the United States,GPE
+5227,San Francisco,GPE
+5228,the Panama Canal,FAC
+5229,State,ORG
+5230,State,ORG
+5231,the National Government,ORG
+5232,The United States,GPE
+5233,the United States,GPE
+5234,the Panama Pacific International Exposition,ORG
+5235,San Francisco,GPE
+5236,WASHINGTON,GPE
+5237,Washington,GPE
+5238,"352,936",CARDINAL
+5239,"98,667",CARDINAL
+5240,annual,DATE
+5241,"about $ 14,000,000",MONEY
+5242,the National Capital,ORG
+5243,some years ago,DATE
+5244,one half,CARDINAL
+5245,the General Government,ORG
+5246,Congress,ORG
+5247,Willow Tree Alley,WORK_OF_ART
+5248,the past year,DATE
+5249,17.80,CARDINAL
+5250,"1,000",CARDINAL
+5251,14.61,CARDINAL
+5252,26.12,CARDINAL
+5253,District,LOC
+5254,One,CARDINAL
+5255,District,GPE
+5256,Congress,ORG
+5257,Washington,GPE
+5258,Congress,ORG
+5259,Washington,GPE
+5260,recent years,DATE
+5261,secondary,ORDINAL
+5262,Washington,GPE
+5263,Washington,GPE
+5264,the United States,GPE
+5265,the United States,GPE
+5266,Washington,GPE
+5267,Washington,GPE
+5268,Congress,ORG
+5269,Congress,ORG
+5270,American,ORG
+5271,Washington,GPE
+5272,Capital City,GPE
+5273,the National Treasury,ORG
+5274,a Commission of Fine Arts,ORG
+5275,Senate,ORG
+5276,French,NORP
+5277,Washington,GPE
+5278,Washington,GPE
+5279,the State Department,ORG
+5280,the Department of Commerce,ORG
+5281,Labor,ORG
+5282,Potomac Park,LOC
+5283,Rock Creek,GPE
+5284,Rock Creek Park,GPE
+5285,the Soldiers ' Home,ORG
+5286,Treasury,ORG
+5287,the District of Columbia,GPE
+5288,Virginia,GPE
+5289,Arlington,GPE
+5290,Fort Myer,GPE
+5291,Potomac,NORP
+5292,the State of Virginia,GPE
+5293,the Lincoln Memorial,ORG
+5294,the Lincoln Monument to Arlington,ORG
+5295,North,LOC
+5296,South,LOC
+5297,the Capital of the Nation,ORG
+5298,Congress,ORG
+5299,Washington,GPE

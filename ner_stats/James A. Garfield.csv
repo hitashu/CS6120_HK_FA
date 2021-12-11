@@ -1,0 +1,69 @@
+,ent,ent_label
+0,a hundred years,DATE
+1,three days,DATE
+2,first,ORDINAL
+3,the United States,GPE
+4,the Articles of Confederation and Perpetual Union,ORG
+5,Yorktown,GPE
+6,States,GPE
+7,National Union,ORG
+8,Constitution,LAW
+9,Constitution,LAW
+10,Constitution twenty-five States,DATE
+11,Constitution,LAW
+12,fifty,CARDINAL
+13,thirteen,CARDINAL
+14,States,GPE
+15,twenty,CARDINAL
+16,1780,DATE
+17,Constitution,LAW
+18,Union,ORG
+19,this first century,DATE
+20,Constitution,LAW
+21,the century,DATE
+22,half a century,DATE
+23,Constitution,LAW
+24,States,GPE
+25,States,GPE
+26,Constitution,LAW
+27,1776,DATE
+28,the coming years,DATE
+29,Southern,NORP
+30,UnitedStates,ORG
+31,Constitution,LAW
+32,States,GPE
+33,the fall,DATE
+34,South,LOC
+35,South,LOC
+36,the North and South,ORG
+37,States,GPE
+38,fifty years,DATE
+39,two,CARDINAL
+40,Congress,ORG
+41,the National Government,ORG
+42,Congress,ORG
+43,Constitution,LAW
+44,UnitedStates,ORG
+45,Congress,ORG
+46,the United States,GPE
+47,more than one-half,CARDINAL
+48,Cape Horn,LOC
+49,the United States,GPE
+50,American,NORP
+51,the United States,GPE
+52,North and South America,GPE
+53,Constitution,LAW
+54,Congress,ORG
+55,UnitedStates,ORG
+56,Congress,ORG
+57,the General Government,ORG
+58,Constitution,LAW
+59,Territories,LOC
+60,Congress,ORG
+61,MormonChurch,ORG
+62,Congress,ORG
+63,the National Government,ORG
+64,Congress,ORG
+65,Constitution,LAW
+66,States,GPE
+67,Congress,ORG

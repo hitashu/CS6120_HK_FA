@@ -1,0 +1,743 @@
+,ent,ent_label
+0,Europe,LOC
+1,the American Republic,GPE
+2,America,GPE
+3,Americans,NORP
+4,American,NORP
+5,American,NORP
+6,Russian,NORP
+7,Italy,GPE
+8,France,GPE
+9,England,GPE
+10,American,NORP
+11,America,GPE
+12,American,NORP
+13,Nationality,ORG
+14,the Civil War,EVENT
+15,American,NORP
+16,America,GPE
+17,American,NORP
+18,America,GPE
+19,Americans,NORP
+20,today,DATE
+21,American,NORP
+22,America,GPE
+23,a hundred million,CARDINAL
+24,today,DATE
+25,the first century,DATE
+26,second,ORDINAL
+27,the millions of today,CARDINAL
+28,American,NORP
+29,first,ORDINAL
+30,Americanism,ORG
+31,the Federal Constitution,LAW
+32,1787,DATE
+33,a full century and a half before,DATE
+34,Massachusetts,GPE
+35,New World's,ORG
+36,Jamestown,GPE
+37,Plymouth,GPE
+38,five,CARDINAL
+39,Lexington,GPE
+40,Concord,GPE
+41,American,NORP
+42,American,NORP
+43,The American Republic,GPE
+44,America,GPE
+45,The Federal Constitution,ORG
+46,Ark of the Covenant,WORK_OF_ART
+47,American,NORP
+48,Constitution,LAW
+49,the Great War,EVENT
+50,Americans,NORP
+51,American,NORP
+52,Columbia,ORG
+53,America,GPE
+54,American,NORP
+55,American,NORP
+56,Old World,ORG
+57,America,GPE
+58,America,GPE
+59,America,GPE
+60,America,GPE
+61,first,ORDINAL
+62,America,GPE
+63,first,ORDINAL
+64,America,GPE
+65,Bolshevist,ORG
+66,America,GPE
+67,the United States,GPE
+68,America,GPE
+69,one,CARDINAL
+70,America,GPE
+71,today,DATE
+72,America,GPE
+73,American,NORP
+74,American,NORP
+75,American,NORP
+76,Lodge,PERSON
+77,the Notification Committee,ORG
+78,the National Committee,ORG
+79,the many millions,CARDINAL
+80,more than a hundred millions,CARDINAL
+81,Constitution,LAW
+82,American,NORP
+83,American,NORP
+84,Congress,ORG
+85,first,ORDINAL
+86,Constitution,LAW
+87,the Republican Party,ORG
+88,Cabinet,ORG
+89,second,ORDINAL
+90,House,ORG
+91,Congress,ORG
+92,Senate,ORG
+93,Senate,ORG
+94,Lodge,PERSON
+95,Republicans,NORP
+96,Senate,ORG
+97,Europe,LOC
+98,America,GPE
+99,Republicans,NORP
+100,Senate,ORG
+101,American,NORP
+102,Party,ORG
+103,American,NORP
+104,American,NORP
+105,American,NORP
+106,One,CARDINAL
+107,America,GPE
+108,Senate,ORG
+109,America,GPE
+110,today,DATE
+111,tomorrow,DATE
+112,American,NORP
+113,America,GPE
+114,the Republican Party,ORG
+115,America,GPE
+116,Congress,ORG
+117,Republican,NORP
+118,Congress,ORG
+119,Republican,NORP
+120,American,NORP
+121,American,NORP
+122,American,NORP
+123,Republican,NORP
+124,America,GPE
+125,America,GPE
+126,Europe,LOC
+127,the hour,TIME
+128,America,GPE
+129,the League Covenant,ORG
+130,America,GPE
+131,European,NORP
+132,Europe,LOC
+133,America,GPE
+134,America,GPE
+135,Europe,LOC
+136,Europe,LOC
+137,American,NORP
+138,American,NORP
+139,Senate,ORG
+140,Constitution,LAW
+141,Europe,LOC
+142,America,GPE
+143,America,GPE
+144,American,NORP
+145,American,NORP
+146,first,ORDINAL
+147,Constitution,LAW
+148,today,DATE
+149,Russia,GPE
+150,America,GPE
+151,America,GPE
+152,today,DATE
+153,America,GPE
+154,one,CARDINAL
+155,America,GPE
+156,one,CARDINAL
+157,one,CARDINAL
+158,first,ORDINAL
+159,millions,CARDINAL
+160,American,NORP
+161,our day,DATE
+162,tomorrow,DATE
+163,the present day,DATE
+164,Constitution,LAW
+165,today,DATE
+166,the Republican Party,ORG
+167,America,GPE
+168,one,CARDINAL
+169,Russia,GPE
+170,first,ORDINAL
+171,America,GPE
+172,today,DATE
+173,American,NORP
+174,American,NORP
+175,America,GPE
+176,Republicans,NORP
+177,American,NORP
+178,American,NORP
+179,millions,CARDINAL
+180,American,NORP
+181,millions,CARDINAL
+182,American,NORP
+183,America,GPE
+184,one,CARDINAL
+185,present-day,DATE
+186,American,NORP
+187,American,NORP
+188,America,GPE
+189,the Panama Canal,FAC
+190,American,NORP
+191,American,NORP
+192,American,NORP
+193,Eight years ago,DATE
+194,the Democratic Party,ORG
+195,100-cent dollar,MONEY
+196,the day,DATE
+197,Republican,NORP
+198,first,ORDINAL
+199,American,NORP
+200,the first century,DATE
+201,a second century,DATE
+202,The Republican Party,ORG
+203,Middle West,LOC
+204,American,NORP
+205,a hundred and twenty millions,CARDINAL
+206,America,GPE
+207,Government,ORG
+208,Republican,NORP
+209,American,NORP
+210,American,NORP
+211,American,NORP
+212,America,GPE
+213,America,GPE
+214,the America of tomorrow,LOC
+215,The Federal Government's,ORG
+216,today,DATE
+217,Alaska,GPE
+218,thousands,CARDINAL
+219,American,NORP
+220,American,NORP
+221,American,NORP
+222,the Federal Government,ORG
+223,America,GPE
+224,the Federal Government,ORG
+225,Liberty,ORG
+226,Negro,ORG
+227,America,GPE
+228,American,NORP
+229,Mexico,GPE
+230,Americans,NORP
+231,Mexican,NORP
+232,Constitution,LAW
+233,the Eighteenth Amendment,LAW
+234,American,NORP
+235,Congress,ORG
+236,Constitution,LAW
+237,Congress,ORG
+238,the World War,EVENT
+239,America,GPE
+240,Union,ORG
+241,Civil War,EVENT
+242,Constitution,LAW
+243,first,ORDINAL
+244,1898,DATE
+245,four million,CARDINAL
+246,America,GPE
+247,Congress,ORG
+248,State,ORG
+249,America,GPE
+250,America,GPE
+251,this New World Republic,EVENT
+252,the Republic!,GPE
+253,America,GPE
+254,American,NORP
+255,American,NORP
+256,American,NORP
+257,American,NORP
+258,Americans,NORP
+259,Chairman,PERSON
+260,Americans,NORP
+261,the Republican Party,ORG
+262,United States,GPE
+263,Chairman *,PERSON
+264,Constitution,LAW
+265,American,NORP
+266,American,NORP
+267,first,ORDINAL
+268,the Constitution through the agency of,LAW
+269,the Republican Party,ORG
+270,Republicans,NORP
+271,Senate,ORG
+272,Europe,LOC
+273,America,GPE
+274,Republicans,NORP
+275,Senate,ORG
+276,American,NORP
+277,American,NORP
+278,American,NORP
+279,American,NORP
+280,Henry Cabot Lodge,PERSON
+281,Republican,NORP
+282,Massachusetts,GPE
+283,the Old World,LOC
+284,One,CARDINAL
+285,America,GPE
+286,Senate,ORG
+287,America,GPE
+288,today,DATE
+289,tomorrow,DATE
+290,American,NORP
+291,America,GPE
+292,Republican,NORP
+293,America,GPE
+294,Congress,ORG
+295,the Republican,ORG
+296,Congress,ORG
+297,Republican,NORP
+298,American,NORP
+299,American,NORP
+300,American,NORP
+301,Republican,NORP
+302,America,GPE
+303,America,GPE
+304,the League of Nations,ORG
+305,Article My,LAW
+306,today,DATE
+307,the World War,EVENT
+308,America,GPE
+309,one,CARDINAL
+310,America,GPE
+311,Underproduction,ORG
+312,one,CARDINAL
+313,one,CARDINAL
+314,first,ORDINAL
+315,millions,CARDINAL
+316,American,NORP
+317,our day,DATE
+318,tomorrow,DATE
+319,the present day,DATE
+320,Constitution,LAW
+321,today,DATE
+322,the Republican party,ORG
+323,America,GPE
+324,one,CARDINAL
+325,Russia,GPE
+326,first,ORDINAL
+327,America,GPE
+328,today,DATE
+329,American,NORP
+330,American,NORP
+331,America,GPE
+332,Republicans,NORP
+333,American,NORP
+334,American,NORP
+335,February,DATE
+336,October,DATE
+337,Russian,NORP
+338,the World War,EVENT
+339,America,GPE
+340,Union,ORG
+341,Constitution,LAW
+342,first,ORDINAL
+343,1898,DATE
+344,four million,CARDINAL
+345,America,GPE
+346,New World,GPE
+347,the Republic.,GPE
+348,America,GPE
+349,American,NORP
+350,American,NORP
+351,American,NORP
+352,American,NORP
+353,Americans,NORP
+354,The Republican Party,ORG
+355,October 1918,DATE
+356,Congress,ORG
+357,a century,DATE
+358,Republicans,NORP
+359,Republican,NORP
+360,The Republican Party,ORG
+361,the days,DATE
+362,65th,ORDINAL
+363,the days,DATE
+364,Wyandot County,GPE
+365,Ohio,GPE
+366,Two,CARDINAL
+367,Wyandot,PERSON
+368,today,DATE
+369,America,GPE
+370,American,NORP
+371,American,NORP
+372,American,NORP
+373,American,NORP
+374,American,NORP
+375,Belgium,GPE
+376,Lusitania,GPE
+377,America,GPE
+378,this afternoon,TIME
+379,Stars and Stripes,WORK_OF_ART
+380,Julius Kahn,PERSON
+381,Republican,NORP
+382,California,GPE
+383,1861 1921,DATE
+384,"March 4, 1917 to March 4, 1919",DATE
+385,Senate,ORG
+386,House of Representatives,ORG
+387,the Democrat Party,ORG
+388,Argonne Forest,ORG
+389,"September 26, 1918",DATE
+390,Armistice,PERSON
+391,November 11,DATE
+392,the American Army,ORG
+393,France,GPE
+394,John J. Pershing,PERSON
+395,the American Expeditionary Force,ORG
+396,twenty-six thousand,CARDINAL
+397,tens of thousands,CARDINAL
+398,America,GPE
+399,America,GPE
+400,America,GPE
+401,America,GPE
+402,the century,DATE
+403,New World,GPE
+404,America,GPE
+405,millions,CARDINAL
+406,America,GPE
+407,American,NORP
+408,Americans,NORP
+409,one,CARDINAL
+410,the Old World,LOC
+411,today,DATE
+412,Republic,GPE
+413,OldWorld,ORG
+414,the Old World,LOC
+415,America,GPE
+416,America,GPE
+417,America,GPE
+418,Today,DATE
+419,States,GPE
+420,American,NORP
+421,today,DATE
+422,tomorrow,DATE
+423,America,GPE
+424,American,NORP
+425,America,GPE
+426,America,GPE
+427,Republics,GPE
+428,Republic,ORG
+429,America,GPE
+430,today,DATE
+431,America,GPE
+432,one penny,MONEY
+433,one,CARDINAL
+434,Envy,PERSON
+435,yesterday,DATE
+436,today,DATE
+437,America,GPE
+438,Congress,ORG
+439,theAdministration,ORG
+440,America,GPE
+441,America,GPE
+442,America,GPE
+443,World War,EVENT
+444,American,NORP
+445,Today,DATE
+446,American,NORP
+447,America,GPE
+448,America,GPE
+449,long hours,TIME
+450,American,NORP
+451,Americanchildhood,NORP
+452,a hundred millions,CARDINAL
+453,Godand,PERSON
+454,America,GPE
+455,our present day,DATE
+456,Hamilton,PERSON
+457,Washington,GPE
+458,today,DATE
+459,One,CARDINAL
+460,America,GPE
+461,America,GPE
+462,European,NORP
+463,Washington,GPE
+464,the Senate Committee on Foreign Relations,ORG
+465,American,NORP
+466,American,NORP
+467,Old World,GPE
+468,Americans,NORP
+469,Americans,NORP
+470,Greek,NORP
+471,Bulgar,PERSON
+472,Italian,NORP
+473,Slovak,GPE
+474,American,NORP
+475,Americans,NORP
+476,Republican,NORP
+477,the United States of America,GPE
+478,the Old World,LOC
+479,America,GPE
+480,America,GPE
+481,America,GPE
+482,Nation,ORG
+483,thousands,CARDINAL
+484,today,DATE
+485,thousands,CARDINAL
+486,a hundred thousand,CARDINAL
+487,millennial days,DATE
+488,America,GPE
+489,America,GPE
+490,John C.,PERSON
+491,Warren G. Harding,PERSON
+492,1921 1923,DATE
+493,"Washington, Government Printing Office",ORG
+494,1921,DATE
+495,the United States,GPE
+496,our United States,GPE
+497,Our hundred millions,CARDINAL
+498,Congress,ORG
+499,approximately ten years,DATE
+500,Congress,ORG
+501,Congress,ORG
+502,a century and a third,DATE
+503,Congress,ORG
+504,recent years,DATE
+505,billion dollar,MONEY
+506,first,ORDINAL
+507,the few months,DATE
+508,the beginning of the Republic,DATE
+509,Congress,ORG
+510,Congress,ORG
+511,Congress,ORG
+512,1920,DATE
+513,American,NORP
+514,Executive,ORG
+515,American,NORP
+516,Congress,ORG
+517,the Jones Act,WORK_OF_ART
+518,Only one,CARDINAL
+519,House,ORG
+520,Senate,ORG
+521,American,NORP
+522,today,DATE
+523,only a few weeks,DATE
+524,the Public Treasury,ORG
+525,American,NORP
+526,American,NORP
+527,Congress,ORG
+528,today,DATE
+529,World War,EVENT
+530,American,NORP
+531,the Tariff Commission,ORG
+532,Congress,ORG
+533,Executive,ORG
+534,the Tariff Commission,ORG
+535,American,NORP
+536,American,NORP
+537,Congress,ORG
+538,American,NORP
+539,six months,DATE
+540,years,DATE
+541,Congress,ORG
+542,one,CARDINAL
+543,the Tariff Commission's,ORG
+544,only a few weeks ago,DATE
+545,American,NORP
+546,Government,ORG
+547,American,NORP
+548,Congress,ORG
+549,"9,000,000 bales",QUANTITY
+550,American,NORP
+551,a given year,DATE
+552,"700,000,000 bushels",QUANTITY
+553,American,NORP
+554,tens of millions,CARDINAL
+555,Europe,LOC
+556,Russia,GPE
+557,the Russian State,GPE
+558,National,ORG
+559,American,NORP
+560,the United States,GPE
+561,Capital and Labor,WORK_OF_ART
+562,Labor,ORG
+563,two,CARDINAL
+564,"approximately 200,000,000 acres",QUANTITY
+565,"20,000,000 acres",QUANTITY
+566,"500,000,000",MONEY
+567,1920,DATE
+568,"100,000,000",MONEY
+569,"the remaining 20,000,000 acres",QUANTITY
+570,10,CARDINAL
+571,the Federal Treasury,ORG
+572,50,CARDINAL
+573,40,CARDINAL
+574,States,GPE
+575,the Interior Department,ORG
+576,the Federal Government,ORG
+577,States,GPE
+578,"12,000,000,000",MONEY
+579,"79,000,000 acres",QUANTITY
+580,Southern States,LOC
+581,States,GPE
+582,Congress,ORG
+583,State,ORG
+584,American,NORP
+585,America,GPE
+586,Russia,GPE
+587,Valley,LOC
+588,Volga,ORG
+589,"15,000,000",CARDINAL
+590,many millions,CARDINAL
+591,America,GPE
+592,Russia,GPE
+593,Russian,NORP
+594,the American Relief Administration,ORG
+595,"10,000,000 bushels",QUANTITY
+596,"1,000,000 bushels",QUANTITY
+597,spring,DATE
+598,The American Relief Administration,ORG
+599,Russia,GPE
+600,American,NORP
+601,Government,ORG
+602,American,NORP
+603,States,GPE
+604,Christmastide,WORK_OF_ART
+605,"Federal, State",ORG
+606,Constitution,LAW
+607,Constitution,LAW
+608,State,ORG
+609,State,ORG
+610,States,GPE
+611,Washington,GPE
+612,an International Conference,ORG
+613,this Capital City,LOC
+614,Congress,ORG
+615,four years,DATE
+616,the World War,EVENT
+617,today,DATE
+618,the World War,EVENT
+619,American,NORP
+620,first,ORDINAL
+621,one-fourth,CARDINAL
+622,Congress,ORG
+623,Congress,ORG
+624,American,NORP
+625,the War Finance Corporation,ORG
+626,The Farm Loan Bureau,ORG
+627,Congress,ORG
+628,American,NORP
+629,three years ago,DATE
+630,Congress,ORG
+631,the last half of the year,DATE
+632,tens of millions,MONEY
+633,Nation,ORG
+634,1880,DATE
+635,"50,000,000",CARDINAL
+636,two decades,DATE
+637,the three decades,DATE
+638,1920,DATE
+639,"631,000,000 tons",QUANTITY
+640,"2,234,000,000 tons",QUANTITY
+641,less than,CARDINAL
+642,40 per cent,MONEY
+643,the next few decades,DATE
+644,hundreds of millions,CARDINAL
+645,Simple Living,PERSON
+646,the Public Treasury,ORG
+647,The Federal Government,ORG
+648,the National Treasury,ORG
+649,last summer,DATE
+650,the Interstate Commerce Commission,ORG
+651,50,CARDINAL
+652,State,ORG
+653,Congress,ORG
+654,Joint Commission of Agricultural Inquiry,ORG
+655,"October 15, 1921",DATE
+656,the Interstate Commerce Commission,ORG
+657,Congress,ORG
+658,the Railroad Labor Board,ORG
+659,Congress,ORG
+660,The Labor Board,ORG
+661,six,CARDINAL
+662,nine,CARDINAL
+663,three,CARDINAL
+664,three,CARDINAL
+665,three,CARDINAL
+666,Washington,GPE
+667,the Interstate Commerce Commission,ORG
+668,the Interstate Commerce Commission,ORG
+669,four,CARDINAL
+670,Congress,ORG
+671,four,CARDINAL
+672,last summer,DATE
+673,Congress,ORG
+674,American,NORP
+675,American,NORP
+676,American,NORP
+677,American,NORP
+678,the United States,GPE
+679,the United States,GPE
+680,Republic,GPE
+681,American,NORP
+682,American,NORP
+683,the World War,EVENT
+684,American,NORP
+685,Americans,NORP
+686,the United States,GPE
+687,eighteenth,ORDINAL
+688,The day,DATE
+689,eighteenth,ORDINAL
+690,eighteenth,ORDINAL
+691,State,ORG
+692,Federal Governments,ORG
+693,States,GPE
+694,Territories,GPE
+695,Federal Executive,ORG
+696,National,ORG
+697,State,ORG
+698,American,NORP
+699,first,ORDINAL
+700,two-tenths,CARDINAL
+701,1 percent,PERCENT
+702,less than 2 percent,PERCENT
+703,10,CARDINAL
+704,Europe,LOC
+705,6 per cent,MONEY
+706,the United States,GPE
+707,States,GPE
+708,American,NORP
+709,the Federal Government,ORG
+710,American,NORP
+711,Twice Congress,ORG
+712,the Supreme Court,ORG
+713,Constitution,LAW
+714,Congress,ORG
+715,two,CARDINAL
+716,Constitution,LAW
+717,One,CARDINAL
+718,One year ago,DATE
+719,State,ORG
+720,Federal Governments,ORG
+721,four,CARDINAL
+722,the Federal Government,ORG
+723,States,GPE
+724,Congress,ORG
+725,one,CARDINAL
+726,the National Government,ORG
+727,"March 4, 1921",DATE
+728,the World War,EVENT
+729,the Washington Conference on Limitation of Armament,ORG
+730,four,CARDINAL
+731,Pacific,LOC
+732,American,NORP
+733,American,NORP
+734,the United States,GPE
+735,South American,NORP
+736,Washington,GPE
+737,Central American,NORP
+738,Republics,GPE
+739,Congress,ORG
+740,American,NORP
+741,American,NORP

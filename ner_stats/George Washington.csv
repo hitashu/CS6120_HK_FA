@@ -1,0 +1,968 @@
+,ent,ent_label
+0,Fellow Citizens,PERSON
+1,Senate,ORG
+2,the House of Representatives,ORG
+3,the fourteenth day,DATE
+4,the present month,DATE
+5,Country,ORG
+6,years,DATE
+7,Country,ORG
+8,first,ORDINAL
+9,Act,PERSON
+10,Universe,ORG
+11,the Councils of Nations,ORG
+12,the United States,GPE
+13,the United States,GPE
+14,their United Government,ORG
+15,Governments,ORG
+16,the Executive Department,ORG
+17,Citizens,ORG
+18,Republican,NORP
+19,American,NORP
+20,Fifth,ORDINAL
+21,Constitution,LAW
+22,System,FAC
+23,United,ORG
+24,the House of Representatives,ORG
+25,first,ORDINAL
+26,the Service of my Country,ORG
+27,the Executive Department,ORG
+28,American,NORP
+29,Union,ORG
+30,Congress,ORG
+31,Committee,ORG
+32,the United States,GPE
+33,Thursday,DATE
+34,States,GPE
+35,Sovereigns,NORP
+36,Nations,PERSON
+37,Us,GPE
+38,Fellow Citizens,PERSON
+39,Senate,ORG
+40,House of Representatives,ORG
+41,North Carolina,GPE
+42,the Constitution of the United States,LAW
+43,Country,ORG
+44,Session,EVENT
+45,a Gracious Providence,ORG
+46,Session,EVENT
+47,War,EVENT
+48,Indians,NORP
+49,Southern,NORP
+50,the Commonwealth of Virginia,GPE
+51,the United States,GPE
+52,Citizens,ORG
+53,the United States,GPE
+54,"Agriculture, Commerce",ORG
+55,Country,ORG
+56,the Post-Office,ORG
+57,Post-Roads,ORG
+58,one,CARDINAL
+59,Constitution,LAW
+60,Society,ORG
+61,Liberty,PERSON
+62,first,ORDINAL
+63,University,ORG
+64,Senate,ORG
+65,House of Representatives,ORG
+66,another year,DATE
+67,American Stock,ORG
+68,Citizens,ORG
+69,Session,EVENT
+70,three millions,CARDINAL
+71,Holland,GPE
+72,Europe,LOC
+73,Treasury,ORG
+74,the District of Kentucky,GPE
+75,Virginia,GPE
+76,State,ORG
+77,District,GPE
+78,Congress,ORG
+79,Union,ORG
+80,Kentucky,GPE
+81,Congress,ORG
+82,Indians,NORP
+83,North West,LOC
+84,Ohio,GPE
+85,Wabash,ORG
+86,the United States,GPE
+87,Citizens,ORG
+88,that quarter,DATE
+89,Militia,PERSON
+90,Europe,LOC
+91,the United States,GPE
+92,Commerce,ORG
+93,Country,ORG
+94,Navigation,ORG
+95,Mediterranean,LOC
+96,Justice,ORG
+97,Consuls,GPE
+98,Convention,ORG
+99,The Consular Convention,ORG
+100,Christian Majesty,PERSON
+101,Consuls,GPE
+102,Militia,PERSON
+103,the Post Office and Post Roads,ORG
+104,the House of Representatives,ORG
+105,the Interest of the,ORG
+106,Country,ORG
+107,the Western Lands,LOC
+108,Senate,ORG
+109,House of Representatives,ORG
+110,Session,EVENT
+111,Citizens,ORG
+112,the United States,GPE
+113,Speech,ORG
+114,the U S ] Speak,GPE
+115,the Seneka Nation,ORG
+116,Speech,ORG
+117,the United States,GPE
+118,Speech,ORG
+119,the United States,GPE
+120,the last month,DATE
+121,the present month,DATE
+122,Cornplanter,ORG
+123,Seneca Chiefs,ORG
+124,Philadelphia,GPE
+125,first,ORDINAL
+126,the United States,GPE
+127,the United States,GPE
+128,six,CARDINAL
+129,six,CARDINAL
+130,the United States,GPE
+131,States,GPE
+132,Indian,NORP
+133,the Indian Nations,ORG
+134,the United States,GPE
+135,the United States,GPE
+136,22d of October 1784,DATE
+137,John Livingston,PERSON
+138,Oliver Phelps,PERSON
+139,Street,PERSON
+140,Niagara,GPE
+141,New York,GPE
+142,John Livingston,PERSON
+143,Oliver Phelps,PERSON
+144,the United States,GPE
+145,Congress,ORG
+146,Indian,NORP
+147,the United States,GPE
+148,Indians,NORP
+149,the United States,GPE
+150,The United States,GPE
+151,Pennsylvania,GPE
+152,the United States,GPE
+153,Tioga,WORK_OF_ART
+154,Senekas,ORG
+155,Speech,PERSON
+156,Indians,NORP
+157,the Miamee Village,FAC
+158,Ohio,GPE
+159,The United States,GPE
+160,Indians,NORP
+161,Indians,NORP
+162,Senekas,ORG
+163,six,CARDINAL
+164,the Miamee Indians,LOC
+165,the United States,GPE
+166,Indians,NORP
+167,the United States,GPE
+168,the United States,GPE
+169,Two hundred and Fifty Dollars,CARDINAL
+170,the United States,GPE
+171,Philadelphia,GPE
+172,Senekas,ORG
+173,the United States,GPE
+174,Senekas,ORG
+175,six,CARDINAL
+176,the United States,GPE
+177,the United States,GPE
+178,The United States,GPE
+179,Country,ORG
+180,Providential,ORG
+181,another year,DATE
+182,Agriculture,ORG
+183,Commerce,ORG
+184,Navigation,ORG
+185,the Constitution and Laws of the United States,LAW
+186,the Bank of the United States,ORG
+187,a single day,DATE
+188,Resolutions of the last Session,WORK_OF_ART
+189,the Western Frontiers,ORG
+190,Indians,NORP
+191,the United States,GPE
+192,the United States,GPE
+193,the Militia of Kentucke,ORG
+194,the United States,GPE
+195,Indians,NORP
+196,the United States,GPE
+197,46,CARDINAL
+198,the United States,GPE
+199,Indians,NORP
+200,Union,ORG
+201,Religion,ORG
+202,Philanthropy,PERSON
+203,Men,ORG
+204,the United States,GPE
+205,Officers,ORG
+206,two,CARDINAL
+207,first,ORDINAL
+208,Citizens,ORG
+209,the United States,GPE
+210,Acts of Government,ORG
+211,47,CARDINAL
+212,ten miles,QUANTITY
+213,the United States,GPE
+214,the River Potomack,LOC
+215,George Town,PERSON
+216,Congress,ORG
+217,the Census of the Inhabitants,ORG
+218,one,CARDINAL
+219,the United States,GPE
+220,four Millions,CARDINAL
+221,two millions and a half,CARDINAL
+222,Florins,PERSON
+223,Holland,GPE
+224,six Millions of Florins,CARDINAL
+225,Senate,ORG
+226,Two,CARDINAL
+227,Cherokees,ORG
+228,Indians,NORP
+229,the House of Representatives,ORG
+230,first,ORDINAL
+231,the United States,GPE
+232,the United States,GPE
+233,States,GPE
+234,the United States,GPE
+235,Object,ORG
+236,Treasury,ORG
+237,Senate,ORG
+238,the House of Representatives,ORG
+239,Militia,PERSON
+240,the Post-Office,ORG
+241,Mint,ORG
+242,the United States,GPE
+243,first,ORDINAL
+244,the United States,GPE
+245,Divine,ORG
+246,the Post-Office,ORG
+247,Post-Roads,ORG
+248,Western,NORP
+249,Northern,LOC
+250,Mint,ORG
+251,Resolution,ORG
+252,Country,ORG
+253,Constitution,LAW
+254,the United States,GPE
+255,the House of Representatives,ORG
+256,Act,PERSON
+257,two,CARDINAL
+258,Houses,ORG
+259,An Act,WORK_OF_ART
+260,States,GPE
+261,first,ORDINAL
+262,44,CARDINAL
+263,House,ORG
+264,First,ORDINAL
+265,Constitution,LAW
+266,States,GPE
+267,Numbers,ORG
+268,States,GPE
+269,Representatives,ORG
+270,Second,ORDINAL
+271,Constitution,LAW
+272,thirty thousand,CARDINAL
+273,eight,CARDINAL
+274,more than one,CARDINAL
+275,thirty thousand,CARDINAL
+276,Fellow Citizens,PERSON
+277,Senate,ORG
+278,the House of Representatives,ORG
+279,Indian,NORP
+280,North Western,NORP
+281,Massacre,FAC
+282,Ohio,GPE
+283,Cherokees,ORG
+284,Chickamagas,GPE
+285,five,CARDINAL
+286,the Tennesee River,LOC
+287,Holstin,ORG
+288,Cherokee,PRODUCT
+289,July 1791,DATE
+290,Chickamagas,GPE
+291,the Citizens of the United States,LAW
+292,that quarter,DATE
+293,Treaty,ORG
+294,the United States,GPE
+295,Citizens,ORG
+296,this quarter,DATE
+297,Congress,ORG
+298,the present year,DATE
+299,Session,EVENT
+300,Indian,NORP
+301,Indians,NORP
+302,the United States,GPE
+303,Congress,ORG
+304,Constitutional,ORG
+305,Legislature,ORG
+306,the Judiciary System,ORG
+307,the Supreme Court,ORG
+308,the Courts of the United States,ORG
+309,Constitution,LAW
+310,Citizens,ORG
+311,Citizens,PERSON
+312,Nations,ORG
+313,Authority,ORG
+314,half,CARDINAL
+315,first,ORDINAL
+316,the Post-Office,ORG
+317,Country,ORG
+318,15,CARDINAL
+319,December 31,DATE
+320,Speech,PERSON
+321,Congress,ORG
+322,Newspapers,LOC
+323,Post,ORG
+324,Law,PERSON
+325,Virginia,GPE
+326,Newspapers,LOC
+327,Session of Congress,ORG
+328,that quarter,DATE
+329,Law,PERSON
+330,Newspapers,LOC
+331,Letter Book,WORK_OF_ART
+332,the Washington Papers,LOC
+333,Constitution,LAW
+334,Kentucky,GPE
+335,Legislature,ORG
+336,Acts,ORG
+337,three,CARDINAL
+338,three millions,CARDINAL
+339,Florins,ORG
+340,One,CARDINAL
+341,Antwerp,GPE
+342,annual,DATE
+343,four and one half,CARDINAL
+344,two,CARDINAL
+345,Amsterdam,GPE
+346,annual,DATE
+347,four,CARDINAL
+348,five and one half,CARDINAL
+349,one,CARDINAL
+350,Session,EVENT
+351,the House of Representatives,ORG
+352,Systematic,ORG
+353,the Bank of the United States,ORG
+354,eleventh,ORDINAL
+355,Senate,ORG
+356,the House of Representatives,ORG
+357,Session,EVENT
+358,Indian,NORP
+359,Constituents,ORG
+360,Divine Providence,PERSON
+361,Union,ORG
+362,the State of Georgia,GPE
+363,Cherokee,PRODUCT
+364,the United States,GPE
+365,Indians,NORP
+366,the United States,GPE
+367,the United States,GPE
+368,five hundred dollars,MONEY
+369,United America,LOC
+370,Constitution,LAW
+371,Oath of Office,ORG
+372,56,CARDINAL
+373,Constitutional,LAW
+374,Austria,GPE
+375,Prussia,GPE
+376,Sardinia,GPE
+377,Great Britain,GPE
+378,the United Netherlands,GPE
+379,one,CARDINAL
+380,France,GPE
+381,the United States,GPE
+382,the United States,GPE
+383,the United States,GPE
+384,United States,GPE
+385,the United States,GPE
+386,the Courts of the United States,ORG
+387,Fellow Citizens,PERSON
+388,Senate,ORG
+389,the House of Representatives,ORG
+390,Executive,ORG
+391,Europe,LOC
+392,theUnited States,GPE
+393,the United States,GPE
+394,France,GPE
+395,UnitedStates,ORG
+396,Congress,ORG
+397,the United Statesto,ORG
+398,the United States,GPE
+399,the United States,GPE
+400,the United States,GPE
+401,the United States,GPE
+402,Executiveis,ORG
+403,two,CARDINAL
+404,the United States,GPE
+405,one,CARDINAL
+406,republican,NORP
+407,the United States,GPE
+408,the United States,GPE
+409,States,GPE
+410,the United States,GPE
+411,Europe,LOC
+412,Executive,ORG
+413,Congress,ORG
+414,Indians,NORP
+415,Ohio,GPE
+416,the United States,GPE
+417,the year,DATE
+418,Creeks,ORG
+419,Cherokees,ORG
+420,Congress,ORG
+421,Congress,ORG
+422,Indian,NORP
+423,the United States,GPE
+424,theIndians,ORG
+425,the United States,GPE
+426,ofCongress,ORG
+427,the House of Representatives,ORG
+428,theUnited States,GPE
+429,States,GPE
+430,Congress,ORG
+431,theTreasury,ORG
+432,the first day of June,DATE
+433,"1,000,000",CARDINAL
+434,the United States,GPE
+435,Holland,GPE
+436,5 %,PERCENT
+437,the term of,DATE
+438,ten years,DATE
+439,3 %,PERCENT
+440,first,ORDINAL
+441,"2,000,000",MONEY
+442,the Bank of theUnited States,ORG
+443,second,ORDINAL
+444,throughoutthe United States,GPE
+445,Congress,ORG
+446,Senate,ORG
+447,the House of Representatives,ORG
+448,Governmentmay,PERSON
+449,UnitedStates,ORG
+450,the United States,GPE
+451,Pennsylvania,GPE
+452,Legislature,ORG
+453,Pennsylvania,GPE
+454,the United States,GPE
+455,the 16th and 17th July,DATE
+456,the second day,DATE
+457,hundreds,CARDINAL
+458,John Neville,PERSON
+459,fourth,ORDINAL
+460,Pennsylvania,GPE
+461,David Lenox,PERSON
+462,Pennsylvania,GPE
+463,the United States,GPE
+464,the United States,GPE
+465,Legislature,ORG
+466,the United States,GPE
+467,the United States,GPE
+468,State,ORG
+469,the United States,GPE
+470,State,ORG
+471,United States,GPE
+472,State,ORG
+473,States,GPE
+474,thirty days,DATE
+475,James Wilson,PERSON
+476,4th,ORDINAL
+477,Washington,GPE
+478,Allegany,GPE
+479,Pennsylvania,GPE
+480,the United States,GPE
+481,George Washington,PERSON
+482,the United States,GPE
+483,the 1st day of September,DATE
+484,the United States of America,GPE
+485,Philadelphia,GPE
+486,"the 7th day of August, 1794",DATE
+487,the United States of America,GPE
+488,WASHINGTON,GPE
+489,Constitution,LAW
+490,the United States,GPE
+491,Western,NORP
+492,Pennsylvania,GPE
+493,first,ORDINAL
+494,the United States,GPE
+495,George Washington,PERSON
+496,the United States,GPE
+497,Constitution,LAW
+498,American,NORP
+499,Providence,GPE
+500,the States of New Jersey,GPE
+501,Pennsylvania,GPE
+502,Maryland,GPE
+503,Virginia,GPE
+504,the United States,GPE
+505,the United States,GPE
+506,Divine,ORG
+507,Constitution,LAW
+508,Fellow Citizens,PERSON
+509,Senate,ORG
+510,the House of Representatives,ORG
+511,American,NORP
+512,the United States,GPE
+513,the year one thousand seven hundred and ninety,DATE
+514,the United States,GPE
+515,States,GPE
+516,first,ORDINAL
+517,four,CARDINAL
+518,Pennsylvania,GPE
+519,Congress,ORG
+520,36,CARDINAL
+521,Pennsylvania,GPE
+522,Allegeny,ORG
+523,the United States,GPE
+524,the Supreme Court of,ORG
+525,the United States,GPE
+526,Washington,GPE
+527,Allegeny,ORG
+528,Pennsylvania,GPE
+529,the United States,GPE
+530,the United States,GPE
+531,7th,ORDINAL
+532,Commissioners,ORG
+533,the United States,GPE
+534,Pennsylvania,GPE
+535,the 25th of September,DATE
+536,fifteen thousand,CARDINAL
+537,Quotas,ORG
+538,New-Jersey,GPE
+539,Pennsylvania,GPE
+540,Maryland,GPE
+541,Virginia,GPE
+542,Pennsylvania,GPE
+543,the United States,GPE
+544,the United States,GPE
+545,Virginia,GPE
+546,four,CARDINAL
+547,Pennsylvania,GPE
+548,Thirty days,DATE
+549,Congress,ORG
+550,Congress,ORG
+551,the United States,GPE
+552,Pennsylvania,GPE
+553,Republican Government,ORG
+554,three hundred miles,QUANTITY
+555,American,NORP
+556,the United States,GPE
+557,daily,DATE
+558,the United States,GPE
+559,Congress,ORG
+560,Wayne,PERSON
+561,Indians,NORP
+562,Ohio,GPE
+563,the United States,GPE
+564,this late hour,TIME
+565,Indian,NORP
+566,Creeks,ORG
+567,the General Government,ORG
+568,Georgia,GPE
+569,the Six Nations,ORG
+570,"65,337,343$60,624,4642",CARDINAL
+571,Lake Erie,LOC
+572,Indians,NORP
+573,the House of Representatives,ORG
+574,Congress,ORG
+575,Congress,ORG
+576,Senate,ORG
+577,the House of Representatives,ORG
+578,the United States,GPE
+579,no remote day,DATE
+580,Congress,ORG
+581,the Supreme Ruler,ORG
+582,these United States,GPE
+583,the United States,GPE
+584,Pennsylvania,GPE
+585,2d day of September,DATE
+586,the United States,GPE
+587,fourth,ORDINAL
+588,Pennsylvania,GPE
+589,the 10th day of July,DATE
+590,the United States,GPE
+591,the 22d day of August,DATE
+592,the United States,GPE
+593,George Washington,PERSON
+594,United States,GPE
+595,the United States,GPE
+596,fourth,ORDINAL
+597,Pennsylvania,GPE
+598,22d day,DATE
+599,United States,GPE
+600,Indians,NORP
+601,Ohio,GPE
+602,the United States,GPE
+603,Indians,NORP
+604,the United States,GPE
+605,Senate,ORG
+606,Creek,GPE
+607,Cherokee Indians,PRODUCT
+608,Southern,NORP
+609,this quarter,DATE
+610,Georgia,GPE
+611,Creeks,ORG
+612,Morocco,GPE
+613,Algiers,LOC
+614,the Court of Madrid,ORG
+615,the United States,GPE
+616,the House of Representatives,ORG
+617,Great Britain,GPE
+618,Senate,ORG
+619,one,CARDINAL
+620,Britannic Majesty,PERSON
+621,Congress,ORG
+622,United States,GPE
+623,Indian,NORP
+624,the United States,GPE
+625,Europe,LOC
+626,American,NORP
+627,Constitution,LAW
+628,Europe,LOC
+629,the Department of War,ORG
+630,Army,ORG
+631,Time,ORG
+632,Indians,NORP
+633,Indians,NORP
+634,Indians,NORP
+635,Treasury,ORG
+636,Indians,NORP
+637,Congress,ORG
+638,Indians,NORP
+639,the House of Representatives,ORG
+640,Congress,ORG
+641,Congress,ORG
+642,Senate,ORG
+643,the House of Representatives,ORG
+644,Mint,ORG
+645,particular quarters,DATE
+646,Indians,NORP
+647,Congress,ORG
+648,the House of Representatives,ORG
+649,the 24th,DATE
+650,House,ORG
+651,the United States,GPE
+652,Great Britain,GPE
+653,Treaty,ORG
+654,Constitution,LAW
+655,House,ORG
+656,Congress,ORG
+657,the United States,GPE
+658,Constitution,LAW
+659,one,CARDINAL
+660,Senate,ORG
+661,the House of Representatives,ORG
+662,Papers,WORK_OF_ART
+663,the House of Representatives,ORG
+664,Papers,WORK_OF_ART
+665,Great Britain,GPE
+666,Senate,ORG
+667,Treaty,ORG
+668,House,ORG
+669,the Constitution of the United States,LAW
+670,the General Convention,ORG
+671,Constitution,LAW
+672,one,CARDINAL
+673,first,ORDINAL
+674,Senate,ORG
+675,two thirds,CARDINAL
+676,Senate,ORG
+677,Constitution,LAW
+678,the State Conventions,ORG
+679,Constitution,LAW
+680,two thirds,CARDINAL
+681,Senate,ORG
+682,two thirds,CARDINAL
+683,three,CARDINAL
+684,the General Convention,ORG
+685,the United States,GPE
+686,States,GPE
+687,Senate,ORG
+688,States,GPE
+689,States,GPE
+690,Constitution,LAW
+691,the General Convention,ORG
+692,State,ORG
+693,Treaty,ORG
+694,the United States,GPE
+695,the House of Representatives,ORG
+696,Great Britain,GPE
+697,Constitution,LAW
+698,Office,ORG
+699,Beloved Cherokees,PERSON
+700,Many years,DATE
+701,America,GPE
+702,Indian,NORP
+703,this day,DATE
+704,Indian,NORP
+705,Indian,NORP
+706,Cherokees,PERSON
+707,Dinsmoor,PERSON
+708,Beloved Cherokees,PERSON
+709,Cherokees,PERSON
+710,Dinsmoor,PERSON
+711,the United States,GPE
+712,the United States,GPE
+713,Indians,NORP
+714,four,CARDINAL
+715,the United States,GPE
+716,first,ORDINAL
+717,Benjamin Hawkins,PERSON
+718,Indian,NORP
+719,Southern,NORP
+720,Beloved Cherokees,PERSON
+721,War,ORG
+722,Dinsmoor,PERSON
+723,Beloved Cherokees,PERSON
+724,the United States,GPE
+725,Indian,NORP
+726,Indian,NORP
+727,Beloved Cherokees,PERSON
+728,the United States,GPE
+729,one,CARDINAL
+730,two,CARDINAL
+731,the United States,GPE
+732,the United States,GPE
+733,Dinsmoor,PERSON
+734,the United States,GPE
+735,Beloved Cherokees,PERSON
+736,Philadelphia,GPE
+737,November,DATE
+738,Holston,PERSON
+739,Cherokees,ORG
+740,the Executive Government,ORG
+741,the United States,GPE
+742,first,ORDINAL
+743,years,DATE
+744,Constitution,LAW
+745,States,GPE
+746,one,CARDINAL
+747,first,ORDINAL
+748,American,NORP
+749,North,LOC
+750,South,LOC
+751,South,LOC
+752,North,LOC
+753,North,LOC
+754,East,LOC
+755,West,LOC
+756,East,LOC
+757,Atlantic,LOC
+758,one,CARDINAL
+759,West,LOC
+760,one,CARDINAL
+761,any quarter,DATE
+762,Southern,NORP
+763,Atlantic,LOC
+764,One,CARDINAL
+765,Western,NORP
+766,Senate,ORG
+767,Spain,GPE
+768,the United States,GPE
+769,the General Government,ORG
+770,the Atlantic States,LOC
+771,Mississippi,LOC
+772,two,CARDINAL
+773,Great Britain,GPE
+774,Spain,GPE
+775,first,ORDINAL
+776,a Constitution of Government,LAW
+777,One,CARDINAL
+778,Constitution,LAW
+779,State,ORG
+780,one,CARDINAL
+781,one,CARDINAL
+782,one,CARDINAL
+783,one,CARDINAL
+784,one,CARDINAL
+785,Constitution,LAW
+786,one,CARDINAL
+787,One,CARDINAL
+788,Providence,GPE
+789,Antipathy,GPE
+790,one,CARDINAL
+791,one,CARDINAL
+792,one,CARDINAL
+793,republican,NORP
+794,one,CARDINAL
+795,second,ORDINAL
+796,Europe,LOC
+797,Europe,LOC
+798,European,NORP
+799,Harmony,ORG
+800,one,CARDINAL
+801,Europe,LOC
+802,"the 22d of April, 1793",DATE
+803,Houses of Congress,ORG
+804,forty-five years,DATE
+805,Fellow Citizens,PERSON
+806,Senate,ORG
+807,House of Representatives,ORG
+808,Country,ORG
+809,Universe,ORG
+810,Session,EVENT
+811,Indians,NORP
+812,Settlements,PRODUCT
+813,Indians,NORP
+814,Treaty,ORG
+815,the Creek Nation at Colerain,ORG
+816,the State of Georgia,GPE
+817,State,ORG
+818,Sale,PERSON
+819,Treaty,ORG
+820,Creeks,ORG
+821,the United States,GPE
+822,Trading Houses and Military Posts,ORG
+823,Session,EVENT
+824,Navigation,ORG
+825,the United States,GPE
+826,Britannic Majesty,ORG
+827,Canada,GPE
+828,the United States,GPE
+829,Oswego,ORG
+830,Niagara,GPE
+831,Detroit,GPE
+832,Michelimackina,GPE
+833,Fort Miami,GPE
+834,the United States,GPE
+835,Great Britain,GPE
+836,Croix,PERSON
+837,1783,DATE
+838,Egbert Benson Esqr,PERSON
+839,New York,GPE
+840,third,ORDINAL
+841,St. Andrews,GPE
+842,Passamaquoddy Bay,LOC
+843,the beginning of October,DATE
+844,the next Year,DATE
+845,Boston,GPE
+846,August 1797,DATE
+847,the United States,GPE
+848,seventh,ORDINAL
+849,Article of the Treaty,LAW
+850,Great Britain,GPE
+851,Vessels,PRODUCT
+852,Britannic Majesty,ORG
+853,London,GPE
+854,August,DATE
+855,John Trumbull,PERSON
+856,Esqr,PERSON
+857,fifth,ORDINAL
+858,October,DATE
+859,Board,ORG
+860,Great Britain,GPE
+861,the United States,GPE
+862,sixth,ORDINAL
+863,Article of the Treaty,LAW
+864,Spain,GPE
+865,the United States,GPE
+866,Catholic Majesty's,ORG
+867,Natchez,ORG
+868,six Months,DATE
+869,Aranjuez,GPE
+870,the 25th,DATE
+871,April,DATE
+872,Catholic Majesty,ORG
+873,Posts,NORP
+874,the United States,GPE
+875,the United States,GPE
+876,Natchez,ORG
+877,September,DATE
+878,the Spanish Garrisons,FAC
+879,Catholic Majesty,ORG
+880,Citizens,ORG
+881,Vessels,PRODUCT
+882,the Armed Vessels of,ORG
+883,Spain,GPE
+884,Congress,ORG
+885,Session,EVENT
+886,American Seamen,ORG
+887,Great Britain,GPE
+888,the West Indies,LOC
+889,Agency,ORG
+890,the West Indies,GPE
+891,Great Britain,GPE
+892,the United States,GPE
+893,London,GPE
+894,the European War,EVENT
+895,War,EVENT
+896,Citizens,ORG
+897,Algiers,LOC
+898,the Regencies of Tunis,ORG
+899,Tripoli,GPE
+900,Commerce,ORG
+901,Naval,GPE
+902,State,ORG
+903,a Neutral Flag,ORG
+904,Naval,GPE
+905,the Neutral party,ORG
+906,first,ORDINAL
+907,Citizens,ORG
+908,the United States,GPE
+909,Navy,ORG
+910,Navigation,ORG
+911,Naval,GPE
+912,Ships,ORG
+913,War of Europe,LOC
+914,Commerce,ORG
+915,Congress,ORG
+916,Manufactures,ORG
+917,Country,ORG
+918,Manufacture,ORG
+919,War,EVENT
+920,War,EVENT
+921,Citizens,ORG
+922,Country,ORG
+923,"National Welfare, Agriculture",ORG
+924,Soil,ORG
+925,Boards,ORG
+926,Congress,ORG
+927,National University,ORG
+928,a Military Academy,ORG
+929,Assembly,ORG
+930,the Arts and Sciences,ORG
+931,Country,ORG
+932,Institution,ORG
+933,Institution,ORG
+934,Country,ORG
+935,Youth,LOC
+936,every quarter,DATE
+937,Union,ORG
+938,National Institution,ORG
+939,Youth,LOC
+940,Legislature,ORG
+941,Country,ORG
+942,The Institution of a Military Academy,ORG
+943,first,ORDINAL
+944,War,EVENT
+945,War,EVENT
+946,the Art of War,ORG
+947,Academy,ORG
+948,the United States,GPE
+949,Characters for Office,ORG
+950,Men,ORG
+951,the West Indies,GPE
+952,Cruisers,ORG
+953,Commerce,ORG
+954,Country,ORG
+955,the House of Representatives,ORG
+956,Appropriations,ORG
+957,the United States,GPE
+958,Senate,ORG
+959,the House of Representatives,ORG
+960,the Militia of the United States,WORK_OF_ART
+961,the Representatives of the People of the United States,ORG
+962,the Supreme Ruler,ORG
+963,Universe,ORG
+964,Sovereign,ORG
+965,Providential,ORG
+966,the United States,GPE

@@ -1,0 +1,1822 @@
+,ent,ent_label
+0,Senate,ORG
+1,House of Representatives,ORG
+2,two,CARDINAL
+3,Congress,ORG
+4,Texas,GPE
+5,the 14th day of June,DATE
+6,the United States,GPE
+7,Congress,ORG
+8,Texas,GPE
+9,State,ORG
+10,State,ORG
+11,El Paso,GPE
+12,Worth,GPE
+13,Presidio,FAC
+14,Santa Fe,ORG
+15,the United States,GPE
+16,Santa Fe,ORG
+17,State,ORG
+18,the Rio Grande,GPE
+19,the State of Texas,GPE
+20,four,CARDINAL
+21,Texas,GPE
+22,the Rio Grande,GPE
+23,New Mexico,GPE
+24,the Republic of Mexico,GPE
+25,American,NORP
+26,Texas,GPE
+27,the Rio Grande,GPE
+28,Texas,GPE
+29,the United States,GPE
+30,Congress,ORG
+31,Texas,GPE
+32,two,CARDINAL
+33,Houses of Congress,ORG
+34,Army,ORG
+35,Navy,ORG
+36,States,GPE
+37,the United States,GPE
+38,Constitution,LAW
+39,Congress,ORG
+40,Congress,ORG
+41,Constitution,LAW
+42,Congress,ORG
+43,second,ORDINAL
+44,1795,DATE
+45,the United States,GPE
+46,State,ORG
+47,"the act of March 3, 1807",DATE
+48,the United States,GPE
+49,State,ORG
+50,Territory,PERSON
+51,the United States,GPE
+52,the United States,GPE
+53,State,ORG
+54,Territory,PERSON
+55,the United States,GPE
+56,Texas,GPE
+57,State,ORG
+58,Constitution,LAW
+59,the United States,GPE
+60,State,ORG
+61,Texas,GPE
+62,Texas,GPE
+63,States,GPE
+64,the United States,GPE
+65,Texas,GPE
+66,State,ORG
+67,Territory,PERSON
+68,the United States,GPE
+69,the United States,GPE
+70,Constitution,LAW
+71,Congress,ORG
+72,the United States,GPE
+73,the United States,GPE
+74,New Mexico,GPE
+75,United States,GPE
+76,the United States,GPE
+77,Constitution,LAW
+78,the United States,GPE
+79,the United States,GPE
+80,New Mexico,GPE
+81,the United States,GPE
+82,Texas,GPE
+83,New Mexico,GPE
+84,Territory of the United States,WORK_OF_ART
+85,the Republic of Mexico,GPE
+86,California,GPE
+87,New Mexico,GPE
+88,the United States,GPE
+89,the United States,GPE
+90,Mexico,GPE
+91,fifth,ORDINAL
+92,two,CARDINAL
+93,Republics,GPE
+94,the Gulf of Mexico,LOC
+95,3,CARDINAL
+96,the Rio Grande,GPE
+97,Rio Bravo,ORG
+98,more than one,CARDINAL
+99,more than one,CARDINAL
+100,New Mexico,GPE
+101,New Mexico,GPE
+102,Paso,ORG
+103,New Mexico,GPE
+104,first,ORDINAL
+105,Gila,PERSON
+106,Rio Colorado,GPE
+107,Rio Colorado,GPE
+108,Upper and,ORG
+109,the Pacific Ocean,LOC
+110,eighth,ORDINAL
+111,Mexicans,NORP
+112,Mexico,GPE
+113,the United States,GPE
+114,the Mexican Republic,GPE
+115,Mexican,NORP
+116,the United States,GPE
+117,one year,DATE
+118,that year,DATE
+119,Mexicans,NORP
+120,the United States,GPE
+121,Mexicans,NORP
+122,Mexicans,NORP
+123,the United States,GPE
+124,ninth,ORDINAL
+125,Mexicans,NORP
+126,the Mexican Republic,GPE
+127,the Union of the United States,ORG
+128,the Congress of the United States,ORG
+129,the United States,GPE
+130,Constitution,LAW
+131,Mexicans,NORP
+132,ninth,ORDINAL
+133,Mexicans,NORP
+134,Constitution,LAW
+135,the United States,GPE
+136,Mexico,GPE
+137,the United States,GPE
+138,Guadalupe Hidalgo,PERSON
+139,Texas,GPE
+140,the United States,GPE
+141,Congress,ORG
+142,Texas,GPE
+143,ninth,ORDINAL
+144,New Mexico,LOC
+145,New Mexico,LOC
+146,Mexico,GPE
+147,New Mexico,GPE
+148,Texas,GPE
+149,Texan,NORP
+150,Territory,PERSON
+151,Congress,ORG
+152,the United States,GPE
+153,Constitution,LAW
+154,Congress,ORG
+155,Texas,GPE
+156,Houses,ORG
+157,Texas,GPE
+158,first,ORDINAL
+159,one,CARDINAL
+160,first,ORDINAL
+161,California,GPE
+162,New Mexico,GPE
+163,New Mexico,GPE
+164,State,ORG
+165,Territorial,ORG
+166,first,ORDINAL
+167,New Mexico,GPE
+168,Texas,GPE
+169,Congress,ORG
+170,Texas,GPE
+171,first,ORDINAL
+172,years,DATE
+173,Congress,ORG
+174,Congress,ORG
+175,Texas,GPE
+176,Congress,ORG
+177,Congress,ORG
+178,the United States,GPE
+179,Texas,GPE
+180,the United States,GPE
+181,Congress,ORG
+182,Congress,ORG
+183,Congress,ORG
+184,Fellow Citizens,PERSON
+185,Senate,ORG
+186,the House of Representatives,ORG
+187,Congress,ORG
+188,Divine Providence,PERSON
+189,Congress,ORG
+190,the United States,GPE
+191,the United States,GPE
+192,Constitution,LAW
+193,Governmentand,GPE
+194,first,ORDINAL
+195,States,GPE
+196,two,CARDINAL
+197,Houses ofCongress,ORG
+198,Legislature,ORG
+199,the United States,GPE
+200,States,GPE
+201,Congress,ORG
+202,Constitution,LAW
+203,Constitution,LAW
+204,States,GPE
+205,Union,ORG
+206,one,CARDINAL
+207,Constitution,LAW
+208,Constitutionand,GPE
+209,Executiveis,ORG
+210,Congress,ORG
+211,States,GPE
+212,the United States,GPE
+213,Great Britainin,ORG
+214,April last,DATE
+215,Atlantic,LOC
+216,Pacific,LOC
+217,two,CARDINAL
+218,First,ORDINAL
+219,Second,ORDINAL
+220,two,CARDINAL
+221,the United States,GPE
+222,State,ORG
+223,Nicaragua,GPE
+224,two,CARDINAL
+225,State,ORG
+226,the United States,GPE
+227,andGreat Britain,GPE
+228,the 19th of April,DATE
+229,that quarter,DATE
+230,Governmentwhich,GPE
+231,Nicaragua,GPE
+232,Washington,GPE
+233,two,CARDINAL
+234,the United States,GPE
+235,thetwo,CARDINAL
+236,the Isthmus of Tehuantepec,FAC
+237,the Mexican Government,ORG
+238,the United States,GPE
+239,Mexico,GPE
+240,the United States,GPE
+241,Mexico,GPE
+242,Isthmus,GPE
+243,Mexico,GPE
+244,existingbetween,CARDINAL
+245,two,CARDINAL
+246,UnitedStates,ORG
+247,Mexico,GPE
+248,Portugal,GPE
+249,the United States,GPE
+250,the Government of Portugalfor,ORG
+251,the United States,GPE
+252,Clay,PERSON
+253,United Stateshad,ORG
+254,two,CARDINAL
+255,Congress,ORG
+256,Brazil,GPE
+257,"the 27th of January, 1849",DATE
+258,the Imperial Government,ORG
+259,third,ORDINAL
+260,UnitedStates,ORG
+261,Congress,ORG
+262,fourth,ORDINAL
+263,the United States,GPE
+264,Chili,PRODUCT
+265,Congress,ORG
+266,24th,ORDINAL
+267,1828,DATE
+268,two,CARDINAL
+269,California,GPE
+270,Peruvian,NORP
+271,the United States,GPE
+272,the United States,GPE
+273,His Majesty the King of theHawaiian,PERSON
+274,two,CARDINAL
+275,St. Domingo,GPE
+276,Spain,GPE
+277,France,GPE
+278,the United Statesand,ORG
+279,the United Stateswill,GPE
+280,Treasury,ORG
+281,Treasury,ORG
+282,the year ending 30th,DATE
+283,Junelast,GPE
+284,"47,421,748.90",MONEY
+285,"43,002,168.90",MONEY
+286,Treasury,ORG
+287,"495,276.79",MONEY
+288,nineteenth,ORDINAL
+289,"the act of 28th January, 1847",DATE
+290,Congress,ORG
+291,several years,DATE
+292,annual,DATE
+293,"8,075,986.59",MONEY
+294,the next two fiscal years,DATE
+295,Treasury,ORG
+296,Treasurywill,PERSON
+297,Congress,ORG
+298,Congress,ORG
+299,Congress,ORG
+300,California,GPE
+301,Treasury,ORG
+302,More than three fourths,CARDINAL
+303,Constitution,LAW
+304,American,NORP
+305,Congress,ORG
+306,"the 23d of May, 1850",DATE
+307,the Seventh Census,ORG
+308,Territories,LOC
+309,an early day,DATE
+310,Pacific,LOC
+311,the Atlantic States,GPE
+312,Governmentto,GPE
+313,Valley,LOC
+314,Mississippi,LOC
+315,Pacific,LOC
+316,annual,DATE
+317,California,GPE
+318,State,ORG
+319,Spanish,NORP
+320,Mexican,NORP
+321,early day,DATE
+322,the State of California and the Territories of Utahand,GPE
+323,California,GPE
+324,first,ORDINAL
+325,Governmentthey,PERSON
+326,Texas,GPE
+327,California,GPE
+328,Indian,NORP
+329,"124,000",CARDINAL
+330,Texas,GPE
+331,New Mexicoare,ORG
+332,Indians,NORP
+333,Mexicanfrontier,PERSON
+334,eleventh,ORDINAL
+335,Guadalupe Hidalgowe,PERSON
+336,Indians,NORP
+337,Army,ORG
+338,Mexico,GPE
+339,Congress,ORG
+340,as early a period,DATE
+341,one,CARDINAL
+342,Navy,ORG
+343,Northern,LOC
+344,six,CARDINAL
+345,Department,ORG
+346,thepast year,DATE
+347,two,CARDINAL
+348,New York,GPE
+349,Navy,ORG
+350,Arctic,LOC
+351,British,NORP
+352,John Franklinand,PERSON
+353,Congress,ORG
+354,Navy,ORG
+355,Pacific Coast,LOC
+356,Asia,LOC
+357,East,LOC
+358,Pacific,LOC
+359,Army,ORG
+360,Navy,ORG
+361,two,CARDINAL
+362,the House of Representatives,ORG
+363,Congress,ORG
+364,Army,ORG
+365,Navy,ORG
+366,Navy,ORG
+367,the ensuing year,DATE
+368,"more than $ 1,000,000",MONEY
+369,Pacific,LOC
+370,Navy,ORG
+371,Congress,ORG
+372,half a century,DATE
+373,ofthe last fiscal year,DATE
+374,UnitedStates,ORG
+375,Oregon,GPE
+376,California,GPE
+377,1929,DATE
+378,annual,DATE
+379,"46,541,423 miles",QUANTITY
+380,"2,724,426",MONEY
+381,annual,DATE
+382,the preceding year,DATE
+383,"3,997,354 miles",QUANTITY
+384,"342,440",MONEY
+385,the United States,GPE
+386,the1st day of July,DATE
+387,"18,417",CARDINAL
+388,"1,670",CARDINAL
+389,year,DATE
+390,the Department for,ORG
+391,the fiscal year ending cents 93.0,DATE
+392,1850,DATE
+393,"5,552,971.48",MONEY
+394,annual,DATE
+395,"200,000",MONEY
+396,Departments,ORG
+397,the British Government,ORG
+398,"5,212,953.43",MONEY
+399,"340,018.05",MONEY
+400,Department,ORG
+401,3 cents,MONEY
+402,5,CARDINAL
+403,2 cents,MONEY
+404,Department,ORG
+405,more than 5,CARDINAL
+406,two,CARDINAL
+407,California,GPE
+408,Treasury,ORG
+409,the Post-Office Department,ORG
+410,Congress,ORG
+411,States,GPE
+412,Wherecommerce,ORG
+413,Constitution,LAW
+414,Constitution,LAW
+415,Congress,ORG
+416,Constitution,LAW
+417,States,GPE
+418,Congress,ORG
+419,the Gulf of Mexico,LOC
+420,the Falls of St. Mary,ORG
+421,"more than 1,000 miles",QUANTITY
+422,States,GPE
+423,Canada,GPE
+424,Delaware,GPE
+425,States,GPE
+426,the United States,GPE
+427,Southern,NORP
+428,Northern,LOC
+429,eight,CARDINAL
+430,States,GPE
+431,the Gulfof Mexico,GPE
+432,one,CARDINAL
+433,the Great Lakes,FAC
+434,Constitution,LAW
+435,one,CARDINAL
+436,Congress,ORG
+437,Congress,ORG
+438,Congress,ORG
+439,the United States,GPE
+440,District,GPE
+441,Washington,GPE
+442,Capitol,FAC
+443,Union,ORG
+444,Americans,NORP
+445,TheGovernment,ORG
+446,toTexas,ORG
+447,State,ORG
+448,Texas,GPE
+449,the present month,DATE
+450,Constitution,LAW
+451,many months,DATE
+452,Congress,ORG
+453,States,GPE
+454,one,CARDINAL
+455,Constitution,LAW
+456,American,NORP
+457,the GreatRuler of Nations,LAW
+458,Senate,ORG
+459,House of Representatives,ORG
+460,Congress,ORG
+461,Texas,GPE
+462,State,ORG
+463,Congress,ORG
+464,the 9th day of September,DATE
+465,Texas,GPE
+466,the United States,GPE
+467,New Mexico,GPE
+468,Texas,GPE
+469,"the 1st day of December, 1850",DATE
+470,Texas,GPE
+471,the 25th day of November,DATE
+472,Congress,ORG
+473,Congress,ORG
+474,Texas,GPE
+475,Texas,GPE
+476,State,ORG
+477,Second,ORDINAL
+478,State,ORG
+479,State,ORG
+480,the United States,GPE
+481,the Senators and Representatives of Texas,ORG
+482,Congress,ORG
+483,C.G. KEENAN,PERSON
+484,the House of Representatives,ORG
+485,JOHN A. GREER,PERSON
+486,Senate,ORG
+487,P.H. BELL,ORG
+488,"November 25, 1850",DATE
+489,Texas,GPE
+490,State,ORG
+491,Congress,ORG
+492,Congress,ORG
+493,Mexico,GPE
+494,Congress,ORG
+495,one,CARDINAL
+496,State,ORG
+497,State,ORG
+498,Constitution,LAW
+499,Territorial,NORP
+500,Congress,ORG
+501,the United States,GPE
+502,Constitution,LAW
+503,daily,DATE
+504,the Congress of the United States,ORG
+505,"the 9th of September, 1850",DATE
+506,Texas,GPE
+507,the United States,GPE
+508,New Mexico,GPE
+509,Texas,GPE
+510,State,ORG
+511,the United States,GPE
+512,State,ORG
+513,Texas,GPE
+514,"the 1st day of December, 1850",DATE
+515,First,ORDINAL
+516,Texas,GPE
+517,100 degrees,QUANTITY
+518,Greenwich,GPE
+519,36 degrees,QUANTITY
+520,30,CARDINAL
+521,103 degrees,QUANTITY
+522,32 degrees,QUANTITY
+523,the Rio Bravo,GPE
+524,del Norte,PERSON
+525,the Gulf of Mexico,LOC
+526,Second,ORDINAL
+527,Texas,GPE
+528,the United States,GPE
+529,first,ORDINAL
+530,Third,ORDINAL
+531,State,ORG
+532,Texas,GPE
+533,the United States,GPE
+534,Texas,GPE
+535,the United States,GPE
+536,the United States,GPE
+537,Fourth,ORDINAL
+538,The United States,GPE
+539,Texas,GPE
+540,"10,000,000",MONEY
+541,5,CARDINAL
+542,the end of fourteen years,DATE
+543,half-yearly,DATE
+544,Treasury,ORG
+545,the United States,GPE
+546,Fifth,ORDINAL
+547,the United States,GPE
+548,Texas,GPE
+549,Texas,GPE
+550,fourth,ORDINAL
+551,"no more than $ 5,000,000",MONEY
+552,State,ORG
+553,Texas,GPE
+554,first,ORDINAL
+555,Treasury,ORG
+556,the United States,GPE
+557,the United States,GPE
+558,Treasury,ORG
+559,the United States,GPE
+560,third,ORDINAL
+561,second,ORDINAL
+562,Texas,GPE
+563,the United States,GPE
+564,"March 1, 1845",DATE
+565,States,GPE
+566,Texas,GPE
+567,eighteenth,ORDINAL
+568,Congress,ORG
+569,the United States,GPE
+570,the State of Texas,GPE
+571,the United States,GPE
+572,Texas,GPE
+573,25th of November,DATE
+574,the United States,GPE
+575,the State of Texas,GPE
+576,the Congress of the United States,ORG
+577,the 9th day of September,DATE
+578,Texas,GPE
+579,the United States,GPE
+580,New Mexico,GPE
+581,State,ORG
+582,Texas,GPE
+583,State,ORG
+584,Millard Fillmore,PERSON
+585,the United States of America,GPE
+586,the Congress of the United States,ORG
+587,the 9th of September,DATE
+588,Washington,GPE
+589,this 13th day of December,DATE
+590,the seventy-fifth,DATE
+591,these United States,GPE
+592,WEBSTER,PERSON
+593,State,ORG
+594,Senate,ORG
+595,the United States,GPE
+596,Senate,ORG
+597,18th,ORDINAL
+598,the United States,GPE
+599,Boston,GPE
+600,Senate,ORG
+601,Patrick Riley,PERSON
+602,Massachusetts,GPE
+603,the United States,GPE
+604,noonday,DATE
+605,Boston,GPE
+606,thousands,CARDINAL
+607,Boston,GPE
+608,the Cradle of American Liberty,WORK_OF_ART
+609,Boston,GPE
+610,Massachusetts,GPE
+611,Senate,ORG
+612,Congress,ORG
+613,"September 23, 1789",DATE
+614,States,GPE
+615,the United States,GPE
+616,States,GPE
+617,the United States,GPE
+618,50 cents,MONEY
+619,Congress,ORG
+620,1791,DATE
+621,Congress,ORG
+622,"the 23d day of September, 1789",DATE
+623,States,GPE
+624,the United States,GPE
+625,Senate,ORG
+626,House of Representatives,ORG
+627,the United States of America,GPE
+628,Congress,ORG
+629,State,ORG
+630,State,ORG
+631,the United States,GPE
+632,Treasury,ORG
+633,the United States,GPE
+634,Congress,ORG
+635,State,ORG
+636,States,GPE
+637,Congress,ORG
+638,"the 23d day of September, 1789",DATE
+639,the United States,GPE
+640,State,ORG
+641,States,GPE
+642,the United States,GPE
+643,Treasury,ORG
+644,the United States,GPE
+645,Massachusetts,GPE
+646,1843,DATE
+647,the United States,GPE
+648,State,ORG
+649,Massachusetts,GPE
+650,1843,DATE
+651,Commonwealth,ORG
+652,third,ORDINAL
+653,Congress,ORG
+654,"February 12, 1793",DATE
+655,Commonwealth,ORG
+656,Commonwealth,ORG
+657,Commonwealth,ORG
+658,third,ORDINAL
+659,Congress,ORG
+660,"1,000",MONEY
+661,one year,DATE
+662,two,CARDINAL
+663,first,ORDINAL
+664,Commonwealth,ORG
+665,Congress,ORG
+666,1793,DATE
+667,second,ORDINAL
+668,State,ORG
+669,State,ORG
+670,Congress,ORG
+671,the Constitution of the United States,LAW
+672,one,CARDINAL
+673,State,ORG
+674,State,ORG
+675,Congress,ORG
+676,one,CARDINAL
+677,State,ORG
+678,Congress,ORG
+679,the United States,GPE
+680,State,ORG
+681,State,ORG
+682,the United States,GPE
+683,the United States,GPE
+684,Massachusetts,GPE
+685,Navy,ORG
+686,October 28,DATE
+687,Massachusetts,GPE
+688,1843,DATE
+689,some days,DATE
+690,Senate,ORG
+691,18th,ORDINAL
+692,Boston,GPE
+693,Navy,ORG
+694,the Department of State,ORG
+695,the United States,GPE
+696,Massachusetts,GPE
+697,Senate,ORG
+698,Constitution,LAW
+699,Army,ORG
+700,Navy,ORG
+701,the United States,GPE
+702,States,GPE
+703,the United States,GPE
+704,Congress,ORG
+705,Army,ORG
+706,Navy,ORG
+707,Constitution,LAW
+708,Executive,ORG
+709,Congress,ORG
+710,Army,ORG
+711,Navy,ORG
+712,Congress,ORG
+713,Constitution,LAW
+714,Congress,ORG
+715,"February 28, 1795",DATE
+716,State,ORG
+717,the United States,GPE
+718,the United States,GPE
+719,the United States,GPE
+720,Congress,ORG
+721,the Regular Army,ORG
+722,"the act of March 3, 1807",DATE
+723,the United States,GPE
+724,Constitution,LAW
+725,Army,ORG
+726,Navy,ORG
+727,1807,DATE
+728,Congress,ORG
+729,Congress,ORG
+730,Army,ORG
+731,Navy,ORG
+732,the United States,GPE
+733,Congress,ORG
+734,Constitution,LAW
+735,"April 25, 1851",DATE
+736,Warning Against Participating,ORG
+737,Cuba,GPE
+738,the United States,GPE
+739,Cuba,GPE
+740,Spain,GPE
+741,the United States,GPE
+742,the United States,GPE
+743,"3,000",MONEY
+744,more than three years,DATE
+745,A. D. 1851,NORP
+746,the seventy-fifth,DATE
+747,Senate,ORG
+748,the House of Representatives,ORG
+749,first,ORDINAL
+750,one,CARDINAL
+751,a year,DATE
+752,Providence,GPE
+753,Congress,ORG
+754,Cubans,NORP
+755,the United States,GPE
+756,Cuba,GPE
+757,the United States,GPE
+758,the United States,GPE
+759,early in the morning,TIME
+760,3d,CARDINAL
+761,Pampero,ORG
+762,New Orleans,GPE
+763,Cuba,GPE
+764,400,CARDINAL
+765,the United States,GPE
+766,Spaniard,NORP
+767,the United States,GPE
+768,the eastern quarter,DATE
+769,Cuba,GPE
+770,New Orleans,GPE
+771,Key West,LOC
+772,Cuba,GPE
+773,the night,TIME
+774,11th,ORDINAL
+775,Playtas,NORP
+776,about 20,CARDINAL
+777,Havana,GPE
+778,6,CARDINAL
+779,about 4,CARDINAL
+780,the morning of the 13th,TIME
+781,Spanish,NORP
+782,about 50,CARDINAL
+783,Spanish,NORP
+784,Havana,GPE
+785,the 16th of August,DATE
+786,Foxhall A. Parker,PERSON
+787,Saranac,ORG
+788,Havana,GPE
+789,the Department of State,ORG
+790,Spanish,NORP
+791,Spanish,NORP
+792,Spanish,NORP
+793,the 24th of August,DATE
+794,Lopez,ORG
+795,some days,DATE
+796,the 1st of September,DATE
+797,about 160,CARDINAL
+798,Spain,GPE
+799,Spain,GPE
+800,the United States,GPE
+801,Spain,GPE
+802,the United States,GPE
+803,the United States,GPE
+804,Congress,ORG
+805,Cuba,GPE
+806,Spanish,NORP
+807,the United States,GPE
+808,Cuban,NORP
+809,Lopez,ORG
+810,Cuba,GPE
+811,Cuba,GPE
+812,the United States,GPE
+813,the Administration of Washington,ORG
+814,"April, 1818",DATE
+815,the United States,GPE
+816,the United States,GPE
+817,"3,000",MONEY
+818,more than three years,DATE
+819,that day,DATE
+820,the United States,GPE
+821,one,CARDINAL
+822,British,NORP
+823,Parliament,ORG
+824,Crown,ORG
+825,America,GPE
+826,the days,DATE
+827,Washington,GPE
+828,Jefferson,PERSON
+829,Congress,ORG
+830,the Parliament of England,ORG
+831,England,GPE
+832,George II,PERSON
+833,English,LANGUAGE
+834,Stuart,ORG
+835,England,GPE
+836,"3,000",CARDINAL
+837,"4,000 miles",QUANTITY
+838,The Governments of Great Britain,ORG
+839,France,GPE
+840,West India,GPE
+841,Cuba,GPE
+842,State,ORG
+843,the Department of State,ORG
+844,State,ORG
+845,the French Republic,GPE
+846,two,CARDINAL
+847,Europe,LOC
+848,the United States,GPE
+849,the United States,GPE
+850,American,NORP
+851,American,NORP
+852,the United States,GPE
+853,British,NORP
+854,the Department of State,ORG
+855,State,ORG
+856,the United States Government,GPE
+857,the Department of State,ORG
+858,the French Government,ORG
+859,French,NORP
+860,the United States,GPE
+861,the United States,GPE
+862,Havana,GPE
+863,New Orleans,GPE
+864,Spanish,NORP
+865,the United States,GPE
+866,New Orleans,GPE
+867,State,ORG
+868,New Orleans,GPE
+869,Congress,ORG
+870,the United States,GPE
+871,Canada,GPE
+872,British,NORP
+873,Britannic Majesty's,ORG
+874,the British Government,ORG
+875,British,NORP
+876,Washington,GPE
+877,the Department of State,ORG
+878,Britannic Majesty's Government,ORG
+879,Oregon,GPE
+880,British,NORP
+881,Congress,ORG
+882,the United States,GPE
+883,the United States,GPE
+884,Portugal,GPE
+885,first,ORDINAL
+886,Portugal,GPE
+887,the 30th of September,DATE
+888,the French Republic,GPE
+889,the General Armstrong,ORG
+890,two,CARDINAL
+891,France,GPE
+892,The Turkish Government,ORG
+893,Sultan,ORG
+894,Amin Bey,PERSON
+895,the United States,GPE
+896,the 28th of February,DATE
+897,State,ORG
+898,Marsh,PERSON
+899,American,NORP
+900,Turkish Government,ORG
+901,Hungarians,NORP
+902,the Sublime Porte,ORG
+903,the 3d of March,DATE
+904,Houses of Congress,ORG
+905,Louis Kossuth,PERSON
+906,Kossuth,PERSON
+907,the 10th of September,DATE
+908,the United States,GPE
+909,Mississippi,GPE
+910,Congress,ORG
+911,Kossuth,PERSON
+912,England,GPE
+913,New York,GPE
+914,the Department of State,ORG
+915,Europe,LOC
+916,Congress,ORG
+917,Kossuth,PERSON
+918,the French Republic,GPE
+919,the United States,GPE
+920,Pacific,LOC
+921,the Hawaiian Government,ORG
+922,first,ORDINAL
+923,Europe,LOC
+924,North America,LOC
+925,Asia,LOC
+926,the United States,GPE
+927,California,GPE
+928,Oregon,GPE
+929,the Mexican Republic,GPE
+930,the United States,GPE
+931,the State of Tamaulipas,GPE
+932,the Rio Bravo,GPE
+933,the United States,GPE
+934,Mexico,GPE
+935,the United States,GPE
+936,Congress,ORG
+937,the United States,GPE
+938,two,CARDINAL
+939,the Isthmus of Tehuantepec,FAC
+940,the Mexican Government,ORG
+941,Mexico,GPE
+942,the United States,GPE
+943,two,CARDINAL
+944,Congress,ORG
+945,Mexico,GPE
+946,only one,CARDINAL
+947,Mexico,GPE
+948,Mexico,GPE
+949,the Republic of Mexico,GPE
+950,some months past the Republic of Nicaragua,DATE
+951,one,CARDINAL
+952,the States of Central America,ORG
+953,two,CARDINAL
+954,Pacific,LOC
+955,the Isthmus of Panama,FAC
+956,two,CARDINAL
+957,Atlantic,LOC
+958,Gulf of Mexico,LOC
+959,Pacific,LOC
+960,St. Domingo,GPE
+961,the United States,GPE
+962,China,GPE
+963,annual,DATE
+964,"6,000",MONEY
+965,Congress,ORG
+966,China,GPE
+967,the Pacific Coast,LOC
+968,Asia,LOC
+969,China,GPE
+970,American,NORP
+971,the Courts of Europe,ORG
+972,Treasury,ORG
+973,the last fiscal year,DATE
+974,"52,312,979.87",MONEY
+975,Treasury,ORG
+976,"the 1st July, 1850",DATE
+977,the year,DATE
+978,"58,917,524.36",MONEY
+979,"48,005,878.68",MONEY
+980,"the year ending June 30, 1851",DATE
+981,"215,725,995",MONEY
+982,"4,967,901",MONEY
+983,"217,517,130",MONEY
+984,"178,546,555",MONEY
+985,"9,738,695",MONEY
+986,"29,231,880",MONEY
+987,the 1st of December,DATE
+988,"7,501,456.56",MONEY
+989,"3,242,400",MONEY
+990,twelfth,ORDINAL
+991,Mexico,GPE
+992,"2,591,213.45",MONEY
+993,American,NORP
+994,Mexico,GPE
+995,Treasury,ORG
+996,the 20th,DATE
+997,Texas,GPE
+998,"September, 1850",DATE
+999,"62,560,395.26",MONEY
+1000,the next fiscal year,DATE
+1001,"51,800,000",MONEY
+1002,Treasury,ORG
+1003,the 30th June next,DATE
+1004,that year,DATE
+1005,"63,258,743.09",MONEY
+1006,Mexico,GPE
+1007,the next fiscal year,DATE
+1008,Congress,ORG
+1009,Treasury,ORG
+1010,the next fiscal year,DATE
+1011,"42,892,299.19",MONEY
+1012,"33,343,198.08",MONEY
+1013,"9,549,101.11",MONEY
+1014,Treasury,ORG
+1015,Congress,ORG
+1016,Treasury,ORG
+1017,"the 30th June, 1853",DATE
+1018,"20,366,443.90",MONEY
+1019,the 1st of July,DATE
+1020,"6,237,931.35",MONEY
+1021,Congress,ORG
+1022,the last fiscal year,DATE
+1023,the previous year,DATE
+1024,"43,646,322",MONEY
+1025,first,ORDINAL
+1026,the last fiscal year,DATE
+1027,the first half of that year,DATE
+1028,about one-half,CARDINAL
+1029,"68,701,921",MONEY
+1030,1847,DATE
+1031,"26,051,373",MONEY
+1032,1850,DATE
+1033,"21,948,653",MONEY
+1034,1851,DATE
+1035,the current year,DATE
+1036,the last fiscal year,DATE
+1037,the previous year,DATE
+1038,"460,917",MONEY
+1039,two,CARDINAL
+1040,"1,156,751",MONEY
+1041,England,GPE
+1042,American,NORP
+1043,Europe,LOC
+1044,the past year,DATE
+1045,"40,000,000",MONEY
+1046,the year,DATE
+1047,the preceding year,DATE
+1048,last year,DATE
+1049,the present fiscal year,DATE
+1050,"at least $ 40,000,000",MONEY
+1051,"the year ending 30th June, 1851",DATE
+1052,California,GPE
+1053,the past year,DATE
+1054,that quarter,DATE
+1055,annual,DATE
+1056,American,NORP
+1057,the past fiscal year,DATE
+1058,"24,963,979",MONEY
+1059,the first quarter,DATE
+1060,fiscal year,DATE
+1061,"14,651,827",MONEY
+1062,the remaining three quarters of this year,DATE
+1063,"the year ending 30th June, 1852",DATE
+1064,"58,607,308",MONEY
+1065,Congress,ORG
+1066,Treasury,ORG
+1067,Congress,ORG
+1068,Congress,ORG
+1069,"9th September, 1850",DATE
+1070,Texas,GPE
+1071,The United States,GPE
+1072,Texas,GPE
+1073,"10,000,000",MONEY
+1074,5,CARDINAL
+1075,the end of fourteen years,DATE
+1076,half-yearly,DATE
+1077,Treasury,ORG
+1078,the United States,GPE
+1079,no more than five millions,CARDINAL
+1080,State,ORG
+1081,Texas,GPE
+1082,first,ORDINAL
+1083,Treasury,ORG
+1084,the United States,GPE
+1085,the United States,GPE
+1086,Treasury,ORG
+1087,the United States,GPE
+1088,Treasury,ORG
+1089,the United States,GPE
+1090,Treasury,ORG
+1091,the United States,GPE
+1092,"the 1st day of October, 1851",DATE
+1093,"the 25th day of March, 1851",DATE
+1094,1st of October,DATE
+1095,Texas,GPE
+1096,Texas,GPE
+1097,Treasury,ORG
+1098,State,ORG
+1099,Texas,GPE
+1100,Congress,ORG
+1101,9th,ORDINAL
+1102,1850,DATE
+1103,Texas,GPE
+1104,five millions,CARDINAL
+1105,5 per cent,MONEY
+1106,"the 1st day of January, 1851",DATE
+1107,Texas,GPE
+1108,Texas,GPE
+1109,Treasury Department,ORG
+1110,Texas,GPE
+1111,Treasury,ORG
+1112,five millions,CARDINAL
+1113,Texas,GPE
+1114,State,ORG
+1115,Congress,ORG
+1116,Treasury,ORG
+1117,Interior,ORG
+1118,Department of the Government,ORG
+1119,the preceding year,DATE
+1120,States,GPE
+1121,California,GPE
+1122,Oregon,GPE
+1123,the 3d of March,DATE
+1124,three,CARDINAL
+1125,California,GPE
+1126,Three,CARDINAL
+1127,the 10th of September,DATE
+1128,first,ORDINAL
+1129,San Francisco,GPE
+1130,the 8th day,DATE
+1131,the present month,DATE
+1132,California,GPE
+1133,Congress,ORG
+1134,California,GPE
+1135,Oregon,GPE
+1136,an early day,DATE
+1137,Territorial,NORP
+1138,New Mexico,GPE
+1139,Utah,GPE
+1140,Congress,ORG
+1141,Four-fifths,DATE
+1142,daily,DATE
+1143,Justice,ORG
+1144,Constitution,LAW
+1145,Congress,ORG
+1146,Congress,ORG
+1147,Washington,GPE
+1148,Congress,ORG
+1149,Congress,ORG
+1150,"28th September, 1850",DATE
+1151,"100,000",CARDINAL
+1152,"about 70,000",CARDINAL
+1153,nine months,DATE
+1154,Department,ORG
+1155,the next fiscal year,DATE
+1156,Interior,ORG
+1157,Indian,NORP
+1158,New Mexico,GPE
+1159,California,GPE
+1160,Utah,GPE
+1161,Oregon,GPE
+1162,the last year,DATE
+1163,Indian,NORP
+1164,the Northwestern Territory,ORG
+1165,the Mississippi River,LOC
+1166,Mexican,NORP
+1167,California,GPE
+1168,Oregon,GPE
+1169,Indians,NORP
+1170,the year,DATE
+1171,Senate,ORG
+1172,Guadalupe Hidalgo,PERSON
+1173,the United States,GPE
+1174,Mexico,GPE
+1175,annual,DATE
+1176,Interior,ORG
+1177,Pacific,LOC
+1178,the Colorado River,LOC
+1179,about 150 miles,QUANTITY
+1180,the Rio Grande,GPE
+1181,32 degrees 22,QUANTITY
+1182,about 150 miles,QUANTITY
+1183,first,ORDINAL
+1184,States,GPE
+1185,Territories,GPE
+1186,California,GPE
+1187,State,ORG
+1188,Representatives,ORG
+1189,States,GPE
+1190,"May 23, 1850",DATE
+1191,Interior,ORG
+1192,Congress,ORG
+1193,Interior,ORG
+1194,Great Lakes,GPE
+1195,Congress,ORG
+1196,annually,DATE
+1197,Lakes,FAC
+1198,Northwest,ORG
+1199,Mississippi,GPE
+1200,Congress,ORG
+1201,Delta,LOC
+1202,Mississippi,GPE
+1203,Mexican,NORP
+1204,Indian,NORP
+1205,Congress,ORG
+1206,Mexican,NORP
+1207,Guadalupe Hidalgo,PERSON
+1208,Mexico,GPE
+1209,Mexican,NORP
+1210,Indian,NORP
+1211,Mexico,GPE
+1212,States,GPE
+1213,Mexico,GPE
+1214,Indians,NORP
+1215,Mexico,GPE
+1216,Mexican,NORP
+1217,Indians,NORP
+1218,Indians,NORP
+1219,California,GPE
+1220,Mexican,NORP
+1221,Pacific,LOC
+1222,Army,ORG
+1223,Army,ORG
+1224,the current fiscal year ending 30th June,DATE
+1225,Department,ORG
+1226,the year ending 30th June,DATE
+1227,"9,060,268.58",MONEY
+1228,the year commencing 1st,DATE
+1229,July,DATE
+1230,"June 30, 1853",DATE
+1231,"7,898,775.83",MONEY
+1232,"1,161,492.75",MONEY
+1233,March,DATE
+1234,Navy,ORG
+1235,the present year,DATE
+1236,the various quarters,DATE
+1237,Lieutenant De Haven,PERSON
+1238,British,NORP
+1239,John Franklin,PERSON
+1240,New York,GPE
+1241,the month of October,DATE
+1242,the South Seas,LOC
+1243,Navy,ORG
+1244,Navy,ORG
+1245,Army,ORG
+1246,Navy,ORG
+1247,Navy,ORG
+1248,one,CARDINAL
+1249,Legislature,ORG
+1250,Congress,ORG
+1251,New York,GPE
+1252,ten years,DATE
+1253,Philadelphia,GPE
+1254,Portsmouth,GPE
+1255,N. H.,PERSON
+1256,Congress,ORG
+1257,the Bay of San Francisco,LOC
+1258,Department,ORG
+1259,Pacific,LOC
+1260,The Naval Academy,ORG
+1261,Annapolis,ORG
+1262,the Military Academy,ORG
+1263,three or four months in each year,DATE
+1264,the Navy Department,ORG
+1265,Lieutenant Maury,PERSON
+1266,Atlantic,LOC
+1267,Pacific,LOC
+1268,about forty days,DATE
+1269,Navy,ORG
+1270,Marine Corps,ORG
+1271,fiscal year,DATE
+1272,"5,856,472.19",MONEY
+1273,the current year,DATE
+1274,"5,900,621",MONEY
+1275,"2,684,220.89",MONEY
+1276,"2,210,980",MONEY
+1277,the present year,DATE
+1278,the Pacific Coast,LOC
+1279,California,GPE
+1280,Congress,ORG
+1281,navy-yards,QUANTITY
+1282,navy-yards,QUANTITY
+1283,Department,ORG
+1284,Department,ORG
+1285,the last fiscal year,DATE
+1286,the United States,GPE
+1287,"196,290 miles",QUANTITY
+1288,annual,DATE
+1289,"53,272,252 miles",QUANTITY
+1290,annual,DATE
+1291,"3,421,754",MONEY
+1292,"18,349 miles",QUANTITY
+1293,annual,DATE
+1294,"615,206 miles",QUANTITY
+1295,annual,DATE
+1296,"1,472,187",MONEY
+1297,"448,937",MONEY
+1298,the Post-Office Department,ORG
+1299,"1,023,250",MONEY
+1300,the Navy Department,ORG
+1301,annual,DATE
+1302,the United States,GPE
+1303,California,GPE
+1304,Oregon,GPE
+1305,first,ORDINAL
+1306,Department,ORG
+1307,the preceding year,DATE
+1308,"6,162,855 miles",QUANTITY
+1309,"547,110",MONEY
+1310,the United States,GPE
+1311,the 30th day of June,DATE
+1312,"19,796",CARDINAL
+1313,"1,698",CARDINAL
+1314,256,CARDINAL
+1315,the year,DATE
+1316,the Department for,ORG
+1317,the fiscal year,DATE
+1318,Congress,ORG
+1319,Departments,ORG
+1320,British,NORP
+1321,"6,727,866.78",MONEY
+1322,"20,599.49",MONEY
+1323,Auditor,PRODUCT
+1324,Congress,ORG
+1325,Ohio,GPE
+1326,Mississippi,GPE
+1327,1832,DATE
+1328,1833,DATE
+1329,British,NORP
+1330,"6,024,566.79",MONEY
+1331,the year,DATE
+1332,"703,299.99",MONEY
+1333,the year,DATE
+1334,British,NORP
+1335,"6,345,747.21",MONEY
+1336,"997,610.79",MONEY
+1337,18.65 per cent,MONEY
+1338,the preceding year,DATE
+1339,March,DATE
+1340,the present fiscal year,DATE
+1341,the first quarter,DATE
+1342,January,DATE
+1343,the present year,DATE
+1344,the last year,DATE
+1345,Treasury,ORG
+1346,Department,ORG
+1347,the current fiscal year,DATE
+1348,"the year ending June 30, 1853",DATE
+1349,the first two quarters of the fiscal year,DATE
+1350,Congress,ORG
+1351,Treasury,ORG
+1352,California,GPE
+1353,Oregon,GPE
+1354,Congress,ORG
+1355,the United States,GPE
+1356,more than sixty years,DATE
+1357,the United States,GPE
+1358,States,GPE
+1359,the United States,GPE
+1360,the United States,GPE
+1361,Congress,ORG
+1362,Congress,ORG
+1363,"30th September, 1850",DATE
+1364,Capitol,FAC
+1365,"100,000",MONEY
+1366,Senate,ORG
+1367,two,CARDINAL
+1368,Houses of Congress,ORG
+1369,two,CARDINAL
+1370,Legislature,ORG
+1371,Capitol,FAC
+1372,Congress,ORG
+1373,the 4th day of July,DATE
+1374,the District of Columbia,GPE
+1375,Representatives,ORG
+1376,Congress,ORG
+1377,Congress,ORG
+1378,the United States,GPE
+1379,Congress,ORG
+1380,one,CARDINAL
+1381,Congress,ORG
+1382,one,CARDINAL
+1383,Constitution,LAW
+1384,Constitution,LAW
+1385,one,CARDINAL
+1386,State,ORG
+1387,the United States,GPE
+1388,Congress,ORG
+1389,first,ORDINAL
+1390,Washington,GPE
+1391,Congress,ORG
+1392,Constitution,LAW
+1393,the United States,GPE
+1394,Constitution,LAW
+1395,Constitution,LAW
+1396,Constitution,LAW
+1397,Constitution,LAW
+1398,daily,DATE
+1399,Constitution,LAW
+1400,Congress,ORG
+1401,Constitution,LAW
+1402,Congress,ORG
+1403,Constitution,LAW
+1404,Constitution,LAW
+1405,Revolutionary,ORG
+1406,many months,DATE
+1407,one,CARDINAL
+1408,thousands,CARDINAL
+1409,Union,ORG
+1410,Fellow Citizens,PERSON
+1411,Senate,ORG
+1412,the House of Representatives,ORG
+1413,Providence,GPE
+1414,a few weeks,DATE
+1415,Daniel Webster,PERSON
+1416,State,ORG
+1417,the last summer,DATE
+1418,Great Britain,GPE
+1419,British,NORP
+1420,North America,LOC
+1421,the United States,GPE
+1422,France,GPE
+1423,the season of the year,DATE
+1424,first,ORDINAL
+1425,British,NORP
+1426,1818,DATE
+1427,two,CARDINAL
+1428,Great Britain,GPE
+1429,London,GPE
+1430,two,CARDINAL
+1431,first,ORDINAL
+1432,1818,DATE
+1433,American,NORP
+1434,nine or ten years,DATE
+1435,twenty-five years,DATE
+1436,1845,DATE
+1437,the Bay of Fundy,LOC
+1438,the United States,GPE
+1439,the Bay of Fundy,LOC
+1440,1845,DATE
+1441,1846,DATE
+1442,British,NORP
+1443,Great Britain,GPE
+1444,one,CARDINAL
+1445,the United States,GPE
+1446,the British Provinces,ORG
+1447,State,ORG
+1448,two,CARDINAL
+1449,the present winter,DATE
+1450,Congress,ORG
+1451,Cuba,GPE
+1452,Cuban,NORP
+1453,the United States,GPE
+1454,Cuba,GPE
+1455,Spanish,NORP
+1456,Washington,GPE
+1457,Mexico,GPE
+1458,Havana,GPE
+1459,Vera Cruz,GPE
+1460,the Captain-General,ORG
+1461,Madrid,GPE
+1462,the Government of Her Catholic Majesty,ORG
+1463,the Captain-General,ORG
+1464,the United States,GPE
+1465,Havana,GPE
+1466,the present year,DATE
+1467,France,GPE
+1468,England,GPE
+1469,the United States,GPE
+1470,Great Britain,GPE
+1471,France,GPE
+1472,three,CARDINAL
+1473,Cuba,GPE
+1474,France,GPE
+1475,England,GPE
+1476,the United States,GPE
+1477,Cuba,GPE
+1478,Spain,GPE
+1479,South,LOC
+1480,the Mexican Congress,ORG
+1481,the United States,GPE
+1482,the Isthmus of Tehuantepec,FAC
+1483,the United States,GPE
+1484,Mexico,GPE
+1485,one,CARDINAL
+1486,Governments,ORG
+1487,Senate,ORG
+1488,the United States,GPE
+1489,San Juan de,GPE
+1490,Republics,GPE
+1491,Costa Rica,GPE
+1492,Nicaragua,GPE
+1493,two,CARDINAL
+1494,the United States,GPE
+1495,Great Britain,GPE
+1496,"the 19th of April, 1850",DATE
+1497,two,CARDINAL
+1498,that quarter,DATE
+1499,the Mosquito Indians,NORP
+1500,April,DATE
+1501,State,ORG
+1502,two,CARDINAL
+1503,Republics,GPE
+1504,two,CARDINAL
+1505,one,CARDINAL
+1506,San Juan de,GPE
+1507,Nicaragua,GPE
+1508,Costs Rica,GPE
+1509,the Mosquito Indians,NORP
+1510,Nicaragua,GPE
+1511,Venezuela,GPE
+1512,the United States,GPE
+1513,Caracas,GPE
+1514,Congress,ORG
+1515,Buenos Ayres,ORG
+1516,the Confederated States,GPE
+1517,that quarter,DATE
+1518,the Governments of Great Britain,ORG
+1519,France,GPE
+1520,the La Plata,FAC
+1521,the United States,GPE
+1522,Rio Janeiro,GPE
+1523,Buenos Ayres,FAC
+1524,States,GPE
+1525,the United States,GPE
+1526,the Oriental Republic of Uruguay,GPE
+1527,Senate,ORG
+1528,State,ORG
+1529,Peruvian,NORP
+1530,the Lobos Islands,LOC
+1531,Congress,ORG
+1532,Peru,GPE
+1533,Peru,GPE
+1534,Washington,GPE
+1535,Lima,GPE
+1536,American,NORP
+1537,Lobos,PERSON
+1538,the Peruvian Government,ORG
+1539,Peruvian,NORP
+1540,Pacific,LOC
+1541,Asia,LOC
+1542,the Northern Pacific,LOC
+1543,the Arctic Sea,LOC
+1544,daily,DATE
+1545,Asia,LOC
+1546,Pacific,LOC
+1547,States,GPE
+1548,Pacific,LOC
+1549,Asia,LOC
+1550,the United States,GPE
+1551,Japan,GPE
+1552,about two centuries,DATE
+1553,the United States,GPE
+1554,Asia,LOC
+1555,the United States,GPE
+1556,China,GPE
+1557,the United States,GPE
+1558,the King of the Netherlands,WORK_OF_ART
+1559,European,NORP
+1560,Japan,GPE
+1561,Congress,ORG
+1562,Department of the Government,ORG
+1563,the Department of State,ORG
+1564,the Department of the Interior,ORG
+1565,Congressional,NORP
+1566,the United States,GPE
+1567,the Department of State,ORG
+1568,the State Department,ORG
+1569,Washington,GPE
+1570,Jefferson,GPE
+1571,Hamilton,PERSON
+1572,Madison,PERSON
+1573,Monroe,PERSON
+1574,the War and,EVENT
+1575,Treasury,ORG
+1576,annual,DATE
+1577,Treasury,ORG
+1578,the fiscal year ending the 30th June last,DATE
+1579,"49,728,386.89",MONEY
+1580,"46,007,896.20",MONEY
+1581,"9,455,815.83",MONEY
+1582,Mexico,GPE
+1583,Guadalupe Hidalgo,PERSON
+1584,"14,632,136.37",MONEY
+1585,Treasury,ORG
+1586,the 1st day of July,DATE
+1587,"2,456,547.49",MONEY
+1588,Treasury,ORG
+1589,the last fiscal year,DATE
+1590,"207,240,101",MONEY
+1591,"149,861,911",MONEY
+1592,"17,204,026",MONEY
+1593,"167,065,937",MONEY
+1594,"42,507,285",MONEY
+1595,"5,262,643",MONEY
+1596,first,ORDINAL
+1597,Congress,ORG
+1598,one,CARDINAL
+1599,two,CARDINAL
+1600,first,ORDINAL
+1601,California,GPE
+1602,Europe,LOC
+1603,second,ORDINAL
+1604,thousands,CARDINAL
+1605,third,ORDINAL
+1606,England,GPE
+1607,Constitution,LAW
+1608,Treasury,ORG
+1609,the United States,GPE
+1610,Treasury,ORG
+1611,Indian,NORP
+1612,Interior,ORG
+1613,Senate,ORG
+1614,Indians,NORP
+1615,California,GPE
+1616,Oregon,GPE
+1617,Indians,NORP
+1618,California,GPE
+1619,Oregon,GPE
+1620,Indians,NORP
+1621,Congress,ORG
+1622,Congress,ORG
+1623,Justice,ORG
+1624,Indians,NORP
+1625,Congress,ORG
+1626,Senate,ORG
+1627,the Sioux Indians,LOC
+1628,Minnesota,GPE
+1629,Seminole Indians,NORP
+1630,Florida,GPE
+1631,Indian Affairs,ORG
+1632,Washington,GPE
+1633,an early day,DATE
+1634,the General Land Office,ORG
+1635,Iowa,GPE
+1636,the last year,DATE
+1637,"9,522,953 acres",QUANTITY
+1638,"8,032,463 acres",QUANTITY
+1639,the last fiscal year,DATE
+1640,"1,553,071",CARDINAL
+1641,"3,201,314",CARDINAL
+1642,"115,682",CARDINAL
+1643,"4,870,067",CARDINAL
+1644,"5,219,188",CARDINAL
+1645,"3,025,920",CARDINAL
+1646,"13,115,175",CARDINAL
+1647,"569,220 acres",QUANTITY
+1648,the previous year,DATE
+1649,the previous year,DATE
+1650,"3,342,372 acres",QUANTITY
+1651,Missouri,GPE
+1652,Mississippi,GPE
+1653,Alabama,GPE
+1654,"the quarter ending 30th September, 1852",DATE
+1655,"243,255",CARDINAL
+1656,"1,387,116",CARDINAL
+1657,"15,649",CARDINAL
+1658,"2,485,233",CARDINAL
+1659,the quarter,DATE
+1660,"4,131,253 Much",PERCENT
+1661,Congress,ORG
+1662,Interior,ORG
+1663,Interior,ORG
+1664,"100,000",MONEY
+1665,the District of Columbia,GPE
+1666,Army,ORG
+1667,Navy,ORG
+1668,the United States,GPE
+1669,Mexican,NORP
+1670,Colorado,GPE
+1671,New Mexico,GPE
+1672,the Rio Grande,GPE
+1673,New Mexico,GPE
+1674,a point 135 miles,QUANTITY
+1675,Eagle Pass,PRODUCT
+1676,about two-thirds,CARDINAL
+1677,Congress,ORG
+1678,the United States,GPE
+1679,New Mexico,GPE
+1680,the United States,GPE
+1681,Disturnell,PERSON
+1682,the Department of the Interior,ORG
+1683,Department,ORG
+1684,New Mexico,GPE
+1685,Department,ORG
+1686,the Rio Grande,LOC
+1687,New Mexico,GPE
+1688,the Rio Grande,GPE
+1689,the Rio Grande,ORG
+1690,Mexico,GPE
+1691,two,CARDINAL
+1692,the District of Columbia,GPE
+1693,Constitution,LAW
+1694,Washington,GPE
+1695,Potomac,NORP
+1696,the present year,DATE
+1697,Congress,ORG
+1698,Washington,GPE
+1699,Mexican States,LOC
+1700,Indian,NORP
+1701,"about 11,000",CARDINAL
+1702,Army,ORG
+1703,"nearly 8,000",CARDINAL
+1704,Texas,GPE
+1705,California,GPE
+1706,Oregon,GPE
+1707,the Rio Grande,GPE
+1708,Indians,NORP
+1709,two,CARDINAL
+1710,the United States,GPE
+1711,Indian,NORP
+1712,Texas,GPE
+1713,State,ORG
+1714,State,ORG
+1715,Indians,NORP
+1716,Indians,NORP
+1717,State,ORG
+1718,Mexico,GPE
+1719,Indians,NORP
+1720,Texas,GPE
+1721,two,CARDINAL
+1722,Congress,ORG
+1723,1816,DATE
+1724,Boston,GPE
+1725,New Orleans,GPE
+1726,Department,ORG
+1727,the Navy Department,ORG
+1728,the past year,DATE
+1729,Japan,GPE
+1730,the China Seas,ORG
+1731,the Northern Pacific,LOC
+1732,Behrings Straits,ORG
+1733,Africa,LOC
+1734,Liberia,GPE
+1735,La Plata,FAC
+1736,the Argentine Confederation,ORG
+1737,Two,CARDINAL
+1738,Navy,ORG
+1739,the Amazon River,LOC
+1740,Peru,GPE
+1741,one,CARDINAL
+1742,Navy,ORG
+1743,Navy,ORG
+1744,the Naval Academy,ORG
+1745,first,ORDINAL
+1746,"September, 1850",DATE
+1747,Navy,ORG
+1748,1850,DATE
+1749,Navy,ORG
+1750,Executive,ORG
+1751,Navy,ORG
+1752,Navy,ORG
+1753,the Navy Department,ORG
+1754,the Naval Academy,ORG
+1755,the Postmaster General,ORG
+1756,the last fiscal year,DATE
+1757,"1,431,696",MONEY
+1758,the preceding fiscal year,DATE
+1759,about 23 per cent,MONEY
+1760,"the act of March 3, 1851",DATE
+1761,the last fiscal year,DATE
+1762,the last year,DATE
+1763,Congress,ORG
+1764,the United States,GPE
+1765,10th,ORDINAL
+1766,1838,DATE
+1767,California,GPE
+1768,Territory,PERSON
+1769,Oregon,GPE
+1770,the Mississippi Valley,LOC
+1771,the Pacific Ocean,LOC
+1772,Indians,NORP
+1773,Mexico,GPE
+1774,Indians,NORP
+1775,Army,ORG
+1776,Navy,ORG
+1777,Navy,ORG
+1778,the United States,GPE
+1779,Congress,ORG
+1780,the United States,GPE
+1781,Congress,ORG
+1782,Departments,ORG
+1783,Treasury,ORG
+1784,the present day,DATE
+1785,Europe,LOC
+1786,the French Revolution,EVENT
+1787,Washington,GPE
+1788,hundreds of thousands,CARDINAL
+1789,Europe,LOC
+1790,the United States,GPE
+1791,a few years,DATE
+1792,Europe,LOC
+1793,months,DATE
+1794,a few days ',DATE
+1795,Europe,LOC
+1796,American,NORP
+1797,Europe,LOC
+1798,republican,NORP
+1799,France,GPE
+1800,republican,NORP
+1801,the National Convention,WORK_OF_ART
+1802,French,NORP
+1803,Europe,LOC
+1804,less than ten years,DATE
+1805,Europe,LOC
+1806,English,NORP
+1807,Revolution,EVENT
+1808,European,NORP
+1809,the last half century,DATE
+1810,States,GPE
+1811,Mississippi,LOC
+1812,Pacific,LOC
+1813,one,CARDINAL
+1814,American,NORP
+1815,one,CARDINAL
+1816,Constitution,LAW
+1817,Constitution,LAW
+1818,annually,DATE
+1819,the Old World,LOC
+1820,Constitution and Government,WORK_OF_ART

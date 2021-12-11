@@ -1,0 +1,202 @@
+,ent,ent_label
+0,Constitution,LAW
+1,two thousand years,DATE
+2,Union,GPE
+3,a few months,DATE
+4,Constitution,LAW
+5,the United States,GPE
+6,American,NORP
+7,democrat,NORP
+8,Athens,GPE
+9,Constitution,LAW
+10,American,NORP
+11,the United Stages,GPE
+12,Constitution,LAW
+13,Constitution,LAW
+14,Constitution,LAW
+15,one,CARDINAL
+16,first,ORDINAL
+17,the day,DATE
+18,the Federal Government,ORG
+19,some years,DATE
+20,Constitution,LAW
+21,second,ORDINAL
+22,Jefferson,PERSON
+23,States,GPE
+24,one,CARDINAL
+25,Constitution,LAW
+26,republican,NORP
+27,the declining years,DATE
+28,Constitution,LAW
+29,second,ORDINAL
+30,Constitution,LAW
+31,Executive,ORG
+32,one,CARDINAL
+33,Constitution,LAW
+34,the United States,GPE
+35,Constitution,LAW
+36,Legislature,ORG
+37,Legislature,ORG
+38,Constitution,LAW
+39,Executive,ORG
+40,two-thirds,CARDINAL
+41,Houses of Congress,ORG
+42,one,CARDINAL
+43,Union,ORG
+44,Constitution,LAW
+45,State,ORG
+46,two,CARDINAL
+47,Constitution,LAW
+48,State,ORG
+49,two,CARDINAL
+50,every year,DATE
+51,Congress,ORG
+52,first,ORDINAL
+53,six,CARDINAL
+54,two,CARDINAL
+55,Convention,ORG
+56,one,CARDINAL
+57,Congress,ORG
+58,Constitution,LAW
+59,Convention,ORG
+60,Legislature,ORG
+61,Convention,LAW
+62,Constitution,LAW
+63,Congress,ORG
+64,Constitution,LAW
+65,State,ORG
+66,Constitution,LAW
+67,the United States,GPE
+68,first,ORDINAL
+69,Constitution,LAW
+70,secondly,ORDINAL
+71,second,ORDINAL
+72,Constitution,LAW
+73,Congress,ORG
+74,Madison,PERSON
+75,half a century,DATE
+76,States,GPE
+77,fifty years ',DATE
+78,States,GPE
+79,the Federal Government,ORG
+80,States,GPE
+81,The General Government,ORG
+82,States,GPE
+83,State,ORG
+84,State,ORG
+85,the General Government,ORG
+86,Constitution,LAW
+87,Constitution,LAW
+88,State,ORG
+89,first,ORDINAL
+90,Jefferson,PERSON
+91,Executive,ORG
+92,Constitution,LAW
+93,the United States,GPE
+94,Europe,LOC
+95,first,ORDINAL
+96,Roman,LOC
+97,Treasury,ORG
+98,Treasury,ORG
+99,Constitution,LAW
+100,the Treasury Department,ORG
+101,Legislature,ORG
+102,Treasury,ORG
+103,Houses of Congress,ORG
+104,Jefferson,PERSON
+105,Executive,ORG
+106,Congress,ORG
+107,Constitution,LAW
+108,Constitution,LAW
+109,Legislature,ORG
+110,Parliament,ORG
+111,Constitutional,NORP
+112,Parliament,ORG
+113,Constitution,LAW
+114,Constitution,LAW
+115,Senate,ORG
+116,the House of Representatives,ORG
+117,Constitution,LAW
+118,Executive,ORG
+119,republican,NORP
+120,thousands,CARDINAL
+121,one,CARDINAL
+122,republicans,NORP
+123,daily,DATE
+124,the United States,GPE
+125,District,GPE
+126,American,NORP
+127,Constitutions,PERSON
+128,British,NORP
+129,the War of the Revolution,EVENT
+130,England,GPE
+131,American,NORP
+132,States,GPE
+133,the District of Columbia,GPE
+134,the District of Columbia,GPE
+135,States,GPE
+136,American,NORP
+137,Constitution,LAW
+138,the United States,GPE
+139,American,NORP
+140,Congress,ORG
+141,the District of Columbia,GPE
+142,the United States,GPE
+143,Congress,ORG
+144,the General Government,ORG
+145,Constitution,LAW
+146,Congress,ORG
+147,one,CARDINAL
+148,American,NORP
+149,first,ORDINAL
+150,one,CARDINAL
+151,State,ORG
+152,the United States,GPE
+153,two,CARDINAL
+154,States,GPE
+155,State,ORG
+156,States,GPE
+157,Athens,GPE
+158,Greece,GPE
+159,the Helvetic Confederacy,ORG
+160,so many years,DATE
+161,Cantons,WORK_OF_ART
+162,Constitution,LAW
+163,one,CARDINAL
+164,State,ORG
+165,Constitution,LAW
+166,one,CARDINAL
+167,the Union of a,ORG
+168,the General Government,ORG
+169,States,GPE
+170,States,GPE
+171,States,GPE
+172,Constitutional,NORP
+173,States,GPE
+174,Utopian,NORP
+175,the quarter,DATE
+176,Cromwell,ORG
+177,England,GPE
+178,Bolivar,ORG
+179,two,CARDINAL
+180,one,CARDINAL
+181,English,LANGUAGE
+182,Anthony,PERSON
+183,Commonwealth,ORG
+184,Commonwealth,ORG
+185,Brutus,PERSON
+186,Curtii,ORG
+187,Decii,ORG
+188,the days,DATE
+189,Scipios,NORP
+190,annual,DATE
+191,one,CARDINAL
+192,Gaul,GPE
+193,Egypt,GPE
+194,Asia,LOC
+195,Scythia,GPE
+196,Scandinavia,LOC
+197,Capitol,FAC
+198,an Executive party,ORG
+199,Jefferson,PERSON
+200,Christian,NORP

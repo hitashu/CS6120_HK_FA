@@ -1,0 +1,465 @@
+,ent,ent_label
+0,first,ORDINAL
+1,America,GPE
+2,first,ORDINAL
+3,the Revolutionary war,EVENT
+4,Batavian,NORP
+5,a single day,DATE
+6,Congress,ORG
+7,States,GPE
+8,States,GPE
+9,America,GPE
+10,Constitution of Government,ORG
+11,first,ORDINAL
+12,the United States,GPE
+13,States,GPE
+14,State,ORG
+15,Executive,ORG
+16,Senate,ORG
+17,Congress,ORG
+18,State,ORG
+19,Constitution,LAW
+20,ten years,DATE
+21,Constitution,LAW
+22,Chamber of Congress,ORG
+23,Executive,ORG
+24,Legislature,ORG
+25,American,NORP
+26,America,GPE
+27,eight years,DATE
+28,daily,DATE
+29,year to year,DATE
+30,Houses of Congress,ORG
+31,republican,NORP
+32,the Constitution of the United States,LAW
+33,States,GPE
+34,State,ORG
+35,Constitution,LAW
+36,America,GPE
+37,Europe,LOC
+38,Houses of Congress,ORG
+39,States,GPE
+40,Congress,ORG
+41,French,NORP
+42,seven years,DATE
+43,America,GPE
+44,Legislature,ORG
+45,American,NORP
+46,Christians,NORP
+47,Christianity,NORP
+48,two,CARDINAL
+49,American,NORP
+50,the Constitution of the United States,LAW
+51,the Patron of Order,ORG
+52,the Fountain of Justice,ORG
+53,Senate,ORG
+54,the House of Representatives,ORG
+55,this season of the year,DATE
+56,Congress,ORG
+57,Europe,LOC
+58,the Supreme Dispenser,ORG
+59,National Blessings,ORG
+60,the United States,GPE
+61,daily,DATE
+62,Congress,ORG
+63,the United States,GPE
+64,French,NORP
+65,France,GPE
+66,French,NORP
+67,the United States,GPE
+68,French,NORP
+69,two,CARDINAL
+70,the United States,GPE
+71,1,CARDINAL
+72,two,CARDINAL
+73,first,ORDINAL
+74,French,NORP
+75,A few days,DATE
+76,Paris,GPE
+77,French,NORP
+78,American,NORP
+79,Paris,GPE
+80,9th,ORDINAL
+81,the Executive Directory,ORG
+82,Two days,DATE
+83,American,NORP
+84,the Executive Directory,ORG
+85,the United States,GPE
+86,American,NORP
+87,French,NORP
+88,American,NORP
+89,French,NORP
+90,the last of January,DATE
+91,Amsterdam,GPE
+92,Paris,GPE
+93,France,GPE
+94,French,NORP
+95,the United States,GPE
+96,the Executive Directory,ORG
+97,the United States,GPE
+98,the United States,GPE
+99,France,GPE
+100,Europe,LOC
+101,America,GPE
+102,American,NORP
+103,the United States,GPE
+104,France,GPE
+105,France,GPE
+106,the United States,GPE
+107,France,GPE
+108,the Executive Directory,ORG
+109,the 2nd of March,DATE
+110,1778,DATE
+111,France,GPE
+112,Europe,LOC
+113,the United States,GPE
+114,2000 miles,QUANTITY
+115,American,NORP
+116,the United States,GPE
+117,one,CARDINAL
+118,the East Indies,ORG
+119,Congress,ORG
+120,Congress,ORG
+121,the United States,GPE
+122,Congress,ORG
+123,the United States,GPE
+124,the United States,GPE
+125,the United States,GPE
+126,Europe,LOC
+127,Europe,LOC
+128,season,DATE
+129,the United States of America,GPE
+130,Europe,LOC
+131,half,CARDINAL
+132,Europe,LOC
+133,Prussia,GPE
+134,Sweden,GPE
+135,the House of Representatives,ORG
+136,American,NORP
+137,Senate,ORG
+138,the House of Representatives,ORG
+139,the United States,GPE
+140,Constitution,LAW
+141,the United States,GPE
+142,Philadelphia,GPE
+143,the National Legislature,ORG
+144,Congress,ORG
+145,Congress,ORG
+146,Constitution,LAW
+147,1794,DATE
+148,Europe,LOC
+149,the French Republic,GPE
+150,July,DATE
+151,August,DATE
+152,Holland,GPE
+153,Holland,GPE
+154,Paris,GPE
+155,a few days of the 19th of September,DATE
+156,the United States,GPE
+157,the United States,GPE
+158,Providence,GPE
+159,Congress,ORG
+160,two,CARDINAL
+161,France,GPE
+162,Europe,LOC
+163,the United States,GPE
+164,Catholic Majesty,ORG
+165,Spanish,NORP
+166,Indians,NORP
+167,the United States,GPE
+168,Spanish,NORP
+169,Indian,NORP
+170,the United States,GPE
+171,Indian,NORP
+172,the United States,GPE
+173,the United States,GPE
+174,Indian,NORP
+175,the United States,GPE
+176,5th,ORDINAL
+177,the United States,GPE
+178,Great Britain,GPE
+179,Croix,PERSON
+180,Passamaquoddy Bay,FAC
+181,1796 October,DATE
+182,two,CARDINAL
+183,Boston,GPE
+184,August,DATE
+185,Providence,GPE
+186,the State of Rhode Island,GPE
+187,June,DATE
+188,6th,ORDINAL
+189,Philadelphia,GPE
+190,May last,DATE
+191,British,NORP
+192,the United States,GPE
+193,the United States,GPE
+194,London,GPE
+195,7th,ORDINAL
+196,the British Government,ORG
+197,the United States,GPE
+198,21st,ORDINAL
+199,Spain,GPE
+200,Philadelphia,GPE
+201,Spain,GPE
+202,France,GPE
+203,The United States,GPE
+204,British,NORP
+205,6th,ORDINAL
+206,Great Britain,GPE
+207,British,NORP
+208,the United States,GPE
+209,the United States,GPE
+210,7th,ORDINAL
+211,American,NORP
+212,the French Republic,GPE
+213,Spain,GPE
+214,the United States,GPE
+215,the United States,GPE
+216,the United States,GPE
+217,the House of Representatives,ORG
+218,Constitution,LAW
+219,the year,DATE
+220,Senate,ORG
+221,the House of Representatives,ORG
+222,Europe,LOC
+223,the United States of America,GPE
+224,Wednesday,DATE
+225,the 9th day,DATE
+226,the United States,GPE
+227,States,GPE
+228,that day,DATE
+229,the Redeemer of the World,FAC
+230,American,NORP
+231,the Bestower of Every Good Gift,ORG
+232,these United States,GPE
+233,the United States of America,GPE
+234,Philadelphia,GPE
+235,this 23d day of March,DATE
+236,A. D. 1798,ORG
+237,JOHN ADAMS,PERSON
+238,State,ORG
+239,Senate,ORG
+240,the House of Representatives,ORG
+241,Divine Providence,PERSON
+242,a few years,DATE
+243,the Legislature of the Union,ORG
+244,States,GPE
+245,Congress,ORG
+246,the Supreme Being,ORG
+247,annual,DATE
+248,one,CARDINAL
+249,1st,ORDINAL
+250,the United States,GPE
+251,France,GPE
+252,the United States,GPE
+253,the French Government,ORG
+254,the United States,GPE
+255,the United States,GPE
+256,France,GPE
+257,the United States,GPE
+258,French,NORP
+259,France,GPE
+260,France,GPE
+261,January last,DATE
+262,British,NORP
+263,the French Government,EVENT
+264,France,GPE
+265,Europe,LOC
+266,France,GPE
+267,the United States,GPE
+268,France,GPE
+269,The United States,GPE
+270,France,GPE
+271,France,GPE
+272,the United States,GPE
+273,Navy,ORG
+274,the United States,GPE
+275,the National Legislature,ORG
+276,Spanish,NORP
+277,Natchez,ORG
+278,Walnut Hills,GPE
+279,the United States,GPE
+280,Mississippi,GPE
+281,the United States,GPE
+282,Spain,GPE
+283,Spanish,NORP
+284,the Southern Indians,NORP
+285,Indian,NORP
+286,Indian,NORP
+287,Indian,NORP
+288,5th,ORDINAL
+289,the United States,GPE
+290,Britannic Majesty,PERSON
+291,Croix,PERSON
+292,the 25th of October,DATE
+293,Scoodiac,ORG
+294,Passamaquoddy Bay,LOC
+295,Croix,PERSON
+296,one,CARDINAL
+297,Croix,PERSON
+298,Scoodiac,ORG
+299,Governments,ORG
+300,Croix,PERSON
+301,the Bay of Fundy,LOC
+302,the Bay of Fundy,LOC
+303,American,NORP
+304,7th,ORDINAL
+305,the United States,GPE
+306,Great Britain,GPE
+307,August,DATE
+308,year,DATE
+309,25th,ORDINAL
+310,the United States,GPE
+311,Spain,GPE
+312,France,GPE
+313,Spain,GPE
+314,the House of Representatives,ORG
+315,Legislature,ORG
+316,Senate,ORG
+317,the House of Representatives,ORG
+318,6th,ORDINAL
+319,Congress of the United States of America,ORG
+320,American,NORP
+321,Pennsylvania,GPE
+322,the United States,GPE
+323,the French Republic,GPE
+324,two,CARDINAL
+325,French,NORP
+326,Paris,GPE
+327,Senate,ORG
+328,St. Domingo,GPE
+329,Congress,ORG
+330,British,NORP
+331,Philadelphia,GPE
+332,sixth,ORDINAL
+333,Great Britain,GPE
+334,the United States,GPE
+335,Philadelphia,GPE
+336,Britannic Majesty,PERSON
+337,seventh,ORDINAL
+338,British,NORP
+339,American,NORP
+340,London,GPE
+341,His Majesty,PERSON
+342,the United States,GPE
+343,Philadelphia,GPE
+344,the United States,GPE
+345,London,GPE
+346,the United States,GPE
+347,two,CARDINAL
+348,Congress,ORG
+349,the United States,GPE
+350,the first Monday of December,DATE
+351,Philadelphia,GPE
+352,District,LOC
+353,Congress,ORG
+354,Washington,GPE
+355,the House of Representatives,ORG
+356,the United States,GPE
+357,Senate,ORG
+358,the House of Representatives,ORG
+359,every hour,TIME
+360,the United States,GPE
+361,France,GPE
+362,the United States,GPE
+363,Senate,ORG
+364,the House of Representatives,ORG
+365,Divine Providence,PERSON
+366,George Washington,PERSON
+367,"December 15, 1799",DATE
+368,THE UNITED STATES,GPE
+369,Washington,PERSON
+370,last evening,TIME
+371,10 and 11 o'clock,TIME
+372,about twenty hours,TIME
+373,Friday,DATE
+374,Saturday,DATE
+375,morning,TIME
+376,about 3 o'clock,TIME
+377,Craik,PERSON
+378,Dick,PERSON
+379,Brown,PERSON
+380,Port Tobacco,ORG
+381,Senate,ORG
+382,the United States,GPE
+383,George Washington,PERSON
+384,Senate,ORG
+385,Senate,ORG
+386,the United States,GPE
+387,George Washington,PERSON
+388,Washington,GPE
+389,Greatness,PERSON
+390,Washington,GPE
+391,SAMUEL LIVERMORE,PERSON
+392,Senate,ORG
+393,UNITED STATES,GPE
+394,"December 23, 1799",DATE
+395,Senate,ORG
+396,the days,DATE
+397,1774,DATE
+398,first,ORDINAL
+399,America,GPE
+400,the General Government,ORG
+401,Washington,GPE
+402,Providence,GPE
+403,Trajan,GPE
+404,The House of Representatives,ORG
+405,the United States,GPE
+406,House,ORG
+407,The House of Representatives,ORG
+408,Washington,GPE
+409,"December 19, 1799",DATE
+410,the House of Representatives,ORG
+411,the House of Representatives,ORG
+412,the United States,GPE
+413,Northampton,GPE
+414,Montgomery,GPE
+415,Bucks,PERSON
+416,the State of Pennsylvania,GPE
+417,the year 1799,DATE
+418,the United States,GPE
+419,John Adams,PERSON
+420,the United States of America,GPE
+421,the United States,GPE
+422,the 12th day of March,DATE
+423,the year 1799,DATE
+424,the United States,GPE
+425,the United States of America,GPE
+426,Philadelphia,GPE
+427,this 21st day,DATE
+428,twenty-fourth,DATE
+429,Senate,ORG
+430,the House of Representatives,ORG
+431,Congress,ORG
+432,Philadelphia,GPE
+433,the United States,GPE
+434,Congress,ORG
+435,first,ORDINAL
+436,the Supreme Ruler,ORG
+437,Universe,ORG
+438,the District of Columbia,GPE
+439,Constitution,LAW
+440,United States,GPE
+441,Congress,ORG
+442,Constitution,LAW
+443,the United States,GPE
+444,the King of Prussia,ORG
+445,6th,ORDINAL
+446,Great Britain,GPE
+447,the United States,GPE
+448,the United States,GPE
+449,France,GPE
+450,the First Consul,ORG
+451,3,CARDINAL
+452,Europe,LOC
+453,Navy,ORG
+454,the United States,GPE
+455,Congress,ORG
+456,the United States,GPE
+457,the National Legislature,ORG
+458,the House of Representatives,ORG
+459,the present year,DATE
+460,Congress,ORG
+461,Senate,ORG
+462,the House of Representatives,ORG
+463,one,CARDINAL
